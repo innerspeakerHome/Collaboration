@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.04/x64" 1604066757
+<REAPER_PROJECT 0.1 "6.04/x64" 1604067455
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,8 +14,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 128
-  ZOOM 9.57469219094772 854 0
+  CURSOR 127
+  ZOOM 9.57469219094772 998 0
   VZOOMEX 2 0
   USE_REC_CFG 0
   RECMODE 1
@@ -210,7 +210,7 @@
       CHANMODE 0
       GUID {E8F862E6-FAE6-4C01-88D3-CF3B4C3393F1}
       <SOURCE WAVE
-        FILE "D:\Music\_Projects\Reaper\Collaboration\Time\01-201028_1329-glued.wav"
+        FILE "stems\01-201028_1329-glued.wav"
       >
     >
     <ITEM
@@ -232,7 +232,7 @@
       CHANMODE 0
       GUID {2B9A8E15-0D2F-4E65-817C-A1767040F51F}
       <SOURCE WAVE
-        FILE "D:\Music\_Projects\Reaper\Collaboration\Time\01-201028_1329-glued.wav"
+        FILE "stems\01-201028_1329-glued.wav"
       >
     >
     <ITEM
@@ -254,7 +254,7 @@
       CHANMODE 0
       GUID {AF01F5EC-D760-4FFE-9376-BF0A24B19F00}
       <SOURCE WAVE
-        FILE "D:\Music\_Projects\Reaper\Collaboration\Time\01-201028_1329-glued.wav"
+        FILE "stems\01-201028_1329-glued.wav"
       >
     >
   >
@@ -322,7 +322,7 @@
       GUID {AD7FE9F1-27A0-4674-90BE-64C91B7E5346}
       RECPASS 5
       <SOURCE WAVE
-        FILE "D:\Music\_Projects\Reaper\Collaboration\Time\03-201028_1335.wav"
+        FILE "stems\03-201028_1335.wav"
       >
     >
     <ITEM
@@ -345,7 +345,7 @@
       GUID {2D3CF76F-7EB1-4DCF-80D1-DEFCF9C90E0E}
       RECPASS 5
       <SOURCE WAVE
-        FILE "D:\Music\_Projects\Reaper\Collaboration\Time\03-201028_1335.wav"
+        FILE "stems\03-201028_1335.wav"
       >
     >
     <ITEM
@@ -368,7 +368,7 @@
       GUID {564AE97F-2D73-478F-8E94-45D31C04FC01}
       RECPASS 5
       <SOURCE WAVE
-        FILE "D:\Music\_Projects\Reaper\Collaboration\Time\03-201028_1335.wav"
+        FILE "stems\03-201028_1335.wav"
       >
     >
     <ITEM
@@ -391,7 +391,7 @@
       GUID {E4881104-27E1-4968-A27D-140419F5BAA4}
       RECPASS 5
       <SOURCE WAVE
-        FILE "D:\Music\_Projects\Reaper\Collaboration\Time\03-201028_1335.wav"
+        FILE "stems\03-201028_1335.wav"
       >
     >
     <ITEM
@@ -414,7 +414,7 @@
       GUID {583218AF-B13B-4863-B715-440A74C09B83}
       RECPASS 5
       <SOURCE WAVE
-        FILE "D:\Music\_Projects\Reaper\Collaboration\Time\03-201028_1335.wav"
+        FILE "stems\03-201028_1335.wav"
       >
     >
     <ITEM
@@ -437,7 +437,7 @@
       GUID {ADED34AC-048C-49F2-9788-5BE0314F98B9}
       RECPASS 5
       <SOURCE WAVE
-        FILE "D:\Music\_Projects\Reaper\Collaboration\Time\03-201028_1335.wav"
+        FILE "stems\03-201028_1335.wav"
       >
     >
     <ITEM
@@ -460,7 +460,7 @@
       GUID {15FCF0A2-A046-4A22-ACEE-628511C90ED7}
       RECPASS 5
       <SOURCE WAVE
-        FILE "D:\Music\_Projects\Reaper\Collaboration\Time\03-201028_1335.wav"
+        FILE "stems\03-201028_1335.wav"
       >
     >
   >
@@ -477,7 +477,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 1 0
@@ -554,7 +554,7 @@
       CHANMODE 0
       GUID {0594B59E-96FF-4FEF-86A9-27D8E84639D4}
       <SOURCE WAVE
-        FILE "D:\Music\_Projects\Reaper\Collaboration\Time\04-201028_1354-glued-02.wav"
+        FILE "stems\04-201028_1354-glued-02.wav"
       >
     >
     <ITEM
@@ -576,7 +576,7 @@
       CHANMODE 0
       GUID {35D26929-004D-4696-98F6-82C3B84DB907}
       <SOURCE WAVE
-        FILE "D:\Music\_Projects\Reaper\Collaboration\Time\04-201028_1354-glued-02.wav"
+        FILE "stems\04-201028_1354-glued-02.wav"
       >
     >
     <ITEM
@@ -598,7 +598,7 @@
       CHANMODE 0
       GUID {677D36F7-10A8-4BB1-9274-36C1859DCB0F}
       <SOURCE WAVE
-        FILE "D:\Music\_Projects\Reaper\Collaboration\Time\04-201028_1354-glued-02.wav"
+        FILE "stems\04-201028_1354-glued-02.wav"
       >
     >
     <ITEM
@@ -620,7 +620,7 @@
       CHANMODE 0
       GUID {F9B3F6CA-7637-48DA-985D-F0CF80AE4D23}
       <SOURCE WAVE
-        FILE "D:\Music\_Projects\Reaper\Collaboration\Time\04-201028_1354-glued-02.wav"
+        FILE "stems\04-201028_1354-glued-02.wav"
       >
     >
     <ITEM
@@ -642,7 +642,7 @@
       CHANMODE 0
       GUID {713BA177-A4BC-4651-A1E7-32BC52170A3F}
       <SOURCE WAVE
-        FILE "D:\Music\_Projects\Reaper\Collaboration\Time\04-201028_1354-glued-02.wav"
+        FILE "stems\04-201028_1354-glued-02.wav"
       >
     >
     <ITEM
@@ -664,7 +664,7 @@
       CHANMODE 0
       GUID {DB121D3D-4E2A-4922-ACEC-EE7964C71638}
       <SOURCE WAVE
-        FILE "D:\Music\_Projects\Reaper\Collaboration\Time\04-201028_1354-glued-02.wav"
+        FILE "stems\04-201028_1354-glued-02.wav"
       >
     >
     <ITEM
@@ -686,7 +686,7 @@
       CHANMODE 0
       GUID {48243609-8853-470E-B351-D5BAED880774}
       <SOURCE WAVE
-        FILE "D:\Music\_Projects\Reaper\Collaboration\Time\04-201028_1354-glued-02.wav"
+        FILE "stems\04-201028_1354-glued-02.wav"
       >
     >
     <ITEM
@@ -708,7 +708,7 @@
       CHANMODE 0
       GUID {4F7B9148-D9A7-42E5-A5A8-D6665E952FA4}
       <SOURCE WAVE
-        FILE "D:\Music\_Projects\Reaper\Collaboration\Time\04-201028_1354-glued-02.wav"
+        FILE "stems\04-201028_1354-glued-02.wav"
       >
     >
     <ITEM
@@ -730,7 +730,7 @@
       CHANMODE 0
       GUID {D1E33368-BA1B-4D49-BE0E-4DC7D58E3DF7}
       <SOURCE WAVE
-        FILE "D:\Music\_Projects\Reaper\Collaboration\Time\04-201028_1354-glued-02.wav"
+        FILE "stems\04-201028_1354-glued-02.wav"
       >
     >
     <ITEM
@@ -752,7 +752,7 @@
       CHANMODE 0
       GUID {76A259DA-E636-4844-AD07-07EBF6D29AAB}
       <SOURCE WAVE
-        FILE "D:\Music\_Projects\Reaper\Collaboration\Time\04-201028_1354-glued-02.wav"
+        FILE "stems\04-201028_1354-glued-02.wav"
       >
     >
     <ITEM
@@ -774,7 +774,7 @@
       CHANMODE 0
       GUID {CC54A63F-1410-4D0F-BB26-C7A06CBD73FA}
       <SOURCE WAVE
-        FILE "D:\Music\_Projects\Reaper\Collaboration\Time\04-201028_1354-glued-02.wav"
+        FILE "stems\04-201028_1354-glued-02.wav"
       >
     >
     <ITEM
@@ -796,7 +796,7 @@
       CHANMODE 0
       GUID {CAD0ECAC-B2B1-4407-A1B8-784353BB2477}
       <SOURCE WAVE
-        FILE "D:\Music\_Projects\Reaper\Collaboration\Time\04-201028_1354-glued-02.wav"
+        FILE "stems\04-201028_1354-glued-02.wav"
       >
     >
     <ITEM
@@ -818,7 +818,7 @@
       CHANMODE 0
       GUID {C018C352-96FE-49D1-BDCC-9D614861555B}
       <SOURCE WAVE
-        FILE "D:\Music\_Projects\Reaper\Collaboration\Time\04-201028_1354-glued-02.wav"
+        FILE "stems\04-201028_1354-glued-02.wav"
       >
     >
     <ITEM
@@ -840,7 +840,7 @@
       CHANMODE 0
       GUID {856C49E9-7ABE-4519-BCF5-82ECB6AEEB34}
       <SOURCE WAVE
-        FILE "D:\Music\_Projects\Reaper\Collaboration\Time\04-201028_1354-glued-02.wav"
+        FILE "stems\04-201028_1354-glued-02.wav"
       >
     >
     <ITEM
@@ -862,7 +862,7 @@
       CHANMODE 0
       GUID {FF75B836-269F-46F7-A066-58E91C82FC4D}
       <SOURCE WAVE
-        FILE "D:\Music\_Projects\Reaper\Collaboration\Time\04-201028_1354-glued-02.wav"
+        FILE "stems\04-201028_1354-glued-02.wav"
       >
     >
     <ITEM
@@ -884,7 +884,7 @@
       CHANMODE 0
       GUID {08686855-6150-4871-AAA0-B2F3F1BB5E9D}
       <SOURCE WAVE
-        FILE "D:\Music\_Projects\Reaper\Collaboration\Time\04-201028_1354-glued-02.wav"
+        FILE "stems\04-201028_1354-glued-02.wav"
       >
     >
     <ITEM
@@ -896,7 +896,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {0763A392-3477-4A40-8306-01C4D3B4D2B9}
       IID 59
       NAME 04-201028_1354-glued-02.wav
@@ -906,7 +906,7 @@
       CHANMODE 0
       GUID {D1796C7D-949C-4BA6-81E7-B4DA2D15C31E}
       <SOURCE WAVE
-        FILE "D:\Music\_Projects\Reaper\Collaboration\Time\04-201028_1354-glued-02.wav"
+        FILE "stems\04-201028_1354-glued-02.wav"
       >
     >
   >
@@ -969,7 +969,7 @@
       GUID {414B5D29-0AED-4A91-93C4-71D6C94FE24D}
       RECPASS 9
       <SOURCE WAVE
-        FILE "D:\Music\_Projects\Reaper\Collaboration\Time\04-Bass1-201029_1624.wav"
+        FILE "stems\04-Bass1-201029_1624.wav"
       >
     >
     <ITEM
@@ -992,7 +992,7 @@
       GUID {41DFEAF8-D888-4FBD-AC27-DAAC6E6DA65C}
       RECPASS 9
       <SOURCE WAVE
-        FILE "D:\Music\_Projects\Reaper\Collaboration\Time\04-Bass1-201029_1624.wav"
+        FILE "stems\04-Bass1-201029_1624.wav"
       >
     >
     <ITEM
@@ -1015,7 +1015,7 @@
       GUID {491EACD9-1AFB-4C6F-B783-FD7614ED7684}
       RECPASS 9
       <SOURCE WAVE
-        FILE "D:\Music\_Projects\Reaper\Collaboration\Time\04-Bass1-201029_1624.wav"
+        FILE "stems\04-Bass1-201029_1624.wav"
       >
     >
     <ITEM
@@ -1038,7 +1038,7 @@
       GUID {331CCEED-BEAC-46C7-9EB5-F80EE9C5CA92}
       RECPASS 9
       <SOURCE WAVE
-        FILE "D:\Music\_Projects\Reaper\Collaboration\Time\04-Bass1-201029_1624.wav"
+        FILE "stems\04-Bass1-201029_1624.wav"
       >
     >
   >
@@ -1080,7 +1080,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 0
+    SEL 1
     REC 1 5088 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 1 0
@@ -1102,7 +1102,7 @@
     >
     <FXCHAIN
       WNDRECT 3098 179 506 258
-      SHOW 0
+      SHOW 2
       LASTSEL 1
       DOCKED 0
       BYPASS 0 0 0
@@ -1554,7 +1554,7 @@
     >
     <FXCHAIN
       WNDRECT 3098 179 506 258
-      SHOW 0
+      SHOW 2
       LASTSEL 1
       DOCKED 0
       BYPASS 0 0 0
@@ -2106,7 +2106,7 @@
       CHANMODE 0
       GUID {A2BEEA11-A7F0-4F14-B369-C94206ACAA15}
       <SOURCE WAVE
-        FILE "D:\Music\_Projects\Reaper\Collaboration\Time\pop-kit-quick-groove.wav"
+        FILE "stems\pop-kit-quick-groove.wav"
       >
     >
     <ITEM
@@ -2128,7 +2128,7 @@
       CHANMODE 0
       GUID {88A6E381-8326-44FB-959A-045335FE02BE}
       <SOURCE WAVE
-        FILE "D:\Music\_Projects\Reaper\Collaboration\Time\pop-kit-quick-groove.wav"
+        FILE "stems\pop-kit-quick-groove.wav"
       >
     >
   >
