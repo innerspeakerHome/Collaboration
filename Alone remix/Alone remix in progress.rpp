@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.15/x64" 1607266776
+<REAPER_PROJECT 0.1 "6.15/x64" 1607281931
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,9 +14,9 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 396.5
-  ZOOM 218.02417087542531 85569 0
-  VZOOMEX 6 216
+  CURSOR 440
+  ZOOM 2.56130779473217 0 0
+  VZOOMEX 6 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -1275,28 +1275,6 @@
         FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-007-sequencer-Group-008.wav"
       >
     >
-    <ITEM
-      POSITION 227.84970303822774
-      SNAPOFFS 0
-      LENGTH 0.00001
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {1CE0BA09-EC82-469A-960E-37E939C96DAE}
-      IID 46
-      NAME "alone mix d ALT-007-sequencer-Group-008.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 152
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {EE8EECD2-8E80-4008-A269-CE4FE4D54E58}
-      <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-007-sequencer-Group-008.wav"
-      >
-    >
   >
   <TRACK {EDD324F8-A227-409B-8F0D-8D239F189705}
     NAME "alone mix d ALT-008-bassguitar-Group-009"
@@ -1637,7 +1615,7 @@
       LOOP 1
       ALLTAKES 0
       FADEIN 1.1 0.01 0.008973 1 1 0
-      FADEOUT 1.1 0.01 0.048045 1 1 0
+      FADEOUT 1.1 0.01 0.199848 1 1 0
       MUTE 0 0
       SEL 0
       IGUID {D37F2A0C-F019-4DDC-AEDA-C85066A6CFEE}
@@ -1687,28 +1665,6 @@
         FLOATPOS 0 0 0 0
         FXID {E9BD5560-81FA-4F02-8447-28192E67C1E1}
         WAK 0 0
-      >
-    >
-    <ITEM
-      POSITION 494.5
-      SNAPOFFS 0
-      LENGTH 9.5
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {8CE4D0D0-33C7-4CCC-92F6-C75F86016838}
-      IID 251
-      NAME "alone mix d ALT-008-bassguitar-Group-009.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 127.91990833448082
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {AE6F6662-DB4C-4C0D-A0CF-28F2A426BB28}
-      <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-008-bassguitar-Group-009.wav"
       >
     >
   >
