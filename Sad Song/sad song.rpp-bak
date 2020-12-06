@@ -1,0 +1,580 @@
+<REAPER_PROJECT 0.1 "6.15/x64" 1604529478
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 2
+  ZOOM 36.68623525813721 2722 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 380 368
+  SELECTION2 380 368
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 -1 -1 -1 0 0 0 -1 -1 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1.06994312631795 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {20FA44AE-313A-44E5-8F4B-226D5DA09B70}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {742F2C34-950B-43F7-BB72-B64209633A0B}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {01C33DF3-449F-4087-9DB4-C93C9A8DEADB}
+    NAME "sad song piano"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {01C33DF3-449F-4087-9DB4-C93C9A8DEADB}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 123.15736961451248
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2A7B057D-6834-450D-A0E3-643589D5198B}
+      IID 3
+      NAME "sad song piano-2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2AD906E1-7A9D-4E06-A886-6A81DC5005DA}
+      <SOURCE WAVE
+        FILE "ExportForReaper\sad song piano-2.wav"
+      >
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 27.2387074829932
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6A01CABA-44E1-492F-ACB4-810EFD58D323}
+      IID 1
+      NAME "sad song piano.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E8080B8A-4045-435A-A56D-B8AFE247A8CE}
+      <SOURCE WAVE
+        FILE "ExportForReaper\sad song piano.wav"
+      >
+    >
+  >
+  <TRACK {7651132F-6986-4699-8BD2-330212AAECE6}
+    NAME "sad song piano2"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7651132F-6986-4699-8BD2-330212AAECE6}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 205.54714285714286
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {36D4712F-8D48-4279-9701-8D131C83114E}
+      IID 4
+      NAME "sad song piano-3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {577C5C6B-CD57-4071-923B-F02BC9454CAD}
+      <SOURCE WAVE
+        FILE "ExportForReaper\sad song piano-3.wav"
+      >
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 123.14126984126985
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8A00540F-D6DE-4A8F-A50B-9E2DB65FE98A}
+      IID 2
+      NAME "sad song piano2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FA5F9904-D16F-4EF2-A406-0A1EF0819DFC}
+      <SOURCE WAVE
+        FILE "ExportForReaper\sad song piano2.wav"
+      >
+    >
+  >
+  <TRACK {DAB54020-C9AB-4882-AFD7-C94B8E92BC5C}
+    NAME "sad song synth"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.75333899751391 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {DAB54020-C9AB-4882-AFD7-C94B8E92BC5C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 219.39047619047619
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8C26A8CC-4979-4BD6-A752-FFA90CA8F573}
+      IID 6
+      NAME "sad synth 4.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DBB9A0E4-C8C4-4B9E-95B2-90BF8424839A}
+      <SOURCE WAVE
+        FILE "ExportForReaper\sad synth 4.wav"
+      >
+    >
+  >
+  <TRACK {5BD7DA69-88AA-41C0-9580-C04794B2C61E}
+    NAME "sad song opening beat"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5BD7DA69-88AA-41C0-9580-C04794B2C61E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 27.2387074829932
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7F7D45A0-DF5B-46FD-A630-93C6CD6C9BB3}
+      IID 8
+      NAME "sad song drum basis.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {211FB2A8-4AEA-4508-905D-EE4BB5C80066}
+      <SOURCE WAVE
+        FILE "ExportForReaper\sad song drum basis.wav"
+      >
+    >
+  >
+  <TRACK {235B0274-AEED-4DE0-AB25-D59A2B378C72}
+    NAME "sad drum loop"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.64382266579432 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {235B0274-AEED-4DE0-AB25-D59A2B378C72}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 191.83285714285714
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4F136C55-958D-4666-9CEC-1810F8972F69}
+      IID 12
+      NAME "sad song extra drums-3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EA36716D-F783-4C17-B25A-176701261DCB}
+      <SOURCE WAVE
+        FILE "ExportForReaper\sad song extra drums-3.wav"
+      >
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 150.68956916099771
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {169F4E8A-38EA-4DC4-84FE-B593C116811A}
+      IID 13
+      NAME "sad song extra drums-4.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B577787A-5910-4429-92BD-6F3FF426F3CF}
+      <SOURCE WAVE
+        FILE "ExportForReaper\sad song extra drums-4.wav"
+      >
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 123.29208616780046
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {64B1F49E-B30E-4FE4-9EAB-3F1544436BBE}
+      IID 11
+      NAME "sad song extra drums-2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F9D6A26A-CFED-4E6D-BABD-7776D47E34BD}
+      <SOURCE WAVE
+        FILE "ExportForReaper\sad song extra drums-2.wav"
+      >
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 82.12947845804989
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B18A9E6F-1564-46ED-9C5C-A980EA730C4E}
+      IID 10
+      NAME "sad song extra drums.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1DBE4B44-1EF2-433E-92A2-02CA3F4B6750}
+      <SOURCE WAVE
+        FILE "ExportForReaper\sad song extra drums.wav"
+      >
+    >
+  >
+  <TRACK {BE1CFF20-1A42-4514-B712-206824F1B3FC}
+    NAME "sad song xylophone"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {BE1CFF20-1A42-4514-B712-206824F1B3FC}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 21 49 981 624
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 205.54546485260772
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {B3A2FF47-9A07-4A4C-99BE-7A7D2D94F576}
+      IID 7
+      NAME punchy-pluck-140.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {05CE686B-448B-424A-96A0-BE26AE50D15B}
+      <SOURCE WAVE
+        FILE "ExportForReaper\punchy-pluck-140.wav"
+      >
+    >
+  >
+  <TRACK {197E3D06-37E7-4DA1-ADA0-E26CFA165A6C}
+    NAME "sad song extra drums"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {197E3D06-37E7-4DA1-ADA0-E26CFA165A6C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 95.96918367346939
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1C45AB1A-4876-4DDC-8448-E948451873E2}
+      IID 9
+      NAME "sad song drums 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {39C05AE2-E06A-489A-9432-8FDDF6CD1469}
+      <SOURCE WAVE
+        FILE "ExportForReaper\sad song drums 3.wav"
+      >
+    >
+  >
+  <TRACK {B9C1993A-5FFD-4944-AB9C-8B032AFB06DE}
+    NAME "sad song new vox (online-audio-converter.com)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1.77138872423951 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B9C1993A-5FFD-4944-AB9C-8B032AFB06DE}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 2.26242893052348
+      SNAPOFFS 0
+      LENGTH 209.88922902494329
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {94816EDC-9442-452A-9C61-1FF38192F6AB}
+      IID 22
+      NAME "sad song new vox (online-audio-converter.com).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9747A70B-B436-4208-92BA-3EE65B736756}
+      <SOURCE MP3
+        FILE "sad song new vox (online-audio-converter.com).mp3" 1
+      >
+    >
+  >
+>
