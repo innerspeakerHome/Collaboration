@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.15/x64" 1607208698
+<REAPER_PROJECT 0.1 "6.15/x64" 1607266730
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,9 +14,9 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 283
-  ZOOM 19.9182321215036 4533 0
-  VZOOMEX 6 1660
+  CURSOR 396.5
+  ZOOM 218.02417087542531 85569 0
+  VZOOMEX 6 239
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -55,8 +55,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 236 236
-  SELECTION2 236 236
+  SELECTION 395.5 395.5
+  SELECTION2 395.5 395.5
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -128,7 +128,7 @@
       CHANMODE 0
       GUID {E958CF72-0BB1-401E-BC85-B842AA03278D}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 1.mp3" 1
+        FILE "stems\Alone back vox 1.mp3" 1
       >
     >
   >
@@ -429,7 +429,7 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
+    VOLPAN 1.88829815772236 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -467,22 +467,7 @@
       CHANMODE 0
       GUID {6F193AE0-F23A-433E-8AA0-95BA8D99F553}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 2.mp3" 1
-      >
-      <TAKEFX
-        WNDRECT 21 49 962 525
-        SHOW 0
-        LASTSEL 0
-        DOCKED 0
-        BYPASS 0 0 0
-        <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 0 "" 1920361016<56535472766238726561766572626174> ""
-          OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA
-          776t3g3wrd7vOzU/7zs1P1Djbj8AAAA/AACAPwAAAAAAAIA/AAAAAA==
-          AAAQAAAA
-        >
-        FLOATPOS 0 0 0 0
-        FXID {10C5ECE9-DF66-47C7-9B83-EB5633B8D333}
-        WAK 0 0
+        FILE "stems\Alone back vox 2.mp3" 1
       >
     >
     <ITEM
@@ -504,22 +489,7 @@
       CHANMODE 0
       GUID {E5E4804A-1DCC-433F-BC9B-F3EF41876B91}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 2.mp3" 1
-      >
-      <TAKEFX
-        WNDRECT 21 49 962 525
-        SHOW 0
-        LASTSEL 0
-        DOCKED 0
-        BYPASS 0 0 0
-        <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 0 "" 1920361016<56535472766238726561766572626174> ""
-          OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA
-          776t3g3wrd7vOzU/7zs1P99rbD8AAAA/AACAPwAAAAAAAIA/AAAAAA==
-          AAAQAAAA
-        >
-        FLOATPOS 0 0 0 0
-        FXID {77738267-11E3-493F-8B35-D738A92D9D0D}
-        WAK 0 0
+        FILE "stems\Alone back vox 2.mp3" 1
       >
     >
     <ITEM
@@ -541,22 +511,7 @@
       CHANMODE 0
       GUID {402E5181-B1F5-4A1E-9577-3152138452CF}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 2.mp3" 1
-      >
-      <TAKEFX
-        WNDRECT 21 49 962 525
-        SHOW 0
-        LASTSEL 0
-        DOCKED 0
-        BYPASS 0 0 0
-        <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 0 "" 1920361016<56535472766238726561766572626174> ""
-          OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA
-          776t3g3wrd7vOzU/7zs1P99rbD8AAAA/AACAPwAAAAAAAIA/AAAAAA==
-          AAAQAAAA
-        >
-        FLOATPOS 0 0 0 0
-        FXID {DDA5270B-D6D8-4B4A-811C-488C5AB7120E}
-        WAK 0 0
+        FILE "stems\Alone back vox 2.mp3" 1
       >
     >
     <ITEM
@@ -578,22 +533,7 @@
       CHANMODE 0
       GUID {920056CD-D8B0-448D-BB45-4F636AB7E3E7}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 2.mp3" 1
-      >
-      <TAKEFX
-        WNDRECT 21 49 962 525
-        SHOW 0
-        LASTSEL 0
-        DOCKED 0
-        BYPASS 0 0 0
-        <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 0 "" 1920361016<56535472766238726561766572626174> ""
-          OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA
-          776t3g3wrd7vOzU/7zs1P+bpbD8AAAA/AACAPwAAAAAAAIA/AAAAAA==
-          AAAQAAAA
-        >
-        FLOATPOS 0 0 0 0
-        FXID {422A7F11-39A6-474A-8A81-13256EC60AB9}
-        WAK 0 0
+        FILE "stems\Alone back vox 2.mp3" 1
       >
     >
     <ITEM
@@ -615,22 +555,7 @@
       CHANMODE 0
       GUID {D591BAC0-2281-4844-9CC2-9D7EB54696AB}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 2.mp3" 1
-      >
-      <TAKEFX
-        WNDRECT 21 49 962 525
-        SHOW 0
-        LASTSEL 0
-        DOCKED 0
-        BYPASS 0 0 0
-        <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 0 "" 1920361016<56535472766238726561766572626174> ""
-          OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA
-          776t3g3wrd7vOzU/7zs1P1Djbj8AAAA/AACAPwAAAAAAAIA/AAAAAA==
-          AAAQAAAA
-        >
-        FLOATPOS 0 0 0 0
-        FXID {EAB48C76-2206-4C75-B133-B9B4C45FB2D9}
-        WAK 0 0
+        FILE "stems\Alone back vox 2.mp3" 1
       >
     >
     <ITEM
@@ -652,22 +577,7 @@
       CHANMODE 0
       GUID {2EAE85CA-19EF-4E71-85FD-E113975C64AE}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 2.mp3" 1
-      >
-      <TAKEFX
-        WNDRECT 21 49 962 525
-        SHOW 0
-        LASTSEL 0
-        DOCKED 0
-        BYPASS 0 0 0
-        <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 0 "" 1920361016<56535472766238726561766572626174> ""
-          OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA
-          776t3g3wrd7vOzU/7zs1P1Djbj8AAAA/AACAPwAAAAAAAIA/AAAAAA==
-          AAAQAAAA
-        >
-        FLOATPOS 0 0 0 0
-        FXID {8B5BC2CB-24CF-477B-9692-5DB2732A96BD}
-        WAK 0 0
+        FILE "stems\Alone back vox 2.mp3" 1
       >
     >
     <ITEM
@@ -689,7 +599,7 @@
       CHANMODE 0
       GUID {C04A254B-28A2-48E1-A341-F64242470DCE}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 2.mp3" 1
+        FILE "stems\Alone back vox 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 53 81 962 525
@@ -726,7 +636,7 @@
       CHANMODE 0
       GUID {41D97F2D-33BF-4D8C-9296-8C0F12BC727A}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 2.mp3" 1
+        FILE "stems\Alone back vox 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 21 49 962 525
@@ -763,7 +673,7 @@
       CHANMODE 0
       GUID {867B2543-9202-46F6-8A9E-1C9CDA67231A}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 2.mp3" 1
+        FILE "stems\Alone back vox 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 21 49 962 525
@@ -800,7 +710,7 @@
       CHANMODE 0
       GUID {F3CD807E-EF2A-49E3-99CD-E73E5BB81FE0}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 2.mp3" 1
+        FILE "stems\Alone back vox 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 21 49 962 525
@@ -837,7 +747,7 @@
       CHANMODE 0
       GUID {E48E6777-DBEB-4DA7-9C53-4B4F187E4F70}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 2.mp3" 1
+        FILE "stems\Alone back vox 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 21 49 962 525
@@ -874,7 +784,7 @@
       CHANMODE 0
       GUID {2C89343A-924E-4E2B-AA19-F95B87A8E9F2}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 2.mp3" 1
+        FILE "stems\Alone back vox 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 21 49 962 525
@@ -911,7 +821,7 @@
       CHANMODE 0
       GUID {354A4AA8-304F-45C9-B4A8-FD8631FB48FC}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 2.mp3" 1
+        FILE "stems\Alone back vox 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 21 49 962 525
@@ -948,7 +858,7 @@
       CHANMODE 0
       GUID {0E390E7A-B4AA-4F7A-BFA6-691DC60D7F7B}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 2.mp3" 1
+        FILE "stems\Alone back vox 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 21 49 962 525
@@ -985,7 +895,7 @@
       CHANMODE 0
       GUID {3E42731A-82BB-4C7C-A266-A2E444EA6E85}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 2.mp3" 1
+        FILE "stems\Alone back vox 2.mp3" 1
       >
     >
   >
@@ -1002,7 +912,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
     FREEMODE 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 -1 0
@@ -1058,7 +968,7 @@
       >
     >
     <ITEM
-      POSITION 116.10643253040811
+      POSITION 116.12932592903559
       SNAPOFFS 0
       LENGTH 0.5
       LOOP 1
@@ -1394,7 +1304,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 1 0 0
+    MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
@@ -1413,9 +1323,9 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 115.83941020976928
+      POSITION 116.01465974363229
       SNAPOFFS 0
-      LENGTH 48.1429755766446
+      LENGTH 47.9823857864139
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -1426,7 +1336,7 @@
       IID 32
       NAME "alone mix d ALT-008-bassguitar-Group-009.wav"
       VOLPAN 1 0 1 -1
-      SOFFS 16
+      SOFFS 16.16058979023072
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {B125B43C-9B92-4DA8-AFD3-99EA59CBAC23}
@@ -1457,9 +1367,9 @@
       >
     >
     <ITEM
-      POSITION 252.08009166551918
+      POSITION 267.79666543777546
       SNAPOFFS 0
-      LENGTH 103.91990833448082
+      LENGTH 48.20333456222454
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -1479,45 +1389,67 @@
       >
     >
     <ITEM
-      POSITION 356
+      POSITION 316
       SNAPOFFS 0
-      LENGTH 2
+      LENGTH 16
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
       SEL 0
-      IGUID {8AE16255-5AF3-47D3-BC2A-7D1775DB0907}
-      IID 252
+      IGUID {0B4AB15D-6C5D-4ED8-BB45-D8D999AF39F8}
+      IID 350
       NAME "alone mix d ALT-008-bassguitar-Group-009.wav"
       VOLPAN 1 0 1 -1
-      SOFFS 119.91990833448082
+      SOFFS 64.20333456222454
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {37992916-0768-42D8-A3F8-5BC1410EC9FE}
+      GUID {D7989FB8-D632-49B5-B051-A9088D52FA8B}
       <SOURCE WAVE
         FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-008-bassguitar-Group-009.wav"
       >
     >
     <ITEM
-      POSITION 358
+      POSITION 332
       SNAPOFFS 0
-      LENGTH 4
+      LENGTH 16
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
       SEL 0
-      IGUID {CF3E5042-DA02-4B01-BBAD-00124C66BF14}
-      IID 255
+      IGUID {AEEC2D61-0097-429B-901F-619147311DBD}
+      IID 348
       NAME "alone mix d ALT-008-bassguitar-Group-009.wav"
       VOLPAN 1 0 1 -1
-      SOFFS 121.91990833448082
+      SOFFS 64.20333456222454
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {7F9BA57D-58E6-42E9-9C9E-A4859C893FED}
+      GUID {56451605-B986-4F4D-B6F3-C07EAC7483E1}
+      <SOURCE WAVE
+        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-008-bassguitar-Group-009.wav"
+      >
+    >
+    <ITEM
+      POSITION 348
+      SNAPOFFS 0
+      LENGTH 16
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D2713CCC-6F92-4CA7-BE86-95593FB0AC86}
+      IID 351
+      NAME "alone mix d ALT-008-bassguitar-Group-009.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 80.20333456222454
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {78C8776B-5EEF-4B36-9FCD-E3F3D2D14710}
       <SOURCE WAVE
         FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-008-bassguitar-Group-009.wav"
       >
@@ -1525,11 +1457,11 @@
     <ITEM
       POSITION 362
       SNAPOFFS 0
-      LENGTH 4
+      LENGTH 0.00001
       LOOP 1
       ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
       MUTE 0 0
       SEL 0
       IGUID {2DB9069C-4B31-41CC-8406-1C4885D99454}
@@ -1545,51 +1477,220 @@
       >
     >
     <ITEM
-      POSITION 366
+      POSITION 364
+      SNAPOFFS 0
+      LENGTH 7.71657377225631
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5E928FB3-B3EE-4D3E-9EF8-443764372327}
+      IID 356
+      NAME "alone mix d ALT-008-bassguitar-Group-009.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 112.20333456222454
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D3986BD4-6B5F-4E0B-85FD-FD1281F4496C}
+      <SOURCE WAVE
+        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-008-bassguitar-Group-009.wav"
+      >
+    >
+    <ITEM
+      POSITION 372
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8AE16255-5AF3-47D3-BC2A-7D1775DB0907}
+      IID 252
+      NAME "alone mix d ALT-008-bassguitar-Group-009.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 120.13962421314781
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {37992916-0768-42D8-A3F8-5BC1410EC9FE}
+      <SOURCE WAVE
+        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-008-bassguitar-Group-009.wav"
+      >
+    >
+    <ITEM
+      POSITION 380
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1.1 0.01 7.959547 1 1 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D0DCB74E-CBCE-4F02-B3EA-41E4E74253FE}
+      IID 252
+      NAME "alone mix d ALT-008-bassguitar-Group-009.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 120.13962421314781
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {71CBE7DF-B460-408C-BBF2-B7933A05BC16}
+      <SOURCE WAVE
+        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-008-bassguitar-Group-009.wav"
+      >
+    >
+    <ITEM
+      POSITION 380.04045272950833
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 7.959547 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A8E5A699-FE5C-43DB-B0CC-3C3B07656793}
+      IID 352
+      NAME "alone mix d ALT-008-bassguitar-Group-009.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 104.20333456222454
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5D2539B1-0A7E-43B8-9A27-92298722210C}
+      <SOURCE WAVE
+        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-008-bassguitar-Group-009.wav"
+      >
+    >
+    <ITEM
+      POSITION 388.17340201918626
+      SNAPOFFS 0
+      LENGTH 3.88927630835883
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1.1 0.01 3.858014 1 1 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F08D7AA2-5474-47C1-BFC7-7AE6C86BAD85}
+      IID 362
+      NAME "alone mix d ALT-008-bassguitar-Group-009.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 112.20333456222454
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B6E70ABB-DE17-4055-AFB8-D2B21C3A35AD}
+      <SOURCE WAVE
+        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-008-bassguitar-Group-009.wav"
+      >
+    >
+    <ITEM
+      POSITION 388.20466400654482
+      SNAPOFFS 0
+      LENGTH 3.88927630835877
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 3.858014 1 1 0
+      FADEOUT 1.1 0.01 0.008973 1 1 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3F6EACAF-5586-4345-B1E1-EFDF3ECE94D2}
+      IID 362
+      NAME "alone mix d ALT-008-bassguitar-Group-009.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 112.20333456222454
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6C119886-D5BB-4AF9-B2D5-3E090DFF8BD0}
+      <SOURCE WAVE
+        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-008-bassguitar-Group-009.wav"
+      >
+    >
+    <ITEM
+      POSITION 392.06267832754509
       SNAPOFFS 0
       LENGTH 4
       LOOP 1
       ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
+      FADEIN 1.1 0.01 0.031262 1 1 0
+      FADEOUT 1.1 0.01 0.262526 1 1 0
       MUTE 0 0
       SEL 0
-      IGUID {F5B96305-C6F7-4C10-836C-ADC4221E6E28}
-      IID 255
+      IGUID {A15A8619-15B8-4E8C-A921-B8FA2CBB90EF}
+      IID 363
       NAME "alone mix d ALT-008-bassguitar-Group-009.wav"
       VOLPAN 1 0 1 -1
-      SOFFS 121.91990833448082
+      SOFFS 116.02993254303829
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {8622FBE8-C780-4C51-9791-534AE44505BE}
+      GUID {6324FDED-C411-41A1-8F2D-C2F521141888}
       <SOURCE WAVE
         FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-008-bassguitar-Group-009.wav"
       >
     >
     <ITEM
-      POSITION 370
+      POSITION 392.08496772059215
       SNAPOFFS 0
-      LENGTH 2.22011121839364
+      LENGTH 3.91503227940785
       LOOP 1
       ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
+      FADEIN 1.1 0.01 0.008973 1 1 0
+      FADEOUT 1.1 0.01 0.048045 1 1 0
       MUTE 0 0
       SEL 0
-      IGUID {0B6F5E23-0088-41C2-94CB-54E3059356F6}
-      IID 255
+      IGUID {D37F2A0C-F019-4DDC-AEDA-C85066A6CFEE}
+      IID 363
       NAME "alone mix d ALT-008-bassguitar-Group-009.wav"
       VOLPAN 1 0 1 -1
-      SOFFS 121.91990833448082
+      SOFFS 116.02993254303829
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {CCB3343D-9ACC-4DAA-9C8C-B3CD1023353F}
+      GUID {AB48FFEB-6B06-46D9-BF65-7821005DF97A}
       <SOURCE WAVE
         FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-008-bassguitar-Group-009.wav"
       >
     >
     <ITEM
-      POSITION 495
+      POSITION 395.80015212765881
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.199848 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {04E134EE-A1BB-4A32-80E1-F5A81B02258E}
+      IID 367
+      NAME "alone mix d ALT-008-bassguitar-Group-009.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 119.44496482244614
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8B4E4304-9FFF-4162-903B-05B2DD024396}
+      <SOURCE WAVE
+        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-008-bassguitar-Group-009.wav"
+      >
+      <TAKEFX
+        WNDRECT 21 49 962 525
+        SHOW 0
+        LASTSEL 0
+        DOCKED 0
+        BYPASS 0 0 0
+        <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 0 "" 1920361016<56535472766238726561766572626174> ""
+          OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA
+          776t3g3wrd7vOzU/7zs1PwAAgD8AAIA/AACAPwAAAAAAAIA/AAAAAA==
+          AAAQAAAA
+        >
+        FLOATPOS 0 0 0 0
+        FXID {E9BD5560-81FA-4F02-8447-28192E67C1E1}
+        WAK 0 0
+      >
+    >
+    <ITEM
+      POSITION 494.5
       SNAPOFFS 0
       LENGTH 9.5
       LOOP 1
@@ -1858,7 +1959,7 @@
       CHANMODE 0
       GUID {C5E0ECF9-BCDC-44ED-BC18-A0F66F7279E7}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 3.mp3" 1
+        FILE "stems\Alone back vox 3.mp3" 1
       >
     >
     <ITEM
@@ -1880,7 +1981,7 @@
       CHANMODE 0
       GUID {B8DC8703-C813-4526-BBE2-E5CC2B509459}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 3.mp3" 1
+        FILE "stems\Alone back vox 3.mp3" 1
       >
     >
     <ITEM
@@ -2050,7 +2151,7 @@
       CHANMODE 0
       GUID {CB26E5EA-D992-40D7-A388-14F472263105}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 3.mp3" 1
+        FILE "stems\Alone back vox 3.mp3" 1
       >
     >
     <ITEM
@@ -2072,7 +2173,7 @@
       CHANMODE 0
       GUID {742B043E-7B6E-4AF8-85C2-B3EA5F2B7522}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 3.mp3" 1
+        FILE "stems\Alone back vox 3.mp3" 1
       >
     >
     <ITEM
@@ -2094,7 +2195,7 @@
       CHANMODE 0
       GUID {8C672D56-747F-4C22-888F-D48F6447EEC1}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 3.mp3" 1
+        FILE "stems\Alone back vox 3.mp3" 1
       >
     >
     <ITEM
@@ -2116,7 +2217,7 @@
       CHANMODE 0
       GUID {64E68FD4-FB69-48E3-A13A-A08F62571CB0}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 3.mp3" 1
+        FILE "stems\Alone back vox 3.mp3" 1
       >
     >
   >
@@ -2163,7 +2264,7 @@
       CHANMODE 0
       GUID {26C42314-8DCE-4041-A1E1-D02EB79D663B}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 5.mp3" 1
+        FILE "stems\Alone back vox 5.mp3" 1
       >
     >
     <ITEM
@@ -2185,7 +2286,7 @@
       CHANMODE 0
       GUID {833D44A6-99A3-4918-B497-36181648D667}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 5.mp3" 1
+        FILE "stems\Alone back vox 5.mp3" 1
       >
     >
     <ITEM
@@ -2207,7 +2308,7 @@
       CHANMODE 0
       GUID {77BBBB4B-A1D8-4453-8DF2-C29DD8A6E4F1}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 5.mp3" 1
+        FILE "stems\Alone back vox 5.mp3" 1
       >
     >
     <ITEM
@@ -2229,7 +2330,7 @@
       CHANMODE 0
       GUID {3CEA58FA-8C4A-45FD-8F94-B5A679DA3C4D}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 5.mp3" 1
+        FILE "stems\Alone back vox 5.mp3" 1
       >
     >
     <ITEM
@@ -2251,7 +2352,7 @@
       CHANMODE 0
       GUID {EB281062-3409-4CE1-B373-CCBF49BE1383}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 5.mp3" 1
+        FILE "stems\Alone back vox 5.mp3" 1
       >
     >
     <ITEM
@@ -2273,7 +2374,7 @@
       CHANMODE 0
       GUID {F8D1D5AB-9C6E-477D-80F5-39207B5A24C6}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 5.mp3" 1
+        FILE "stems\Alone back vox 5.mp3" 1
       >
     >
     <ITEM
@@ -2295,7 +2396,7 @@
       CHANMODE 0
       GUID {41B5FE8F-9F2A-41CD-A7A6-46C4E82498C5}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 5.mp3" 1
+        FILE "stems\Alone back vox 5.mp3" 1
       >
     >
     <ITEM
@@ -2317,7 +2418,7 @@
       CHANMODE 0
       GUID {B031A7CA-3BA4-4050-BADE-1A58EB0CB98D}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 5.mp3" 1
+        FILE "stems\Alone back vox 5.mp3" 1
       >
     >
   >
@@ -2860,7 +2961,7 @@
       CHANMODE 0
       GUID {45F388C9-BF28-410C-878C-58628B25A7C5}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad.mp3" 1
+        FILE "stems\Alone pad.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -2897,7 +2998,7 @@
       CHANMODE 0
       GUID {7B164A90-1D8C-438E-A750-573ED175B2AC}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad.mp3" 1
+        FILE "stems\Alone pad.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -2934,7 +3035,7 @@
       CHANMODE 0
       GUID {E71654A9-0D29-4006-836C-AD664A407019}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad 2.mp3" 1
+        FILE "stems\Alone pad 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -2953,7 +3054,7 @@
       >
     >
     <ITEM
-      POSITION 80.24999999999962
+      POSITION 80.27538997208332
       SNAPOFFS 0
       LENGTH 1.00473922902496
       LOOP 1
@@ -2971,7 +3072,7 @@
       CHANMODE 0
       GUID {F9FC4ED3-D916-4C47-AF02-48D5203987FB}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad 4.mp3" 1
+        FILE "stems\Alone pad 4.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3008,7 +3109,7 @@
       CHANMODE 0
       GUID {2CD1D83D-EFC9-445C-A4A3-2EEC88FB97DB}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad 2.mp3" 1
+        FILE "stems\Alone pad 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3045,7 +3146,7 @@
       CHANMODE 0
       GUID {70A2435E-7CB5-49EC-9B13-81BAB6EF034C}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad.mp3" 1
+        FILE "stems\Alone pad.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3082,7 +3183,7 @@
       CHANMODE 0
       GUID {BD8A2CBA-3540-4DAD-B1A8-4A152F301507}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad 2.mp3" 1
+        FILE "stems\Alone pad 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3119,7 +3220,7 @@
       CHANMODE 0
       GUID {B2DF7974-D6ED-4D6F-9F53-7D835A057FA1}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad 2.mp3" 1
+        FILE "stems\Alone pad 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3156,7 +3257,7 @@
       CHANMODE 0
       GUID {24F6BB1E-BC3C-492F-8DD1-94067798F836}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad.mp3" 1
+        FILE "stems\Alone pad.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3193,7 +3294,7 @@
       CHANMODE 0
       GUID {8485A511-55AA-4C13-9097-90A2834DB9B5}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad 2.mp3" 1
+        FILE "stems\Alone pad 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3230,7 +3331,7 @@
       CHANMODE 0
       GUID {FE3C333A-54F7-4220-9807-DAA2ECD3EA21}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad 2.mp3" 1
+        FILE "stems\Alone pad 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3267,7 +3368,7 @@
       CHANMODE 0
       GUID {91BC9801-A61F-43EB-A015-B3F262F7A7E1}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad.mp3" 1
+        FILE "stems\Alone pad.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3304,7 +3405,7 @@
       CHANMODE 0
       GUID {D9DBEC84-6E5B-4696-A994-88733523482C}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad 2.mp3" 1
+        FILE "stems\Alone pad 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3341,7 +3442,7 @@
       CHANMODE 0
       GUID {9EE59054-321E-4E2A-9C79-00E6084F1FD2}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad 2.mp3" 1
+        FILE "stems\Alone pad 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3378,7 +3479,7 @@
       CHANMODE 0
       GUID {915C28EE-076A-4652-8599-EB5C5BD09C5C}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad.mp3" 1
+        FILE "stems\Alone pad.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3415,7 +3516,7 @@
       CHANMODE 0
       GUID {D7D09A4E-7150-45E6-BDC8-EF24B52C9103}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad 2.mp3" 1
+        FILE "stems\Alone pad 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3452,7 +3553,7 @@
       CHANMODE 0
       GUID {03A1E810-A721-4D1E-A6E2-4EE73E6A2084}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad 2.mp3" 1
+        FILE "stems\Alone pad 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3489,7 +3590,7 @@
       CHANMODE 0
       GUID {B099888B-33B6-4B67-B90F-25986A6F03F3}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad.mp3" 1
+        FILE "stems\Alone pad.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3526,7 +3627,7 @@
       CHANMODE 0
       GUID {16CCFA0A-D6AF-4B68-A75B-FAA0DDCE7C10}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad 2.mp3" 1
+        FILE "stems\Alone pad 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3563,7 +3664,7 @@
       CHANMODE 0
       GUID {1AE43442-4A1C-437E-8033-785E520C367A}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad 2.mp3" 1
+        FILE "stems\Alone pad 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3600,7 +3701,7 @@
       CHANMODE 0
       GUID {51493F3E-3206-44A3-826D-ADA592150F99}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad.mp3" 1
+        FILE "stems\Alone pad.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3637,7 +3738,7 @@
       CHANMODE 0
       GUID {088AE17E-1DC3-4F86-A1EC-5D3B4B19C854}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad 2.mp3" 1
+        FILE "stems\Alone pad 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3674,7 +3775,7 @@
       CHANMODE 0
       GUID {19E77BE9-3FC2-4C08-B5ED-09DD26CA45B1}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad 2.mp3" 1
+        FILE "stems\Alone pad 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3711,7 +3812,7 @@
       CHANMODE 0
       GUID {D39C7831-CC75-47A6-98C9-E25622A63A68}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad.mp3" 1
+        FILE "stems\Alone pad.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3748,7 +3849,7 @@
       CHANMODE 0
       GUID {C2D85C7A-A2F2-4838-94E5-E7D0B1304059}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad 2.mp3" 1
+        FILE "stems\Alone pad 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3785,7 +3886,7 @@
       CHANMODE 0
       GUID {7CF9D2D9-1F61-44C3-8174-7DD433B4594C}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad.mp3" 1
+        FILE "stems\Alone pad.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3822,7 +3923,7 @@
       CHANMODE 0
       GUID {9AF2CBAD-9F38-40F3-8D38-BC31CE55FEAB}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad 2.mp3" 1
+        FILE "stems\Alone pad 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3859,7 +3960,7 @@
       CHANMODE 0
       GUID {B83CFB8F-2C04-4A3E-9F36-3319DB47C7C8}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad.mp3" 1
+        FILE "stems\Alone pad.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3896,7 +3997,7 @@
       CHANMODE 0
       GUID {B12333FD-326B-4C99-88B9-FE63D25E79A9}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad 2.mp3" 1
+        FILE "stems\Alone pad 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -4005,7 +4106,7 @@
       CHANMODE 0
       GUID {B9B6D68D-E050-4ECB-992E-8764550BA672}
       <SOURCE WAVE
-        FILE "C:\Users\User\Desktop\drop.wav"
+        FILE "stems\drop.wav"
       >
     >
   >
@@ -4052,7 +4153,7 @@
       CHANMODE 0
       GUID {C7740AC2-8D65-414C-8E49-8A611BEE8364}
       <SOURCE WAVE
-        FILE "C:\Users\User\Desktop\looperman-l-1805083-0096243-davidgotskill-house-hi-hat-shuffle-01.wav"
+        FILE "stems\hi-hat-shuffle-01.wav"
       >
     >
   >
@@ -4083,7 +4184,7 @@
     <ITEM
       POSITION 236.05148114312695
       SNAPOFFS 0
-      LENGTH 120
+      LENGTH 135.94851885687305
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -4099,7 +4200,7 @@
       CHANMODE 0
       GUID {42A8EF95-8F51-41F7-981A-A232108B0145}
       <SOURCE WAVE
-        FILE "C:\Users\User\Desktop\looperman-l-0576432-0078372-kaynine-d-train-drumloop.wav"
+        FILE "stems\house drumloop.wav"
       >
     >
   >
@@ -4116,7 +4217,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 -1 0
@@ -4202,15 +4303,15 @@
       >
     >
     <ITEM
-      POSITION 284.04072409778962
+      POSITION 284
       SNAPOFFS 0
-      LENGTH 133.727240462282
+      LENGTH 15.95927590221038
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {6500FB88-048B-47A4-A3A5-ED5EC9D41CFC}
       IID 249
       NAME "alone mix d ALT-029-FX-030.wav"
@@ -4219,6 +4320,154 @@
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {B612943C-995E-4C47-912C-B6BD555E3DFD}
+      <SOURCE WAVE
+        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-029-FX-030.wav"
+      >
+      <TAKEFX
+        WNDRECT 21 49 962 525
+        SHOW 0
+        LASTSEL 0
+        DOCKED 0
+        BYPASS 0 0 0
+        <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 0 "" 1920361016<56535472766238726561766572626174> ""
+          OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA
+          776t3g3wrd7vOzU/7zs1PylcTz+JtA0/AACAPwAAAAAAAIA/AAAAAA==
+          AAAQAAAA
+        >
+        FLOATPOS 0 0 0 0
+        FXID {122BC9D2-E6DE-4667-9E9A-76CA2F6EDEC6}
+        WAK 0 0
+      >
+    >
+    <ITEM
+      POSITION 300
+      SNAPOFFS 0
+      LENGTH 15.95927590221038
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5AED8005-D7A2-42A4-B76F-90A0626C2427}
+      IID 345
+      NAME "alone mix d ALT-029-FX-030.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 96.2301762043848
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1B26CB9D-5907-44EE-8A94-D5D2B6968EC7}
+      <SOURCE WAVE
+        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-029-FX-030.wav"
+      >
+      <TAKEFX
+        WNDRECT 21 49 962 525
+        SHOW 0
+        LASTSEL 0
+        DOCKED 0
+        BYPASS 0 0 0
+        <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 0 "" 1920361016<56535472766238726561766572626174> ""
+          OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA
+          776t3g3wrd7vOzU/7zs1PylcTz+JtA0/AACAPwAAAAAAAIA/AAAAAA==
+          AAAQAAAA
+        >
+        FLOATPOS 0 0 0 0
+        FXID {1D63FAAA-09FB-4007-A62F-79200395FF5D}
+        WAK 0 0
+      >
+    >
+    <ITEM
+      POSITION 315.95927590221038
+      SNAPOFFS 0
+      LENGTH 38.35515075255324
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CFB46AC9-ED38-4BF5-93E9-1570964676EE}
+      IID 347
+      NAME "alone mix d ALT-029-FX-030.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 112.18945210659518
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4A127E7D-9FCD-4003-A176-3DB55ECD1A34}
+      <SOURCE WAVE
+        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-029-FX-030.wav"
+      >
+      <TAKEFX
+        WNDRECT 21 49 962 525
+        SHOW 0
+        LASTSEL 0
+        DOCKED 0
+        BYPASS 0 0 0
+        <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 0 "" 1920361016<56535472766238726561766572626174> ""
+          OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA
+          776t3g3wrd7vOzU/7zs1PylcTz+JtA0/AACAPwAAAAAAAIA/AAAAAA==
+          AAAQAAAA
+        >
+        FLOATPOS 0 0 0 0
+        FXID {122BC9D2-E6DE-4667-9E9A-76CA2F6EDEC6}
+        WAK 0 0
+      >
+    >
+    <ITEM
+      POSITION 354.31442665476362
+      SNAPOFFS 0
+      LENGTH 0.18557334523638
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {09492664-A7DE-4632-A95D-027252EC0FA1}
+      IID 364
+      NAME "alone mix d ALT-029-FX-030.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 150.54460285914843
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {562652A8-58FB-4C8C-8D62-76484941FA82}
+      <SOURCE WAVE
+        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-029-FX-030.wav"
+      >
+      <TAKEFX
+        WNDRECT 21 49 962 525
+        SHOW 0
+        LASTSEL 0
+        DOCKED 0
+        BYPASS 0 0 0
+        <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 0 "" 1920361016<56535472766238726561766572626174> ""
+          OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA
+          776t3g3wrd7vOzU/7zs1PylcTz+JtA0/AACAPwAAAAAAAIA/AAAAAA==
+          AAAQAAAA
+        >
+        FLOATPOS 0 0 0 0
+        FXID {122BC9D2-E6DE-4667-9E9A-76CA2F6EDEC6}
+        WAK 0 0
+      >
+    >
+    <ITEM
+      POSITION 354.56619185663646
+      SNAPOFFS 0
+      LENGTH 37.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AF1CA807-F1CE-43F8-83BA-C89591D50776}
+      IID 365
+      NAME "alone mix d ALT-029-FX-030.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 150.7301762043848
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {58E257D5-9624-4737-AA13-E65786824524}
       <SOURCE WAVE
         FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-029-FX-030.wav"
       >
@@ -4282,7 +4531,7 @@
       CHANMODE 0
       GUID {9D530E8A-FD2F-46D9-B19F-C23D831DF7B6}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\scratch.mp3" 1
+        FILE "stems\scratch.mp3" 1
       >
       <TAKEFX
         WNDRECT 21 49 962 525

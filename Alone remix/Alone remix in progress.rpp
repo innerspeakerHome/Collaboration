@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.15/x64" 1607213898
+<REAPER_PROJECT 0.1 "6.15/x64" 1607266776
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -16,7 +16,7 @@
   PANMODE 3
   CURSOR 396.5
   ZOOM 218.02417087542531 85569 0
-  VZOOMEX 6 265
+  VZOOMEX 6 216
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -128,7 +128,7 @@
       CHANMODE 0
       GUID {E958CF72-0BB1-401E-BC85-B842AA03278D}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 1.mp3" 1
+        FILE "stems\Alone back vox 1.mp3" 1
       >
     >
   >
@@ -467,7 +467,7 @@
       CHANMODE 0
       GUID {6F193AE0-F23A-433E-8AA0-95BA8D99F553}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 2.mp3" 1
+        FILE "stems\Alone back vox 2.mp3" 1
       >
     >
     <ITEM
@@ -489,7 +489,7 @@
       CHANMODE 0
       GUID {E5E4804A-1DCC-433F-BC9B-F3EF41876B91}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 2.mp3" 1
+        FILE "stems\Alone back vox 2.mp3" 1
       >
     >
     <ITEM
@@ -511,7 +511,7 @@
       CHANMODE 0
       GUID {402E5181-B1F5-4A1E-9577-3152138452CF}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 2.mp3" 1
+        FILE "stems\Alone back vox 2.mp3" 1
       >
     >
     <ITEM
@@ -533,7 +533,7 @@
       CHANMODE 0
       GUID {920056CD-D8B0-448D-BB45-4F636AB7E3E7}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 2.mp3" 1
+        FILE "stems\Alone back vox 2.mp3" 1
       >
     >
     <ITEM
@@ -555,7 +555,7 @@
       CHANMODE 0
       GUID {D591BAC0-2281-4844-9CC2-9D7EB54696AB}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 2.mp3" 1
+        FILE "stems\Alone back vox 2.mp3" 1
       >
     >
     <ITEM
@@ -577,7 +577,7 @@
       CHANMODE 0
       GUID {2EAE85CA-19EF-4E71-85FD-E113975C64AE}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 2.mp3" 1
+        FILE "stems\Alone back vox 2.mp3" 1
       >
     >
     <ITEM
@@ -599,7 +599,7 @@
       CHANMODE 0
       GUID {C04A254B-28A2-48E1-A341-F64242470DCE}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 2.mp3" 1
+        FILE "stems\Alone back vox 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 53 81 962 525
@@ -636,7 +636,7 @@
       CHANMODE 0
       GUID {41D97F2D-33BF-4D8C-9296-8C0F12BC727A}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 2.mp3" 1
+        FILE "stems\Alone back vox 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 21 49 962 525
@@ -673,7 +673,7 @@
       CHANMODE 0
       GUID {867B2543-9202-46F6-8A9E-1C9CDA67231A}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 2.mp3" 1
+        FILE "stems\Alone back vox 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 21 49 962 525
@@ -710,7 +710,7 @@
       CHANMODE 0
       GUID {F3CD807E-EF2A-49E3-99CD-E73E5BB81FE0}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 2.mp3" 1
+        FILE "stems\Alone back vox 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 21 49 962 525
@@ -747,7 +747,7 @@
       CHANMODE 0
       GUID {E48E6777-DBEB-4DA7-9C53-4B4F187E4F70}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 2.mp3" 1
+        FILE "stems\Alone back vox 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 21 49 962 525
@@ -784,7 +784,7 @@
       CHANMODE 0
       GUID {2C89343A-924E-4E2B-AA19-F95B87A8E9F2}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 2.mp3" 1
+        FILE "stems\Alone back vox 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 21 49 962 525
@@ -821,7 +821,7 @@
       CHANMODE 0
       GUID {354A4AA8-304F-45C9-B4A8-FD8631FB48FC}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 2.mp3" 1
+        FILE "stems\Alone back vox 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 21 49 962 525
@@ -858,7 +858,7 @@
       CHANMODE 0
       GUID {0E390E7A-B4AA-4F7A-BFA6-691DC60D7F7B}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 2.mp3" 1
+        FILE "stems\Alone back vox 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 21 49 962 525
@@ -895,7 +895,7 @@
       CHANMODE 0
       GUID {3E42731A-82BB-4C7C-A266-A2E444EA6E85}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 2.mp3" 1
+        FILE "stems\Alone back vox 2.mp3" 1
       >
     >
   >
@@ -1959,7 +1959,7 @@
       CHANMODE 0
       GUID {C5E0ECF9-BCDC-44ED-BC18-A0F66F7279E7}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 3.mp3" 1
+        FILE "stems\Alone back vox 3.mp3" 1
       >
     >
     <ITEM
@@ -1981,7 +1981,7 @@
       CHANMODE 0
       GUID {B8DC8703-C813-4526-BBE2-E5CC2B509459}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 3.mp3" 1
+        FILE "stems\Alone back vox 3.mp3" 1
       >
     >
     <ITEM
@@ -2151,7 +2151,7 @@
       CHANMODE 0
       GUID {CB26E5EA-D992-40D7-A388-14F472263105}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 3.mp3" 1
+        FILE "stems\Alone back vox 3.mp3" 1
       >
     >
     <ITEM
@@ -2173,7 +2173,7 @@
       CHANMODE 0
       GUID {742B043E-7B6E-4AF8-85C2-B3EA5F2B7522}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 3.mp3" 1
+        FILE "stems\Alone back vox 3.mp3" 1
       >
     >
     <ITEM
@@ -2195,7 +2195,7 @@
       CHANMODE 0
       GUID {8C672D56-747F-4C22-888F-D48F6447EEC1}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 3.mp3" 1
+        FILE "stems\Alone back vox 3.mp3" 1
       >
     >
     <ITEM
@@ -2217,7 +2217,7 @@
       CHANMODE 0
       GUID {64E68FD4-FB69-48E3-A13A-A08F62571CB0}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 3.mp3" 1
+        FILE "stems\Alone back vox 3.mp3" 1
       >
     >
   >
@@ -2264,7 +2264,7 @@
       CHANMODE 0
       GUID {26C42314-8DCE-4041-A1E1-D02EB79D663B}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 5.mp3" 1
+        FILE "stems\Alone back vox 5.mp3" 1
       >
     >
     <ITEM
@@ -2286,7 +2286,7 @@
       CHANMODE 0
       GUID {833D44A6-99A3-4918-B497-36181648D667}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 5.mp3" 1
+        FILE "stems\Alone back vox 5.mp3" 1
       >
     >
     <ITEM
@@ -2308,7 +2308,7 @@
       CHANMODE 0
       GUID {77BBBB4B-A1D8-4453-8DF2-C29DD8A6E4F1}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 5.mp3" 1
+        FILE "stems\Alone back vox 5.mp3" 1
       >
     >
     <ITEM
@@ -2330,7 +2330,7 @@
       CHANMODE 0
       GUID {3CEA58FA-8C4A-45FD-8F94-B5A679DA3C4D}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 5.mp3" 1
+        FILE "stems\Alone back vox 5.mp3" 1
       >
     >
     <ITEM
@@ -2352,7 +2352,7 @@
       CHANMODE 0
       GUID {EB281062-3409-4CE1-B373-CCBF49BE1383}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 5.mp3" 1
+        FILE "stems\Alone back vox 5.mp3" 1
       >
     >
     <ITEM
@@ -2374,7 +2374,7 @@
       CHANMODE 0
       GUID {F8D1D5AB-9C6E-477D-80F5-39207B5A24C6}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 5.mp3" 1
+        FILE "stems\Alone back vox 5.mp3" 1
       >
     >
     <ITEM
@@ -2396,7 +2396,7 @@
       CHANMODE 0
       GUID {41B5FE8F-9F2A-41CD-A7A6-46C4E82498C5}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 5.mp3" 1
+        FILE "stems\Alone back vox 5.mp3" 1
       >
     >
     <ITEM
@@ -2418,7 +2418,7 @@
       CHANMODE 0
       GUID {B031A7CA-3BA4-4050-BADE-1A58EB0CB98D}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone back vox 5.mp3" 1
+        FILE "stems\Alone back vox 5.mp3" 1
       >
     >
   >
@@ -2961,7 +2961,7 @@
       CHANMODE 0
       GUID {45F388C9-BF28-410C-878C-58628B25A7C5}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad.mp3" 1
+        FILE "stems\Alone pad.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -2998,7 +2998,7 @@
       CHANMODE 0
       GUID {7B164A90-1D8C-438E-A750-573ED175B2AC}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad.mp3" 1
+        FILE "stems\Alone pad.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3035,7 +3035,7 @@
       CHANMODE 0
       GUID {E71654A9-0D29-4006-836C-AD664A407019}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad 2.mp3" 1
+        FILE "stems\Alone pad 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3072,7 +3072,7 @@
       CHANMODE 0
       GUID {F9FC4ED3-D916-4C47-AF02-48D5203987FB}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad 4.mp3" 1
+        FILE "stems\Alone pad 4.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3109,7 +3109,7 @@
       CHANMODE 0
       GUID {2CD1D83D-EFC9-445C-A4A3-2EEC88FB97DB}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad 2.mp3" 1
+        FILE "stems\Alone pad 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3146,7 +3146,7 @@
       CHANMODE 0
       GUID {70A2435E-7CB5-49EC-9B13-81BAB6EF034C}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad.mp3" 1
+        FILE "stems\Alone pad.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3183,7 +3183,7 @@
       CHANMODE 0
       GUID {BD8A2CBA-3540-4DAD-B1A8-4A152F301507}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad 2.mp3" 1
+        FILE "stems\Alone pad 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3220,7 +3220,7 @@
       CHANMODE 0
       GUID {B2DF7974-D6ED-4D6F-9F53-7D835A057FA1}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad 2.mp3" 1
+        FILE "stems\Alone pad 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3257,7 +3257,7 @@
       CHANMODE 0
       GUID {24F6BB1E-BC3C-492F-8DD1-94067798F836}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad.mp3" 1
+        FILE "stems\Alone pad.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3294,7 +3294,7 @@
       CHANMODE 0
       GUID {8485A511-55AA-4C13-9097-90A2834DB9B5}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad 2.mp3" 1
+        FILE "stems\Alone pad 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3331,7 +3331,7 @@
       CHANMODE 0
       GUID {FE3C333A-54F7-4220-9807-DAA2ECD3EA21}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad 2.mp3" 1
+        FILE "stems\Alone pad 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3368,7 +3368,7 @@
       CHANMODE 0
       GUID {91BC9801-A61F-43EB-A015-B3F262F7A7E1}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad.mp3" 1
+        FILE "stems\Alone pad.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3405,7 +3405,7 @@
       CHANMODE 0
       GUID {D9DBEC84-6E5B-4696-A994-88733523482C}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad 2.mp3" 1
+        FILE "stems\Alone pad 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3442,7 +3442,7 @@
       CHANMODE 0
       GUID {9EE59054-321E-4E2A-9C79-00E6084F1FD2}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad 2.mp3" 1
+        FILE "stems\Alone pad 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3479,7 +3479,7 @@
       CHANMODE 0
       GUID {915C28EE-076A-4652-8599-EB5C5BD09C5C}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad.mp3" 1
+        FILE "stems\Alone pad.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3516,7 +3516,7 @@
       CHANMODE 0
       GUID {D7D09A4E-7150-45E6-BDC8-EF24B52C9103}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad 2.mp3" 1
+        FILE "stems\Alone pad 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3553,7 +3553,7 @@
       CHANMODE 0
       GUID {03A1E810-A721-4D1E-A6E2-4EE73E6A2084}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad 2.mp3" 1
+        FILE "stems\Alone pad 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3590,7 +3590,7 @@
       CHANMODE 0
       GUID {B099888B-33B6-4B67-B90F-25986A6F03F3}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad.mp3" 1
+        FILE "stems\Alone pad.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3627,7 +3627,7 @@
       CHANMODE 0
       GUID {16CCFA0A-D6AF-4B68-A75B-FAA0DDCE7C10}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad 2.mp3" 1
+        FILE "stems\Alone pad 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3664,7 +3664,7 @@
       CHANMODE 0
       GUID {1AE43442-4A1C-437E-8033-785E520C367A}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad 2.mp3" 1
+        FILE "stems\Alone pad 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3701,7 +3701,7 @@
       CHANMODE 0
       GUID {51493F3E-3206-44A3-826D-ADA592150F99}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad.mp3" 1
+        FILE "stems\Alone pad.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3738,7 +3738,7 @@
       CHANMODE 0
       GUID {088AE17E-1DC3-4F86-A1EC-5D3B4B19C854}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad 2.mp3" 1
+        FILE "stems\Alone pad 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3775,7 +3775,7 @@
       CHANMODE 0
       GUID {19E77BE9-3FC2-4C08-B5ED-09DD26CA45B1}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad 2.mp3" 1
+        FILE "stems\Alone pad 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3812,7 +3812,7 @@
       CHANMODE 0
       GUID {D39C7831-CC75-47A6-98C9-E25622A63A68}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad.mp3" 1
+        FILE "stems\Alone pad.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3849,7 +3849,7 @@
       CHANMODE 0
       GUID {C2D85C7A-A2F2-4838-94E5-E7D0B1304059}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad 2.mp3" 1
+        FILE "stems\Alone pad 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3886,7 +3886,7 @@
       CHANMODE 0
       GUID {7CF9D2D9-1F61-44C3-8174-7DD433B4594C}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad.mp3" 1
+        FILE "stems\Alone pad.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3923,7 +3923,7 @@
       CHANMODE 0
       GUID {9AF2CBAD-9F38-40F3-8D38-BC31CE55FEAB}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad 2.mp3" 1
+        FILE "stems\Alone pad 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3960,7 +3960,7 @@
       CHANMODE 0
       GUID {B83CFB8F-2C04-4A3E-9F36-3319DB47C7C8}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad.mp3" 1
+        FILE "stems\Alone pad.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -3997,7 +3997,7 @@
       CHANMODE 0
       GUID {B12333FD-326B-4C99-88B9-FE63D25E79A9}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\Alone pad 2.mp3" 1
+        FILE "stems\Alone pad 2.mp3" 1
       >
       <TAKEFX
         WNDRECT 786 168 962 525
@@ -4106,7 +4106,7 @@
       CHANMODE 0
       GUID {B9B6D68D-E050-4ECB-992E-8764550BA672}
       <SOURCE WAVE
-        FILE "C:\Users\User\Desktop\drop.wav"
+        FILE "stems\drop.wav"
       >
     >
   >
@@ -4153,7 +4153,7 @@
       CHANMODE 0
       GUID {C7740AC2-8D65-414C-8E49-8A611BEE8364}
       <SOURCE WAVE
-        FILE "C:\Users\User\Desktop\looperman-l-1805083-0096243-davidgotskill-house-hi-hat-shuffle-01.wav"
+        FILE "stems\hi-hat-shuffle-01.wav"
       >
     >
   >
@@ -4200,7 +4200,7 @@
       CHANMODE 0
       GUID {42A8EF95-8F51-41F7-981A-A232108B0145}
       <SOURCE WAVE
-        FILE "C:\Users\User\Desktop\looperman-l-0576432-0078372-kaynine-d-train-drumloop.wav"
+        FILE "stems\house drumloop.wav"
       >
     >
   >
@@ -4218,7 +4218,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
     SEL 0
-    REC 0 0 1 0 0 0 0
+    REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 -1 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -4531,7 +4531,7 @@
       CHANMODE 0
       GUID {9D530E8A-FD2F-46D9-B19F-C23D831DF7B6}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\scratch.mp3" 1
+        FILE "stems\scratch.mp3" 1
       >
       <TAKEFX
         WNDRECT 21 49 962 525

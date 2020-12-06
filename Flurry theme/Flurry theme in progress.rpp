@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.15/x64" 1607007360
+<REAPER_PROJECT 0.1 "6.15/x64" 1607266909
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -77,7 +77,7 @@
   >
   <TEMPOENVEX
     EGUID {090042CE-8C1D-4FB5-A928-9D295168C57A}
-    ACT 1 -1
+    ACT 0 -1
     VIS 1 0 1
     LANEHEIGHT 0 0
     ARM 0
@@ -323,8 +323,8 @@
       LENGTH 0.00001
       LOOP 1
       ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
       MUTE 0 0
       SEL 0
       IGUID {EB21206D-914E-4823-8465-020357B3BDBD}
@@ -499,7 +499,7 @@
       CHANMODE 0
       GUID {1A21F3D4-8482-47DD-A422-4C07DC88C2CB}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\flurry extra synth.mp3" 1
+        FILE "stems\flurry extra synth.mp3" 1
       >
     >
     <ITEM
@@ -565,7 +565,7 @@
       CHANMODE 0
       GUID {404A2E80-23E6-4C75-AF87-A3AAA45DE502}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\flurry extra synth.mp3" 1
+        FILE "stems\flurry extra synth.mp3" 1
       >
     >
     <ITEM
