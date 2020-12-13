@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.15/x64" 1607281931
+<REAPER_PROJECT 0.1 "6.15/x64" 1607388549
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,8 +14,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 440
-  ZOOM 2.56130779473217 0 0
+  CURSOR 389
+  ZOOM 10.05358876009567 2538 0
   VZOOMEX 6 0
   USE_REC_CFG 0
   RECMODE 1
@@ -55,8 +55,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 395.5 395.5
-  SELECTION2 395.5 395.5
+  SELECTION 440 515
+  SELECTION2 440 515
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -175,7 +175,7 @@
       CHANMODE 0
       GUID {A5A37362-4692-4736-86BC-ED881BC3391E}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-009-percussion-Group-010.wav"
+        FILE "stems\alone mix d ALT-009-percussion-Group-010.wav"
       >
     >
     <ITEM
@@ -197,7 +197,7 @@
       CHANMODE 0
       GUID {8BBABB76-71B8-49F5-A435-E1FCBCA4FD97}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-009-percussion-Group-010.wav"
+        FILE "stems\alone mix d ALT-009-percussion-Group-010.wav"
       >
     >
     <ITEM
@@ -219,7 +219,7 @@
       CHANMODE 0
       GUID {F576AA0E-BD19-4D4D-9A0D-252FB18B093C}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-009-percussion-Group-010.wav"
+        FILE "stems\alone mix d ALT-009-percussion-Group-010.wav"
       >
     >
     <ITEM
@@ -241,7 +241,7 @@
       CHANMODE 0
       GUID {12C283AE-D8D6-4501-8F1A-FC6C765BFAD9}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-009-percussion-Group-010.wav"
+        FILE "stems\alone mix d ALT-009-percussion-Group-010.wav"
       >
     >
   >
@@ -288,7 +288,7 @@
       CHANMODE 0
       GUID {FB6665BE-4EFF-451D-8023-CEF431E4BCE2}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-017-rototom-Group-018.wav"
+        FILE "stems\alone mix d ALT-017-rototom-Group-018.wav"
       >
     >
     <ITEM
@@ -310,7 +310,7 @@
       CHANMODE 0
       GUID {C9E949B5-FBE1-477D-9A5D-CAEBC095A463}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-017-rototom-Group-018.wav"
+        FILE "stems\alone mix d ALT-017-rototom-Group-018.wav"
       >
     >
     <ITEM
@@ -332,7 +332,7 @@
       CHANMODE 0
       GUID {C040C084-8805-4D28-A6AA-074DB701E3B1}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-017-rototom-Group-018.wav"
+        FILE "stems\alone mix d ALT-017-rototom-Group-018.wav"
       >
     >
     <ITEM
@@ -354,7 +354,7 @@
       CHANMODE 0
       GUID {BBE1728E-85AB-4159-95DA-151F85C742D8}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-017-rototom-Group-018.wav"
+        FILE "stems\alone mix d ALT-017-rototom-Group-018.wav"
       >
     >
     <ITEM
@@ -376,7 +376,7 @@
       CHANMODE 0
       GUID {C427E234-3676-4804-9F87-C1AEA1DFDDFB}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-017-rototom-Group-018.wav"
+        FILE "stems\alone mix d ALT-017-rototom-Group-018.wav"
       >
     >
     <ITEM
@@ -398,7 +398,7 @@
       CHANMODE 0
       GUID {53EE404A-B9D8-4526-8F8B-18101BA57DE4}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-017-rototom-Group-018.wav"
+        FILE "stems\alone mix d ALT-017-rototom-Group-018.wav"
       >
     >
     <ITEM
@@ -420,7 +420,7 @@
       CHANMODE 0
       GUID {0AB4E0C2-8029-4AD8-BFFF-D6E2E2575FA6}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-017-rototom-Group-018.wav"
+        FILE "stems\alone mix d ALT-017-rototom-Group-018.wav"
       >
     >
   >
@@ -912,7 +912,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 -1 0
@@ -942,7 +942,7 @@
       CHANMODE 0
       GUID {671DDF22-AA2E-4B70-A0F9-6DAFC60BE55C}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-007-sequencer-Group-008.wav"
+        FILE "stems\alone mix d ALT-007-sequencer-Group-008.wav"
       >
     >
     <ITEM
@@ -964,7 +964,7 @@
       CHANMODE 0
       GUID {BEE6CC4F-7659-4D38-939C-0620EC7E483A}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-007-sequencer-Group-008.wav"
+        FILE "stems\alone mix d ALT-007-sequencer-Group-008.wav"
       >
     >
     <ITEM
@@ -986,7 +986,7 @@
       CHANMODE 0
       GUID {E8C04754-DD1B-48AD-840A-CFB4C576FAA5}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-007-sequencer-Group-008.wav"
+        FILE "stems\alone mix d ALT-007-sequencer-Group-008.wav"
       >
     >
     <ITEM
@@ -1008,7 +1008,7 @@
       CHANMODE 0
       GUID {04B2943E-21EE-40F8-B96F-6D760FEF8D2F}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-007-sequencer-Group-008.wav"
+        FILE "stems\alone mix d ALT-007-sequencer-Group-008.wav"
       >
     >
     <ITEM
@@ -1030,7 +1030,7 @@
       CHANMODE 0
       GUID {BBBF1B0F-34FD-4AB2-823D-CFC355497B6B}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-007-sequencer-Group-008.wav"
+        FILE "stems\alone mix d ALT-007-sequencer-Group-008.wav"
       >
     >
     <ITEM
@@ -1052,7 +1052,7 @@
       CHANMODE 0
       GUID {808E70D5-6DEA-4C5A-9DDC-E27A52D5C239}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-007-sequencer-Group-008.wav"
+        FILE "stems\alone mix d ALT-007-sequencer-Group-008.wav"
       >
     >
     <ITEM
@@ -1074,7 +1074,7 @@
       CHANMODE 0
       GUID {FE9B4010-FA2D-4038-92CD-AD1397D466E7}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-007-sequencer-Group-008.wav"
+        FILE "stems\alone mix d ALT-007-sequencer-Group-008.wav"
       >
     >
     <ITEM
@@ -1096,7 +1096,7 @@
       CHANMODE 0
       GUID {272F889D-0D69-44D1-9E67-7AB34A4A5A2D}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-007-sequencer-Group-008.wav"
+        FILE "stems\alone mix d ALT-007-sequencer-Group-008.wav"
       >
     >
     <ITEM
@@ -1118,7 +1118,7 @@
       CHANMODE 0
       GUID {E0136D47-D381-47F5-B838-AD6C1E24FE33}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-007-sequencer-Group-008.wav"
+        FILE "stems\alone mix d ALT-007-sequencer-Group-008.wav"
       >
     >
     <ITEM
@@ -1140,7 +1140,7 @@
       CHANMODE 0
       GUID {204A1247-D379-49A1-973B-5D3EF8923888}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-007-sequencer-Group-008.wav"
+        FILE "stems\alone mix d ALT-007-sequencer-Group-008.wav"
       >
     >
     <ITEM
@@ -1162,7 +1162,7 @@
       CHANMODE 0
       GUID {8536FE09-5298-415D-B1F0-08749A7D2D24}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-007-sequencer-Group-008.wav"
+        FILE "stems\alone mix d ALT-007-sequencer-Group-008.wav"
       >
     >
     <ITEM
@@ -1184,7 +1184,7 @@
       CHANMODE 0
       GUID {7791A554-4660-4FBE-AE6B-4968094345DD}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-007-sequencer-Group-008.wav"
+        FILE "stems\alone mix d ALT-007-sequencer-Group-008.wav"
       >
     >
     <ITEM
@@ -1206,7 +1206,7 @@
       CHANMODE 0
       GUID {189C0E7F-C322-4830-B418-50F30F2A806C}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-007-sequencer-Group-008.wav"
+        FILE "stems\alone mix d ALT-007-sequencer-Group-008.wav"
       >
     >
     <ITEM
@@ -1228,7 +1228,7 @@
       CHANMODE 0
       GUID {19EE103A-3984-4B0C-AB3D-BE843B52DCE3}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-007-sequencer-Group-008.wav"
+        FILE "stems\alone mix d ALT-007-sequencer-Group-008.wav"
       >
     >
     <ITEM
@@ -1250,7 +1250,7 @@
       CHANMODE 0
       GUID {2A4D0CCA-32B4-4F67-A7A2-F6AA53E3DFB3}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-007-sequencer-Group-008.wav"
+        FILE "stems\alone mix d ALT-007-sequencer-Group-008.wav"
       >
     >
     <ITEM
@@ -1272,7 +1272,7 @@
       CHANMODE 0
       GUID {8A46277E-92FC-4DBD-900D-BADBAE0095D7}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-007-sequencer-Group-008.wav"
+        FILE "stems\alone mix d ALT-007-sequencer-Group-008.wav"
       >
     >
   >
@@ -1319,7 +1319,7 @@
       CHANMODE 0
       GUID {B125B43C-9B92-4DA8-AFD3-99EA59CBAC23}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-008-bassguitar-Group-009.wav"
+        FILE "stems\alone mix d ALT-008-bassguitar-Group-009.wav"
       >
     >
     <ITEM
@@ -1341,7 +1341,7 @@
       CHANMODE 0
       GUID {361D80CD-7A15-461F-A27E-6577165C2AAE}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-008-bassguitar-Group-009.wav"
+        FILE "stems\alone mix d ALT-008-bassguitar-Group-009.wav"
       >
     >
     <ITEM
@@ -1363,7 +1363,7 @@
       CHANMODE 0
       GUID {E1F68746-C8C8-4DB2-A90A-7B41ECD8ECDE}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-008-bassguitar-Group-009.wav"
+        FILE "stems\alone mix d ALT-008-bassguitar-Group-009.wav"
       >
     >
     <ITEM
@@ -1385,7 +1385,7 @@
       CHANMODE 0
       GUID {D7989FB8-D632-49B5-B051-A9088D52FA8B}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-008-bassguitar-Group-009.wav"
+        FILE "stems\alone mix d ALT-008-bassguitar-Group-009.wav"
       >
     >
     <ITEM
@@ -1407,7 +1407,7 @@
       CHANMODE 0
       GUID {56451605-B986-4F4D-B6F3-C07EAC7483E1}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-008-bassguitar-Group-009.wav"
+        FILE "stems\alone mix d ALT-008-bassguitar-Group-009.wav"
       >
     >
     <ITEM
@@ -1429,7 +1429,7 @@
       CHANMODE 0
       GUID {78C8776B-5EEF-4B36-9FCD-E3F3D2D14710}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-008-bassguitar-Group-009.wav"
+        FILE "stems\alone mix d ALT-008-bassguitar-Group-009.wav"
       >
     >
     <ITEM
@@ -1451,7 +1451,7 @@
       CHANMODE 0
       GUID {4EED9B60-8C5F-400C-A524-1ACEEE29C41B}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-008-bassguitar-Group-009.wav"
+        FILE "stems\alone mix d ALT-008-bassguitar-Group-009.wav"
       >
     >
     <ITEM
@@ -1473,7 +1473,7 @@
       CHANMODE 0
       GUID {D3986BD4-6B5F-4E0B-85FD-FD1281F4496C}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-008-bassguitar-Group-009.wav"
+        FILE "stems\alone mix d ALT-008-bassguitar-Group-009.wav"
       >
     >
     <ITEM
@@ -1495,7 +1495,7 @@
       CHANMODE 0
       GUID {37992916-0768-42D8-A3F8-5BC1410EC9FE}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-008-bassguitar-Group-009.wav"
+        FILE "stems\alone mix d ALT-008-bassguitar-Group-009.wav"
       >
     >
     <ITEM
@@ -1517,7 +1517,7 @@
       CHANMODE 0
       GUID {71CBE7DF-B460-408C-BBF2-B7933A05BC16}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-008-bassguitar-Group-009.wav"
+        FILE "stems\alone mix d ALT-008-bassguitar-Group-009.wav"
       >
     >
     <ITEM
@@ -1539,7 +1539,7 @@
       CHANMODE 0
       GUID {5D2539B1-0A7E-43B8-9A27-92298722210C}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-008-bassguitar-Group-009.wav"
+        FILE "stems\alone mix d ALT-008-bassguitar-Group-009.wav"
       >
     >
     <ITEM
@@ -1561,7 +1561,7 @@
       CHANMODE 0
       GUID {B6E70ABB-DE17-4055-AFB8-D2B21C3A35AD}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-008-bassguitar-Group-009.wav"
+        FILE "stems\alone mix d ALT-008-bassguitar-Group-009.wav"
       >
     >
     <ITEM
@@ -1583,7 +1583,7 @@
       CHANMODE 0
       GUID {6C119886-D5BB-4AF9-B2D5-3E090DFF8BD0}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-008-bassguitar-Group-009.wav"
+        FILE "stems\alone mix d ALT-008-bassguitar-Group-009.wav"
       >
     >
     <ITEM
@@ -1605,7 +1605,7 @@
       CHANMODE 0
       GUID {6324FDED-C411-41A1-8F2D-C2F521141888}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-008-bassguitar-Group-009.wav"
+        FILE "stems\alone mix d ALT-008-bassguitar-Group-009.wav"
       >
     >
     <ITEM
@@ -1627,7 +1627,7 @@
       CHANMODE 0
       GUID {AB48FFEB-6B06-46D9-BF65-7821005DF97A}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-008-bassguitar-Group-009.wav"
+        FILE "stems\alone mix d ALT-008-bassguitar-Group-009.wav"
       >
     >
     <ITEM
@@ -1649,7 +1649,7 @@
       CHANMODE 0
       GUID {8B4E4304-9FFF-4162-903B-05B2DD024396}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-008-bassguitar-Group-009.wav"
+        FILE "stems\alone mix d ALT-008-bassguitar-Group-009.wav"
       >
       <TAKEFX
         WNDRECT 21 49 962 525
@@ -1711,7 +1711,7 @@
       CHANMODE 0
       GUID {37A7CD8A-BA6F-4EDA-B067-1CF332C90CCC}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-013-vox1effect-Group-014.wav"
+        FILE "stems\alone mix d ALT-013-vox1effect-Group-014.wav"
       >
     >
     <ITEM
@@ -1733,7 +1733,7 @@
       CHANMODE 0
       GUID {9AEE793E-06EB-403C-B70A-F7B7C9DD006D}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-013-vox1effect-Group-014.wav"
+        FILE "stems\alone mix d ALT-013-vox1effect-Group-014.wav"
       >
     >
     <ITEM
@@ -1755,7 +1755,7 @@
       CHANMODE 0
       GUID {225A1D0B-83F7-45CD-8AB4-4CF30063C32F}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-013-vox1effect-Group-014.wav"
+        FILE "stems\alone mix d ALT-013-vox1effect-Group-014.wav"
       >
     >
   >
@@ -1802,7 +1802,7 @@
       CHANMODE 0
       GUID {5B288C38-F425-41A2-9188-58CA1CCE922C}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-011-guitar2-Group-012.wav"
+        FILE "stems\alone mix d ALT-011-guitar2-Group-012.wav"
       >
     >
     <ITEM
@@ -1824,7 +1824,7 @@
       CHANMODE 0
       GUID {B5D9288A-913B-4211-BDBF-F87BE13597C2}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-011-guitar2-Group-012.wav"
+        FILE "stems\alone mix d ALT-011-guitar2-Group-012.wav"
       >
     >
     <ITEM
@@ -1846,7 +1846,7 @@
       CHANMODE 0
       GUID {FA9730B1-92F5-4F38-AB3C-DE7FA133CBD6}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-011-guitar2-Group-012.wav"
+        FILE "stems\alone mix d ALT-011-guitar2-Group-012.wav"
       >
     >
     <ITEM
@@ -1868,7 +1868,7 @@
       CHANMODE 0
       GUID {306B5ADB-EFA1-4293-966F-D9D23E251708}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-011-guitar2-Group-012.wav"
+        FILE "stems\alone mix d ALT-011-guitar2-Group-012.wav"
       >
     >
   >
@@ -1959,7 +1959,7 @@
       CHANMODE 0
       GUID {831CCF48-F90E-4741-898E-4698139CAB08}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-013-vox1effect-Group-014.wav"
+        FILE "stems\alone mix d ALT-013-vox1effect-Group-014.wav"
       >
       <TAKEFX
         WNDRECT 21 49 962 525
@@ -1996,7 +1996,7 @@
       CHANMODE 0
       GUID {ABE2DFC4-605D-4A97-8A6D-1E3DC2F3BEED}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-013-vox1effect-Group-014.wav"
+        FILE "stems\alone mix d ALT-013-vox1effect-Group-014.wav"
       >
       <TAKEFX
         WNDRECT 21 49 962 525
@@ -2033,7 +2033,7 @@
       CHANMODE 0
       GUID {55F3DAC4-11A4-4D8A-BC77-3CB8A73D6E20}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-013-vox1effect-Group-014.wav"
+        FILE "stems\alone mix d ALT-013-vox1effect-Group-014.wav"
       >
       <TAKEFX
         WNDRECT 21 49 962 525
@@ -2070,7 +2070,7 @@
       CHANMODE 0
       GUID {BE47D007-DFFA-4AF5-B3FC-6891240E478D}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-013-vox1effect-Group-014.wav"
+        FILE "stems\alone mix d ALT-013-vox1effect-Group-014.wav"
       >
       <TAKEFX
         WNDRECT 21 49 962 525
@@ -2421,7 +2421,7 @@
       CHANMODE 0
       GUID {76B0D06D-BDF6-488D-81DE-C56FD154AD53}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-021-FX-022.wav"
+        FILE "stems\alone mix d ALT-021-FX-022.wav"
       >
     >
     <ITEM
@@ -2443,7 +2443,7 @@
       CHANMODE 0
       GUID {76706C76-9F95-4CE5-A321-E1ACE06ABB61}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-021-FX-022.wav"
+        FILE "stems\alone mix d ALT-021-FX-022.wav"
       >
     >
   >
@@ -2490,7 +2490,7 @@
       CHANMODE 0
       GUID {7D94C670-E901-4A12-BA6D-6DC1469D7567}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-023-FX-024.wav"
+        FILE "stems\alone mix d ALT-023-FX-024.wav"
       >
     >
     <ITEM
@@ -2512,7 +2512,7 @@
       CHANMODE 0
       GUID {B1CE74EA-8717-4E12-AD7C-A57F268DCEE0}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-023-FX-024.wav"
+        FILE "stems\alone mix d ALT-023-FX-024.wav"
       >
     >
   >
@@ -2559,7 +2559,7 @@
       CHANMODE 0
       GUID {02088EA8-D6FB-4FB0-93EE-C1D11BDBE808}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-030-FX-031.wav"
+        FILE "stems\alone mix d ALT-030-FX-031.wav"
       >
     >
     <ITEM
@@ -2581,7 +2581,7 @@
       CHANMODE 0
       GUID {7951ADBC-4F9D-4CC4-BFB9-EB535AB00F3E}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-030-FX-031.wav"
+        FILE "stems\alone mix d ALT-030-FX-031.wav"
       >
     >
     <ITEM
@@ -2603,7 +2603,7 @@
       CHANMODE 0
       GUID {2BADBF45-36C9-4ABA-AD71-6FE5ED2D1A98}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-030-FX-031.wav"
+        FILE "stems\alone mix d ALT-030-FX-031.wav"
       >
     >
     <ITEM
@@ -2625,7 +2625,7 @@
       CHANMODE 0
       GUID {0A7D3EC6-E064-4259-A5C9-D8BEB3552F98}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-030-FX-031.wav"
+        FILE "stems\alone mix d ALT-030-FX-031.wav"
       >
     >
     <ITEM
@@ -2647,7 +2647,7 @@
       CHANMODE 0
       GUID {350E16AD-4289-41C7-8313-6A896F4E6265}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-030-FX-031.wav"
+        FILE "stems\alone mix d ALT-030-FX-031.wav"
       >
     >
     <ITEM
@@ -2669,7 +2669,7 @@
       CHANMODE 0
       GUID {818B6DAA-6843-4023-AC30-3942B51D7A87}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-030-FX-031.wav"
+        FILE "stems\alone mix d ALT-030-FX-031.wav"
       >
     >
     <ITEM
@@ -2691,7 +2691,7 @@
       CHANMODE 0
       GUID {8106926F-DACB-49A0-AE4E-B99B2F8C9B70}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-030-FX-031.wav"
+        FILE "stems\alone mix d ALT-030-FX-031.wav"
       >
     >
     <ITEM
@@ -2713,7 +2713,7 @@
       CHANMODE 0
       GUID {57468841-537E-423A-BF09-2FA9E647173A}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-030-FX-031.wav"
+        FILE "stems\alone mix d ALT-030-FX-031.wav"
       >
     >
     <ITEM
@@ -2735,7 +2735,7 @@
       CHANMODE 0
       GUID {6979D476-120E-4307-8047-C3323B5037BA}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-030-FX-031.wav"
+        FILE "stems\alone mix d ALT-030-FX-031.wav"
       >
     >
     <ITEM
@@ -2757,7 +2757,7 @@
       CHANMODE 0
       GUID {65D79DF2-26E1-4658-B8E9-B805F205407F}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-030-FX-031.wav"
+        FILE "stems\alone mix d ALT-030-FX-031.wav"
       >
     >
     <ITEM
@@ -2779,7 +2779,7 @@
       CHANMODE 0
       GUID {4CA5299B-11A8-4896-81DD-251CA5841792}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-030-FX-031.wav"
+        FILE "stems\alone mix d ALT-030-FX-031.wav"
       >
     >
     <ITEM
@@ -2801,7 +2801,7 @@
       CHANMODE 0
       GUID {DE44D6D2-CBAF-4427-BBFF-B54D1280AA91}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-030-FX-031.wav"
+        FILE "stems\alone mix d ALT-030-FX-031.wav"
       >
     >
   >
@@ -2848,7 +2848,7 @@
       CHANMODE 0
       GUID {3E59D84F-9719-4BD0-89D4-71A488DF9C7C}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-010-guitar1-Group-011.wav"
+        FILE "stems\alone mix d ALT-010-guitar1-Group-011.wav"
       >
     >
     <ITEM
@@ -2870,7 +2870,7 @@
       CHANMODE 0
       GUID {948D6023-7768-4975-9905-828335EEE463}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-010-guitar1-Group-011.wav"
+        FILE "stems\alone mix d ALT-010-guitar1-Group-011.wav"
       >
     >
   >
@@ -4015,7 +4015,7 @@
       CHANMODE 0
       GUID {A8BA5266-77E4-4676-9373-C0CBCE20ACA6}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-012-farfisa-Group-013.wav"
+        FILE "stems\alone mix d ALT-012-farfisa-Group-013.wav"
       >
     >
   >
@@ -4203,7 +4203,7 @@
       CHANMODE 0
       GUID {B38BE627-BA60-4DBB-BFE8-0D1E1219C7AE}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-029-FX-030.wav"
+        FILE "stems\alone mix d ALT-029-FX-030.wav"
       >
       <TAKEFX
         WNDRECT 21 49 962 525
@@ -4240,7 +4240,7 @@
       CHANMODE 0
       GUID {3B62FB32-A2FB-4722-900E-0A65EEBEC098}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-029-FX-030.wav"
+        FILE "stems\alone mix d ALT-029-FX-030.wav"
       >
       <TAKEFX
         WNDRECT 21 49 962 525
@@ -4277,7 +4277,7 @@
       CHANMODE 0
       GUID {B612943C-995E-4C47-912C-B6BD555E3DFD}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-029-FX-030.wav"
+        FILE "stems\alone mix d ALT-029-FX-030.wav"
       >
       <TAKEFX
         WNDRECT 21 49 962 525
@@ -4314,7 +4314,7 @@
       CHANMODE 0
       GUID {1B26CB9D-5907-44EE-8A94-D5D2B6968EC7}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-029-FX-030.wav"
+        FILE "stems\alone mix d ALT-029-FX-030.wav"
       >
       <TAKEFX
         WNDRECT 21 49 962 525
@@ -4351,7 +4351,7 @@
       CHANMODE 0
       GUID {4A127E7D-9FCD-4003-A176-3DB55ECD1A34}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-029-FX-030.wav"
+        FILE "stems\alone mix d ALT-029-FX-030.wav"
       >
       <TAKEFX
         WNDRECT 21 49 962 525
@@ -4388,7 +4388,7 @@
       CHANMODE 0
       GUID {562652A8-58FB-4C8C-8D62-76484941FA82}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-029-FX-030.wav"
+        FILE "stems\alone mix d ALT-029-FX-030.wav"
       >
       <TAKEFX
         WNDRECT 21 49 962 525
@@ -4425,7 +4425,7 @@
       CHANMODE 0
       GUID {58E257D5-9624-4737-AA13-E65786824524}
       <SOURCE WAVE
-        FILE "D:\Innerspeaker - Into The Voodo Lab\Stems\Alone\alone mix d ALT-029-FX-030.wav"
+        FILE "stems\alone mix d ALT-029-FX-030.wav"
       >
       <TAKEFX
         WNDRECT 21 49 962 525
