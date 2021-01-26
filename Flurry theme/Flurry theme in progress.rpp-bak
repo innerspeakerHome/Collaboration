@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.15/x64" 1607266909
+<REAPER_PROJECT 0.1 "6.15/x64" 1611597649
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,9 +14,9 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
+  CURSOR 105
   ZOOM 9.13579078940042 0 0
-  VZOOMEX 6 0
+  VZOOMEX 6 94
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -55,8 +55,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 96 94
-  SELECTION2 96 94
+  SELECTION 0 0
+  SELECTION2 0 0
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -159,7 +159,7 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 0.30501425801 0 -1 -1 1
+    VOLPAN 0.07067705116086 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -197,6 +197,29 @@
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {718ED786-BD3D-4B27-95B3-66C87C13CF13}
+      <SOURCE WAVE
+        FILE "C:\Users\User\Desktop\samples & loops\cocktail-shaker-arabian-120.wav"
+      >
+    >
+    <ITEM
+      POSITION 48
+      SNAPOFFS 0
+      LENGTH 32
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {E74EEF1A-EE40-4BAB-869E-F88FF14D3B66}
+      IID 2
+      NAME cocktail-shaker-arabian-120.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E793D8A5-F491-46D5-9D6E-9A25191AE155}
       <SOURCE WAVE
         FILE "C:\Users\User\Desktop\samples & loops\cocktail-shaker-arabian-120.wav"
       >
@@ -469,7 +492,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 -1 0
@@ -577,7 +600,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {325EE0C4-8ECD-4C55-8D4B-8FBFF6F054BF}
       IID 49
       NAME "mocha-jones-x-the-weeknd C.mp3"
