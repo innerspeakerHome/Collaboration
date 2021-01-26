@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.15/x64" 1611590386
+<REAPER_PROJECT 0.1 "6.15/x64" 1611596414
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,8 +14,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 116.5
-  ZOOM 51.63782995885072 4379 0
+  CURSOR 171.5
+  ZOOM 36.68623525813729 5687 0
   VZOOMEX 6 0
   USE_REC_CFG 0
   RECMODE 1
@@ -55,8 +55,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 21 21
-  SELECTION2 21 21
+  SELECTION 193 193
+  SELECTION2 193 193
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -84,53 +84,6 @@
     DEFSHAPE 1 -1 -1
   >
   <PROJBAY
-  >
-  <TRACK {05E4CF13-3C54-4500-927D-47A7B3330372}
-    NAME "sad song vox 1"
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    FREEMODE 0
-    SEL 0
-    REC 0 0 1 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 -1 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {05E4CF13-3C54-4500-927D-47A7B3330372}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 2
-      SNAPOFFS 0
-      LENGTH 217.38
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {4B8C864B-DB6D-401C-84E2-6D3B7F8FCCCC}
-      IID 4
-      NAME "sad song vox 1.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 1.5
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {0DC61146-1D0B-4F90-9251-79F3AD6B3561}
-      <SOURCE MP3
-        FILE "stems\sad song vox 1.mp3" 1
-      >
-    >
   >
   <TRACK {C3D61F67-66BC-4AF4-B9DF-AE1FC54DAB44}
     NAME "sad song drum basis"
@@ -247,6 +200,28 @@
         FILE "C:\Users\User\Desktop\sad song piano.mp3" 1
       >
     >
+    <ITEM
+      POSITION 151.73098654769481
+      SNAPOFFS 0
+      LENGTH 55.2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {340B743D-31DD-4645-BF6C-ADCB3C54502B}
+      IID 31
+      NAME "sad song piano.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FF71E85E-F5D9-4340-8A82-638DC893E0E0}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\sad song piano.mp3" 1
+      >
+    >
   >
   <TRACK {2EE4A6BB-4596-4749-AE5C-DFBBB6DEFAB9}
     NAME "sad song extra drums"
@@ -316,6 +291,28 @@
         FILE "C:\Users\User\Desktop\sad song extra drums.mp3" 1
       >
     >
+    <ITEM
+      POSITION 137.92772148262182
+      SNAPOFFS 0
+      LENGTH 55.24480871683872
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {853AEB5E-70F0-4167-ACF2-3FAE98A8AF31}
+      IID 33
+      NAME "sad song extra drums.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DDE6C10D-BE65-4A92-A635-0AAD02982DB6}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\sad song extra drums.mp3" 1
+      >
+    >
   >
   <TRACK {A072F86C-7CD0-44FC-BE7F-EE1FE24BAC77}
     NAME "sad song drums 3"
@@ -364,8 +361,8 @@
       >
     >
   >
-  <TRACK {7C4381D3-9F8D-4C23-93D6-D841E7402682}
-    NAME "sad song piano2"
+  <TRACK {1598D43D-9A39-421B-856D-76A2D390563D}
+    NAME xylophone
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -384,35 +381,173 @@
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {7C4381D3-9F8D-4C23-93D6-D841E7402682}
+    TRACKID {1598D43D-9A39-421B-856D-76A2D390563D}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 69
+      POSITION 124.17253019946055
       SNAPOFFS 0
-      LENGTH 55
+      LENGTH 69
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
       SEL 0
-      IGUID {9DA68155-991E-4BD9-A3AF-8DF445A62361}
-      IID 36
-      NAME "sad song piano2.mp3"
+      IGUID {BBA7F2A9-31D1-4A62-BA1B-58ED2382C9B6}
+      IID 37
+      NAME xylophone.mp3
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {B3098085-ABCA-4345-B491-157E98357377}
+      GUID {66587A5D-6BCD-4C2D-BC63-323EE16AE8DA}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\sad song piano2.mp3" 1
+        FILE "C:\Users\User\Desktop\xylophone.mp3" 1
       >
     >
   >
-  <TRACK {1598D43D-9A39-421B-856D-76A2D390563D}
-    NAME xylophone
+  <TRACK {2DE7385C-AAD2-4D9F-B1F5-44053090DDCB}
+    NAME "sad synth 4"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1.31013106676666 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2DE7385C-AAD2-4D9F-B1F5-44053090DDCB}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 151.77253019946056
+      SNAPOFFS 0
+      LENGTH 55.22746980053944
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D738D028-4189-447A-BE34-1592147BB1BB}
+      IID 40
+      NAME "sad synth 4.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {706B59D9-48A7-4CD8-986C-4D19D6161798}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\sad synth 4.mp3" 1
+      >
+    >
+  >
+  <TRACK {3EFD9041-D848-4CF8-BEBD-A1CBCD7B0020}
+    NAME synth-lead-sunrise
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3EFD9041-D848-4CF8-BEBD-A1CBCD7B0020}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 151.77253019946056
+      SNAPOFFS 0
+      LENGTH 6.9
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0265C480-3E3C-486B-8351-13167FA14C3E}
+      IID 41
+      NAME synth-lead-sunrise.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A50243BE-E955-497F-9525-9A3E08742532}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\synth-lead-sunrise.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 165.55367728884798
+      SNAPOFFS 0
+      LENGTH 6.9
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4557500B-8467-401D-A781-B9DE60626528}
+      IID 41
+      NAME synth-lead-sunrise.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D2639A05-8087-4014-AC88-47DAE0BF78B6}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\synth-lead-sunrise.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 179.35551895690332
+      SNAPOFFS 0
+      LENGTH 6.9
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {581C7196-5112-4371-9F60-04DD7F398368}
+      IID 41
+      NAME synth-lead-sunrise.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BBF909C9-6685-4A74-B37B-2C8CF3E8CB9B}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\synth-lead-sunrise.mp3" 1
+      >
+    >
+  >
+  <TRACK {1391A698-65AD-479E-BC72-7E38DCB44193}
+    NAME "sad song piano2"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -431,30 +566,52 @@
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {1598D43D-9A39-421B-856D-76A2D390563D}
+    TRACKID {1391A698-65AD-479E-BC72-7E38DCB44193}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 124.17253019946055
+      POSITION 68.95730830537015
       SNAPOFFS 0
-      LENGTH 13.8
+      LENGTH 55.18748299319728
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {160112F2-580D-416D-86DF-047AEBE88DCC}
+      IID 48
+      NAME "sad song piano2.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0DC33D08-A550-4D85-A402-E49D1C5EC2D5}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\sad song piano2.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 179.30430728895649
+      SNAPOFFS 0
+      LENGTH 16.19569271104351
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
       SEL 1
-      IGUID {BBA7F2A9-31D1-4A62-BA1B-58ED2382C9B6}
-      IID 37
-      NAME xylophone.mp3
+      IGUID {E724B302-7A92-4001-91BE-0BBA4885674D}
+      IID 48
+      NAME "sad song piano2.mp3"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {66587A5D-6BCD-4C2D-BC63-323EE16AE8DA}
+      GUID {D64372DD-E236-47E2-91BE-90C5FEDC532D}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\xylophone.mp3" 1
+        FILE "C:\Users\User\Desktop\sad song piano2.mp3" 1
       >
     >
   >
