@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.15/x64" 1611680874
+<REAPER_PROJECT 0.1 "6.15/x64" 1611682251
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,8 +14,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 219.5
-  ZOOM 71.04526911253235 14107 0
+  CURSOR 0
+  ZOOM 4.61122669093424 0 0
   VZOOMEX 6 0
   USE_REC_CFG 0
   RECMODE 1
@@ -55,8 +55,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 213 213
-  SELECTION2 213 213
+  SELECTION 200 200
+  SELECTION2 200 200
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -176,8 +176,8 @@
       >
     >
   >
-  <TRACK {D141333F-B16C-462D-83D7-216A5915B165}
-    NAME "dead can dance strings 1"
+  <TRACK {AFC68956-44A7-4FA1-99FD-E8A0DDA28B6E}
+    NAME "flamenco-claps-and-percussion-krne 1"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -196,54 +196,7 @@
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {D141333F-B16C-462D-83D7-216A5915B165}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 0
-      SNAPOFFS 0
-      LENGTH 130.06
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {0A3BD2CA-F9C5-4AE8-A91C-26F63B030B4F}
-      IID 3
-      NAME "dead can dance strings 1.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {D2124331-6B50-440D-A1A7-B4BAC6385A95}
-      <SOURCE MP3
-        FILE "C:\Users\User\Desktop\dead can dance strings 1.mp3" 1
-      >
-    >
-  >
-  <TRACK {2C919678-8E88-477F-ABBA-1B2DCFCCF56B}
-    NAME "flamenco-claps-and-percussion-krne 1"
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 0.8454390564555 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    FREEMODE 0
-    SEL 1
-    REC 0 0 1 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 -1 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {2C919678-8E88-477F-ABBA-1B2DCFCCF56B}
+    TRACKID {AFC68956-44A7-4FA1-99FD-E8A0DDA28B6E}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -257,42 +210,42 @@
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
       SEL 0
-      IGUID {C0235DCF-779B-42EA-8B15-6EF2044EA572}
-      IID 6
+      IGUID {FBC68556-3F3F-4B19-B4DC-13E877FCC94D}
+      IID 16
       NAME "flamenco-claps-and-percussion-krne 1.mp3"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {C11B3547-4451-45BE-BCBA-720E34C3ACD2}
+      GUID {FD28BEE0-0789-4CF3-A16A-75B145BAA240}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\flamenco-claps-and-percussion-krne 1.mp3" 1
+        FILE "C:\Users\User\Desktop\samples & loops\flamenco-claps-and-percussion-krne 1.mp3" 1
       >
     >
     <ITEM
-      POSITION 180
+      POSITION 200
       SNAPOFFS 0
-      LENGTH 50.14903320445993
+      LENGTH 30.14903320445993
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
-      SEL 0
-      IGUID {92375AE1-2503-4909-B1D6-23D0AC1557B4}
-      IID 6
+      SEL 1
+      IGUID {F0B2BDD2-2B9B-4005-95A7-FD13F7283A17}
+      IID 16
       NAME "flamenco-claps-and-percussion-krne 1.mp3"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {3AB706A6-9280-48D1-8ADA-D4C2B170CDE6}
+      GUID {CAAC9854-5EE1-4E13-B9FF-243C6D39A0CE}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\flamenco-claps-and-percussion-krne 1.mp3" 1
+        FILE "C:\Users\User\Desktop\samples & loops\flamenco-claps-and-percussion-krne 1.mp3" 1
       >
     >
   >
-  <TRACK {D65CB881-97A5-49F4-B148-10856A31027E}
+  <TRACK {42E18652-4B3C-4273-B651-6B92B9B878D2}
     NAME "strings 1"
     PEAKCOL 16576
     BEAT -1
@@ -312,34 +265,34 @@
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {D65CB881-97A5-49F4-B148-10856A31027E}
+    TRACKID {42E18652-4B3C-4273-B651-6B92B9B878D2}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
       POSITION 140.07999999999973
       SNAPOFFS 0
-      LENGTH 79.92000000000027
+      LENGTH 80
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
       SEL 0
-      IGUID {D495753A-D0F5-4729-A646-A97CD73BE51B}
-      IID 8
+      IGUID {5976C065-D7C8-4B21-BDC5-EAF52F8C04E9}
+      IID 17
       NAME "strings 1.mp3"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {65AEB9C0-6C17-4F63-8CE3-8FA11187B888}
+      GUID {6BB705E8-C132-4938-BA65-ED27359C6086}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\strings 1.mp3" 1
+        FILE "C:\Users\User\Desktop\samples & loops\strings 1.mp3" 1
       >
     >
   >
-  <TRACK {03F4A784-2AC7-4C61-A6E7-D24C71C4E4AC}
+  <TRACK {BCF5D8A4-E191-4C85-993C-DCB2FE857349}
     NAME "strings 1 in D-E"
     PEAKCOL 16576
     BEAT -1
@@ -359,30 +312,77 @@
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {03F4A784-2AC7-4C61-A6E7-D24C71C4E4AC}
+    TRACKID {BCF5D8A4-E191-4C85-993C-DCB2FE857349}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 180.07999999999953
+      POSITION 180
       SNAPOFFS 0
-      LENGTH 40
+      LENGTH 39.86659863945579
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
-      SEL 1
-      IGUID {6AE3A321-30D8-4D06-AE93-268ED45A140D}
-      IID 15
+      SEL 0
+      IGUID {CA58957E-F898-4903-825F-AC41BA398515}
+      IID 18
       NAME "strings 1 in D-E.mp3"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {85A72BE6-1E3B-4BC2-A08F-E728473B6ADF}
+      GUID {EE3D74A9-DFBE-44D6-8478-4AAB3A9DEAF7}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\strings 1 in D-E.mp3" 1
+        FILE "C:\Users\User\Desktop\samples & loops\strings 1 in D-E.mp3" 1
+      >
+    >
+  >
+  <TRACK {501415B2-FA6C-44C5-9E32-C309ACBE26C7}
+    NAME "dead can dance strings 1"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {501415B2-FA6C-44C5-9E32-C309ACBE26C7}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 130.06
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0E0B67E8-E92F-482B-940C-44DA6BEB4706}
+      IID 19
+      NAME "dead can dance strings 1.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3FBFE831-1FE8-446F-9A0B-F721EB77D320}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\samples & loops\dead can dance strings 1.mp3" 1
       >
     >
   >
