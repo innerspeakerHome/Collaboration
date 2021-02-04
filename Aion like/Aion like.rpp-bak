@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.15/x64" 1611682251
+<REAPER_PROJECT 0.1 "6.15/x64" 1612462916
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,8 +14,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
-  ZOOM 4.61122669093424 0 0
+  CURSOR 150
+  ZOOM 6.4905471518875 0 0
   VZOOMEX 6 0
   USE_REC_CFG 0
   RECMODE 1
@@ -28,8 +28,8 @@
   <APPLYFX_CFG
   >
   RENDER_FILE ""
-  RENDER_PATTERN ""
-  RENDER_FMT 0 2 0
+  RENDER_PATTERN "Aion like"
+  RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
   RENDER_RESAMPLE 3 0 1
@@ -43,6 +43,7 @@
   TAKELANE 1
   SAMPLERATE 44100 0 0
   <RENDER_CFG
+    ZXZhdxgAAA==
   >
   LOCK 1
   <METRONOME 6 2
@@ -55,8 +56,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 200 200
-  SELECTION2 200 200
+  SELECTION 170.5 170.5
+  SELECTION2 170.5 170.5
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -156,7 +157,7 @@
     <ITEM
       POSITION 130
       SNAPOFFS 0
-      LENGTH 100
+      LENGTH 37.5
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -175,6 +176,28 @@
         FILE "C:\Users\User\Desktop\samples & loops\drum-loop.wav"
       >
     >
+    <ITEM
+      POSITION 170
+      SNAPOFFS 0
+      LENGTH 90
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7E65FA49-F134-4B13-930C-69B5F36FBE57}
+      IID 45
+      NAME drum-loop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D56C7C96-457E-47EF-A933-14D7413ABEB5}
+      <SOURCE WAVE
+        FILE "C:\Users\User\Desktop\samples & loops\drum-loop.wav"
+      >
+    >
   >
   <TRACK {AFC68956-44A7-4FA1-99FD-E8A0DDA28B6E}
     NAME "flamenco-claps-and-percussion-krne 1"
@@ -189,7 +212,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 -1 0
@@ -203,7 +226,7 @@
     <ITEM
       POSITION 80
       SNAPOFFS 0
-      LENGTH 60
+      LENGTH 87.5
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -223,15 +246,15 @@
       >
     >
     <ITEM
-      POSITION 200
+      POSITION 210
       SNAPOFFS 0
-      LENGTH 30.14903320445993
+      LENGTH 50.10999999999814
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {F0B2BDD2-2B9B-4005-95A7-FD13F7283A17}
       IID 16
       NAME "flamenco-claps-and-percussion-krne 1.mp3"
@@ -242,53 +265,6 @@
       GUID {CAAC9854-5EE1-4E13-B9FF-243C6D39A0CE}
       <SOURCE MP3
         FILE "C:\Users\User\Desktop\samples & loops\flamenco-claps-and-percussion-krne 1.mp3" 1
-      >
-    >
-  >
-  <TRACK {42E18652-4B3C-4273-B651-6B92B9B878D2}
-    NAME "strings 1"
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    FREEMODE 0
-    SEL 0
-    REC 0 0 1 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 -1 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {42E18652-4B3C-4273-B651-6B92B9B878D2}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 140.07999999999973
-      SNAPOFFS 0
-      LENGTH 80
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {5976C065-D7C8-4B21-BDC5-EAF52F8C04E9}
-      IID 17
-      NAME "strings 1.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {6BB705E8-C132-4938-BA65-ED27359C6086}
-      <SOURCE MP3
-        FILE "C:\Users\User\Desktop\samples & loops\strings 1.mp3" 1
       >
     >
   >
@@ -317,7 +293,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 180
+      POSITION 210.12999999999874
       SNAPOFFS 0
       LENGTH 39.86659863945579
       LOOP 1
@@ -383,6 +359,122 @@
       GUID {3FBFE831-1FE8-446F-9A0B-F721EB77D320}
       <SOURCE MP3
         FILE "C:\Users\User\Desktop\samples & loops\dead can dance strings 1.mp3" 1
+      >
+    >
+  >
+  <TRACK {4A70561C-1510-4CC1-8CBB-E63601C86649}
+    NAME piano-melody-883-abelouis
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4A70561C-1510-4CC1-8CBB-E63601C86649}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 130
+      SNAPOFFS 0
+      LENGTH 40
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F0EEAF43-DA48-433D-9BD8-CB800E0081E6}
+      IID 43
+      NAME piano-melody-883-abelouis.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ADE0AC16-38CD-4D5D-AB65-3C2C64BBCDFF}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\piano-melody-883-abelouis.mp3" 1
+      >
+    >
+  >
+  <TRACK {23DD5E42-181D-46CC-9A84-BE4B21DB3F81}
+    NAME "strings 1"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {23DD5E42-181D-46CC-9A84-BE4B21DB3F81}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 170.13999999999871
+      SNAPOFFS 0
+      LENGTH 40
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DB932569-8547-4973-98E2-A9EDC8E9C0D2}
+      IID 47
+      NAME "strings 1.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AD7AF4C8-6229-47A5-83F4-B71296AB3612}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\samples & loops\strings 1.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 210.13999999999871
+      SNAPOFFS 0
+      LENGTH 40
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {8206F244-3E23-4096-B9DB-8E4E24576DE2}
+      IID 47
+      NAME "strings 1.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E4350CAC-4641-4B96-BAFE-0A8F2013FBBF}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\samples & loops\strings 1.mp3" 1
       >
     >
   >
