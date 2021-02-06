@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.15/x64" 1612579806
+<REAPER_PROJECT 0.1 "6.15/x64" 1612581000
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,8 +14,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 49
-  ZOOM 12.85911208940585 55 0
+  CURSOR 0
+  ZOOM 6.49054715188754 0 0
   VZOOMEX 6 0
   USE_REC_CFG 0
   RECMODE 1
@@ -5267,202 +5267,6 @@
       >
     >
   >
-  <TRACK {F8B8B71B-510A-4D72-87C3-1E397C3B526E}
-    NAME ""
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 0.12406775897944 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    FREEMODE 0
-    SEL 1
-    REC 1 4096 1 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 -1 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {F8B8B71B-510A-4D72-87C3-1E397C3B526E}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <FXCHAIN
-      WNDRECT 21 49 832 775
-      SHOW 0
-      LASTSEL 0
-      DOCKED 0
-      BYPASS 0 0 0
-      <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 0 "" 1919251321<5653547265737972656173796E746800> ""
-        eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAABAAAAAAAAAAAAAEAA=
-        776t3g3wrd6mm8Q7F7fROgAAAAAAAAAAAAAAAM5NAD/pZ4g9AAAAAAAAAD8AAIA/AACAPwAAAD8AAAAAAAAAAA==
-        AAAQAAAA
-      >
-      FLOATPOS 0 0 0 0
-      FXID {D5B74795-1A27-4A48-8638-D9866733710C}
-      WAK 0 0
-    >
-    <ITEM
-      POSITION 124.94021026129732
-      SNAPOFFS 0
-      LENGTH 2.54399512815904
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {30136B95-DA44-42C5-843C-F0AD7D5073CA}
-      IID 92
-      VOLPAN 1
-      TAKE NULL
-      TAKE SEL
-      NAME "02-Recorded MIDI"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 24.72983164779258 49.45966329558516
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 17989842 R
-      GUID {94B0C82C-1AB4-4025-B05B-3A3B1518476F}
-      RECPASS 5
-      <SOURCE MIDI
-        HASDATA 1 960 QN
-        CCINTERP 32
-        POOLEDEVTS {4DDB10A8-9059-4ABB-9C31-C92D934F9E1A}
-        E 9370 90 41 4c
-        E 15 90 46 6c
-        E 2481 90 41 00
-        E 1 90 46 00
-        E 2307 90 44 42
-        E 3 90 41 3e
-        E 4368 90 44 00
-        E 39 90 41 00
-        E 406 90 41 41
-        E 24 90 42 45
-        E 1195 90 42 00
-        E 4 90 41 00
-        E 8198 90 41 6c
-        E 15 90 46 74
-        E 3022 90 44 72
-        E 95 90 46 00
-        E 1453 90 44 00
-        E 49 90 41 00
-        E 288 90 41 7b
-        E 4 90 44 7b
-        E 2917 90 42 7f
-        E 77 90 44 00
-        E 1930 90 42 00
-        E 32 90 41 00
-        E 9407 90 41 6c
-        E 16 90 46 74
-        E 2916 90 44 6c
-        E 137 90 46 00
-        E 1525 90 44 00
-        E 52 90 41 00
-        E 20 b0 7b 00
-        CCINTERP 32
-        CHASE_CC_TAKEOFFS 1
-        GUID {34B5634C-084B-4537-8F59-44832EBBBB12}
-        IGNTEMPO 0 120 4 4
-        SRCCOLOR 25
-        VELLANE -1 100 0
-      >
-    >
-    <ITEM
-      POSITION 127.48420538945636
-      SNAPOFFS 0
-      LENGTH 2.4444316709605
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 1
-      IGUID {FA80C9A4-C56B-471C-81BF-40679C1F29CC}
-      IID 103
-      VOLPAN 1
-      TAKE NULL
-      TAKE SEL
-      NAME "02-Recorded MIDI"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 0 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 17989842 R
-      GUID {9A949B46-4E05-4A54-A0F6-9F6B75DDAF31}
-      RECPASS 5
-      <SOURCE MIDI
-        HASDATA 1 960 QN
-        CCINTERP 32
-        POOLEDEVTS {400D9B47-DE1F-4ADF-ADA4-B6CDB14139A3}
-        E 164 90 41 72
-        E 10 90 44 77
-        E 2887 90 42 46
-        E 254 90 44 00
-        E 1172 90 42 00
-        E 91 90 41 00
-        E 391 90 41 4a
-        E 2 90 46 68
-        E 2994 90 44 6c
-        E 62 90 46 00
-        E 1312 90 41 00
-        E 4 90 44 00
-        E 357 90 41 56
-        E 10 90 44 72
-        E 2845 90 42 41
-        E 99 90 44 00
-        E 1506 90 42 00
-        E 75 90 41 00
-        E 333 90 46 5f
-        E 3 90 41 4f
-        E 2912 90 44 6c
-        E 126 90 46 00
-        E 1525 90 44 00
-        E 39 90 41 00
-        E 174 90 41 4f
-        E 6 90 44 64
-        E 2874 90 42 56
-        E 123 90 44 00
-        E 1414 90 42 00
-        E 142 90 41 00
-        E 300 90 41 4c
-        E 3 90 46 68
-        E 2801 90 44 45
-        E 166 90 46 00
-        E 1483 90 44 00
-        E 8 90 41 00
-        E 260 90 41 5a
-        E 3 90 44 70
-        E 2966 90 42 45
-        E 67 90 44 00
-        E 1244 90 42 00
-        E 120 90 41 00
-        E 443 90 41 72
-        E 6 90 46 74
-        E 2970 90 44 5f
-        E 128 90 46 00
-        E 1603 90 44 00
-        E 38 90 41 00
-        E 226 90 41 4a
-        E 0 90 44 4c
-        E 2919 90 42 3d
-        E 104 90 44 00
-        E 1745 90 42 00
-        E 10 90 41 00
-        E 9170 b0 7b 00
-        CCINTERP 32
-        CHASE_CC_TAKEOFFS 1
-        GUID {BA691DEA-4431-46AA-B9E5-E8FFDC55816C}
-        IGNTEMPO 0 120 4 4
-        SRCCOLOR 33
-        VELLANE -1 100 0
-      >
-    >
-  >
   <TRACK {AFC68956-44A7-4FA1-99FD-E8A0DDA28B6E}
     NAME "flamenco-claps-and-percussion-krne 1"
     PEAKCOL 16576
@@ -5871,6 +5675,53 @@
       GUID {13C8088D-0F8A-4839-9B6E-1E1B340252EA}
       <SOURCE MP3
         FILE "stems\piano-melody-883-abelouis.mp3" 1
+      >
+    >
+  >
+  <TRACK {349D964C-33E5-4DBC-A3CC-531D47E715A2}
+    NAME dubstep-atmosphere
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {349D964C-33E5-4DBC-A3CC-531D47E715A2}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 124.87999999999825
+      SNAPOFFS 0
+      LENGTH 5.26782848724757
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {89BC2F75-2EC3-4654-83AA-586707D200B7}
+      IID 124
+      NAME dubstep-atmosphere.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6B49CD8C-504F-4BC3-8A30-0715FF8283E6}
+      <SOURCE WAVE
+        FILE "C:\Users\User\Desktop\dubstep-atmosphere.wav"
       >
     >
   >

@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.15/x64" 1611672823
+<REAPER_PROJECT 0.1 "6.15/x64" 1611683107
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,8 +14,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 143.5
-  ZOOM 25.47655226259524 1763 0
+  CURSOR 0
+  ZOOM 25.47655226259524 0 0
   VZOOMEX 6 0
   USE_REC_CFG 0
   RECMODE 1
@@ -28,8 +28,8 @@
   <APPLYFX_CFG
   >
   RENDER_FILE ""
-  RENDER_PATTERN ""
-  RENDER_FMT 0 2 0
+  RENDER_PATTERN "Flurry theme in progress"
+  RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
   RENDER_RESAMPLE 3 0 1
@@ -43,6 +43,7 @@
   TAKELANE 1
   SAMPLERATE 44100 0 0
   <RENDER_CFG
+    ZXZhdxgAAA==
   >
   LOCK 1
   <METRONOME 6 2
@@ -55,8 +56,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 0 0
-  SELECTION2 0 0
+  SELECTION 148 144
+  SELECTION2 148 144
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -84,119 +85,6 @@
     DEFSHAPE 1 -1 -1
   >
   <PROJBAY
-  >
-  <TRACK {2FA688CB-ACA5-4D81-8F57-53883200C154}
-    NAME "flury 1"
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    FREEMODE 0
-    SEL 0
-    REC 0 0 1 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 -1 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {2FA688CB-ACA5-4D81-8F57-53883200C154}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 0
-      SNAPOFFS 0
-      LENGTH 32
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {37E5180E-6F21-4925-ACF4-22B4401C1C7D}
-      IID 1
-      NAME "flury 1.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {9C86AD52-FFC0-44CE-A4DE-8253D0F6A05D}
-      <SOURCE MP3
-        FILE "C:\Users\User\Desktop\flurry\flury 1.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 48
-      SNAPOFFS 0
-      LENGTH 32
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {CECDC0B5-C9E3-41B6-ABA8-81BBE32F4AA2}
-      IID 1
-      NAME "flury 1.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {B261C8F2-38DE-4DAF-9897-7B2E94756305}
-      <SOURCE MP3
-        FILE "C:\Users\User\Desktop\flurry\flury 1.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 96
-      SNAPOFFS 0
-      LENGTH 32
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {82BA47A7-22A9-4223-8713-BAA1CCB6D7E5}
-      IID 1
-      NAME "flury 1.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {1A775BC6-2C02-45BA-87B6-D1D15DFBDCD9}
-      <SOURCE MP3
-        FILE "C:\Users\User\Desktop\flurry\flury 1.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 128
-      SNAPOFFS 0
-      LENGTH 16
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {0495AB1C-3632-4C6E-B170-7C63EF5AB6DE}
-      IID 1
-      NAME "flury 1.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {28A82A2C-F415-4901-94E4-F46818615FFD}
-      <SOURCE MP3
-        FILE "C:\Users\User\Desktop\flurry\flury 1.mp3" 1
-      >
-    >
   >
   <TRACK {50FF76A3-D641-4A76-9E4D-43695C7F5577}
     NAME cocktail-shaker-arabian-120
@@ -338,254 +226,6 @@
       >
     >
   >
-  <TRACK {DEC73A35-8FC7-4816-83E7-61365A86BA5D}
-    NAME weird-drum-pattern
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    FREEMODE 0
-    SEL 0
-    REC 0 0 1 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 -1 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {DEC73A35-8FC7-4816-83E7-61365A86BA5D}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 16
-      SNAPOFFS 0
-      LENGTH 64
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {062DAB0E-151E-48BE-B3EA-7AE7415DB822}
-      IID 3
-      NAME weird-drum-pattern.mp3
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {1ABE2770-A6C7-4AE7-B2BC-6F20118C5E00}
-      <SOURCE MP3
-        FILE "C:\Users\User\Desktop\flurry\weird-drum-pattern.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 88
-      SNAPOFFS 0
-      LENGTH 8.00000999995973
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {C8508098-B370-46D3-B4EF-5551F1ABC65F}
-      IID 29
-      NAME weird-drum-pattern.mp3
-      VOLPAN 1 0 1 -1
-      SOFFS 2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {693045A8-DA22-4C5B-8226-CD221165E953}
-      <SOURCE MP3
-        FILE "C:\Users\User\Desktop\flurry\weird-drum-pattern.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 112
-      SNAPOFFS 0
-      LENGTH 32
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {8EA1B201-6E54-4292-B7C3-21B08ACAB70F}
-      IID 3
-      NAME weird-drum-pattern.mp3
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {3455290B-AD40-4158-939D-C423A70F85D9}
-      <SOURCE MP3
-        FILE "C:\Users\User\Desktop\flurry\weird-drum-pattern.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 148
-      SNAPOFFS 0
-      LENGTH 28
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {3FC02DAF-8D9F-44B6-A4AD-3B7BB4ABEDA5}
-      IID 3
-      NAME weird-drum-pattern.mp3
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {13DAAFD2-8517-419F-B465-710634AF14CA}
-      <SOURCE MP3
-        FILE "C:\Users\User\Desktop\flurry\weird-drum-pattern.mp3" 1
-      >
-    >
-  >
-  <TRACK {5C42FD8B-531D-4859-A470-257E9F8F2BB0}
-    NAME "flury 2"
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    FREEMODE 0
-    SEL 0
-    REC 0 0 1 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 -1 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {5C42FD8B-531D-4859-A470-257E9F8F2BB0}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 32
-      SNAPOFFS 0
-      LENGTH 16
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {1294FD8C-C0C7-40FE-A899-281E8A38AF48}
-      IID 4
-      NAME "flury 2.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {8A823810-DC64-4F22-8787-B798F968D6C1}
-      <SOURCE MP3
-        FILE "C:\Users\User\Desktop\flurry\flury 2.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 80
-      SNAPOFFS 0
-      LENGTH 0.00001
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {EB21206D-914E-4823-8465-020357B3BDBD}
-      IID 30
-      NAME "flury 2.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 14
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {A49922DA-275C-442F-82CA-021B23173F5D}
-      <SOURCE MP3
-        FILE "C:\Users\User\Desktop\flurry\flury 2.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 80.00000999995973
-      SNAPOFFS 0
-      LENGTH 16
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {F22193BE-F48D-4EE8-9606-D8536C554590}
-      IID 4
-      NAME "flury 2.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {5476174E-09E1-46BB-9CEE-0207FBD6F384}
-      <SOURCE MP3
-        FILE "C:\Users\User\Desktop\flurry\flury 2.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 144
-      SNAPOFFS 0
-      LENGTH 16
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {D575F69F-DFBE-4D15-B808-3EB59AE64131}
-      IID 4
-      NAME "flury 2.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {A35AD32E-694A-4247-9F2F-7167704DC02B}
-      <SOURCE MP3
-        FILE "C:\Users\User\Desktop\flurry\flury 2.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 160
-      SNAPOFFS 0
-      LENGTH 16
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {A009CEBB-FFBF-4FAB-ABAC-9895DC33660D}
-      IID 4
-      NAME "flury 2.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {F7924A5F-92BA-437C-85B6-B91A61FFA80E}
-      <SOURCE MP3
-        FILE "C:\Users\User\Desktop\flurry\flury 2.mp3" 1
-      >
-    >
-  >
   <TRACK {6A45C643-1463-4595-B5FB-91459D021319}
     NAME "mocha-jones-x-the-weeknd C"
     PEAKCOL 16576
@@ -696,53 +336,6 @@
       GUID {FAB862A6-0EFB-45C4-88C1-108EFF7935CB}
       <SOURCE MP3
         FILE "C:\Users\User\Desktop\samples & loops\mocha-jones-x-the-weeknd C.mp3" 1
-      >
-    >
-  >
-  <TRACK {3DEE4E37-FBFE-446D-A123-04BA31AD88A2}
-    NAME "weird drum short"
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    FREEMODE 0
-    SEL 0
-    REC 0 0 1 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 -1 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {3DEE4E37-FBFE-446D-A123-04BA31AD88A2}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 84
-      SNAPOFFS 0
-      LENGTH 4
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {B70E5A0A-D199-41D2-8185-056905EFAD89}
-      IID 35
-      NAME "weird drum short.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {11D4A8EE-EEFB-41F8-BF74-6D37578477C1}
-      <SOURCE MP3
-        FILE "C:\Users\User\Desktop\flurry\weird drum short.mp3" 1
       >
     >
   >
@@ -859,6 +452,7 @@
         GUID {C2AD1450-BD2A-43C6-921D-E30CFB1B90FF}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 21
+        VELLANE -1 100 0
       >
     >
     <ITEM
@@ -2438,6 +2032,7 @@
         GUID {6FCD8956-47F1-4305-8630-F9A69CE73FF3}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 20
+        VELLANE -1 100 0
       >
       TAKE NULL
     >
@@ -4018,6 +3613,7 @@
         GUID {B2BC6B4C-4364-4254-A94B-2DE2B9D10BE1}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 15
+        VELLANE -1 100 0
       >
       TAKE SEL
       NAME "07-midi 1-Recorded MIDI"
@@ -4065,6 +3661,7 @@
         GUID {D1B497C8-4478-4F72-886F-7DDDE3134FD1}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 22
+        VELLANE -1 100 0
       >
     >
     <ITEM
@@ -4205,7 +3802,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 -1 0
@@ -4599,7 +4196,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {A6B8BCAC-02B8-4E9E-8F29-E16E5C06811C}
       IID 49
       NAME "mocha-jones-x-the-weeknd C.mp3"
@@ -4610,6 +4207,348 @@
       GUID {17C526C9-0AC2-4A9A-86E1-F6452C677C49}
       <SOURCE MP3
         FILE "C:\Users\User\Desktop\samples & loops\mocha-jones-x-the-weeknd C.mp3" 1
+      >
+    >
+  >
+  <TRACK {67250C58-B764-48E9-8F86-69678B503EF6}
+    NAME "flury 1"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {67250C58-B764-48E9-8F86-69678B503EF6}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 32
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1A7DD487-BAC9-4A9E-9324-BE5B2731C0E9}
+      IID 100
+      NAME "flury 1.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4EA3EE18-9064-4FEC-8FBD-44CA82D12EA7}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\samples & loops\flurry\flury 1.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 48
+      SNAPOFFS 0
+      LENGTH 32
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D6BFFE4F-878A-47A7-9BEC-90F3CFCB925E}
+      IID 100
+      NAME "flury 1.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3F83CFA3-F4C7-4D0B-89D3-C1561BD5EF15}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\samples & loops\flurry\flury 1.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 96
+      SNAPOFFS 0
+      LENGTH 48
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0A419274-0B43-4237-9BA3-2C656B346DC7}
+      IID 100
+      NAME "flury 1.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F95BC196-0E4A-41D8-ADA7-4CCD45FC67CA}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\samples & loops\flurry\flury 1.mp3" 1
+      >
+    >
+  >
+  <TRACK {6C182F31-7D3E-454D-8A58-8EC53AF7BDBC}
+    NAME "flury 2"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {6C182F31-7D3E-454D-8A58-8EC53AF7BDBC}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 32
+      SNAPOFFS 0
+      LENGTH 16
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {497C9AF5-333D-4ACE-940C-A7A38D6E0D55}
+      IID 101
+      NAME "flury 2.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4F9CDAE3-C8A5-4921-ABA1-95A71DF7E460}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\samples & loops\flurry\flury 2.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 80
+      SNAPOFFS 0
+      LENGTH 16
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {948F933E-3AF3-4CAB-A7DA-09180254A7AC}
+      IID 101
+      NAME "flury 2.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4CADA94A-4618-46F5-A9E3-5C25C8B060EA}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\samples & loops\flurry\flury 2.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 144
+      SNAPOFFS 0
+      LENGTH 32
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {42C4AEA9-69EB-44BC-8F14-864C56881667}
+      IID 101
+      NAME "flury 2.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {88B8197B-D94A-4DC5-8218-C5006433E87A}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\samples & loops\flurry\flury 2.mp3" 1
+      >
+    >
+  >
+  <TRACK {70F9A3FD-411B-4532-A0E6-9D7B38D25700}
+    NAME "weird drum short"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {70F9A3FD-411B-4532-A0E6-9D7B38D25700}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 84
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6ABCF296-5B14-4C0E-A65C-DC9637D1E7AD}
+      IID 102
+      NAME "weird drum short.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {639BD573-75D2-463E-99D4-F9ABA567E84F}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\samples & loops\flurry\weird drum short.mp3" 1
+      >
+    >
+  >
+  <TRACK {D10F6A1B-CA90-4CBB-8071-4E864EBD6B50}
+    NAME weird-drum-pattern
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D10F6A1B-CA90-4CBB-8071-4E864EBD6B50}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 16
+      SNAPOFFS 0
+      LENGTH 64
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {35A2F50B-80EB-4FF8-86D2-454A55B128D7}
+      IID 103
+      NAME weird-drum-pattern.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2128835B-60CC-45CE-A662-74B1501108BE}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\samples & loops\flurry\weird-drum-pattern.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 88
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D880F28E-5769-4D18-8EA5-0A56C27786AF}
+      IID 103
+      NAME weird-drum-pattern.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FA73F899-4DF5-4BA8-B51B-21FF24561819}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\samples & loops\flurry\weird-drum-pattern.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 112
+      SNAPOFFS 0
+      LENGTH 32
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {BC59A6F5-41F9-4433-A1F8-CF27530F5CDD}
+      IID 103
+      NAME weird-drum-pattern.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {57184B6B-E9F8-43A2-97E2-0A34921F3421}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\samples & loops\flurry\weird-drum-pattern.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 148
+      SNAPOFFS 0
+      LENGTH 28
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {3890289A-4A9D-4A70-A905-DD625D131B6B}
+      IID 111
+      NAME weird-drum-pattern.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {44673395-7DF7-49C3-B89F-BA9DE75AF315}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\samples & loops\flurry\weird-drum-pattern.mp3" 1
       >
     >
   >
