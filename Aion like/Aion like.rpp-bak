@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.15/x64" 1612467565
+<REAPER_PROJECT 0.1 "6.15/x64" 1612570158
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,7 +14,7 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 107
+  CURSOR 128
   ZOOM 9.1357907894005 0 0
   VZOOMEX 6 0
   USE_REC_CFG 0
@@ -65,7 +65,7 @@
   MASTERTRACKVIEW 0 0.6667 0.5 0.5 -1 -1 -1 0 0 0 -1 -1 0
   MASTERHWOUT 0 0 1 0 0 0 0 -1
   MASTER_NCH 2 2
-  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_VOLUME 1.26386553538292 0 -1 -1 1
   MASTER_FX 1
   MASTER_SEL 0
   <MASTERPLAYSPEEDENV
@@ -281,7 +281,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 -1 0
@@ -323,7 +323,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {A4D42156-5D83-4F97-B2C7-959E66C8BE64}
       IID 54
       NAME "strings 1 in D-E.mp3"
@@ -364,7 +364,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 130.06
+      LENGTH 130
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -381,53 +381,6 @@
       GUID {3FBFE831-1FE8-446F-9A0B-F721EB77D320}
       <SOURCE MP3
         FILE "C:\Users\User\Desktop\samples & loops\dead can dance strings 1.mp3" 1
-      >
-    >
-  >
-  <TRACK {4A70561C-1510-4CC1-8CBB-E63601C86649}
-    NAME piano-melody-883-abelouis
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    FREEMODE 0
-    SEL 0
-    REC 0 0 1 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 -1 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {4A70561C-1510-4CC1-8CBB-E63601C86649}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 130
-      SNAPOFFS 0
-      LENGTH 40
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {F0EEAF43-DA48-433D-9BD8-CB800E0081E6}
-      IID 43
-      NAME piano-melody-883-abelouis.mp3
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {ADE0AC16-38CD-4D5D-AB65-3C2C64BBCDFF}
-      <SOURCE MP3
-        FILE "C:\Users\User\Desktop\piano-melody-883-abelouis.mp3" 1
       >
     >
   >
@@ -541,6 +494,53 @@
       GUID {60788861-E883-45B2-832B-2EFF7EC2C6EA}
       <SOURCE MP3
         FILE "C:\Users\User\Desktop\samples & loops\strings 1.mp3" 1
+      >
+    >
+  >
+  <TRACK {67380CBF-C2FF-4FAE-8C88-9B77647DFB56}
+    NAME piano-melody-883-abelouis
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {67380CBF-C2FF-4FAE-8C88-9B77647DFB56}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 130
+      SNAPOFFS 0
+      LENGTH 40
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {D6591029-011C-4478-816A-23311BC6DA44}
+      IID 62
+      NAME piano-melody-883-abelouis.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {13C8088D-0F8A-4839-9B6E-1E1B340252EA}
+      <SOURCE MP3
+        FILE "stems\piano-melody-883-abelouis.mp3" 1
       >
     >
   >

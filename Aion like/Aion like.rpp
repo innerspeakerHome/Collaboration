@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.15/x64" 1612468854
+<REAPER_PROJECT 0.1 "6.15/x64" 1612572657
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,8 +14,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 123
-  ZOOM 9.1357907894005 0 0
+  CURSOR 125
+  ZOOM 6.49054715188752 0 0
   VZOOMEX 6 0
   USE_REC_CFG 0
   RECMODE 1
@@ -56,8 +56,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 170.5 170.5
-  SELECTION2 170.5 170.5
+  SELECTION 0 0
+  SELECTION2 0 0
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -113,7 +113,7 @@
     <ITEM
       POSITION 20
       SNAPOFFS 0
-      LENGTH 54.99827664399049
+      LENGTH 45
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -133,9 +133,9 @@
       >
     >
     <ITEM
-      POSITION 80
+      POSITION 70
       SNAPOFFS 0
-      LENGTH 45
+      LENGTH 55
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -199,6 +199,1489 @@
       >
     >
   >
+  <TRACK {49F856B5-48A2-4AE6-8FDB-7E7DC0A6C29D}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.14437371124641 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 1
+    REC 1 4096 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {49F856B5-48A2-4AE6-8FDB-7E7DC0A6C29D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 21 49 832 775
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 0 "" 1919251321<5653547265737972656173796E746800> ""
+        eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAABAAAAAAAAAAAAAEAA=
+        776t3g3wrd6mm8Q7F7fROgAAAAAAAAAAAAAAAM5NAD/pZ4g9AAAAAAAAAD8AAIA/AACAPwAAAD8AAAAAAAAAAA==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {EDD844A9-1B91-44FF-A2DC-35B7C45F1AAC}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 69.68796180021234
+      SNAPOFFS 0
+      LENGTH 60.31203819978766
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {7ADA6620-2C76-4CFC-9E38-C6E94EC42D1B}
+      IID 73
+      NAME "02-Recorded MIDI"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {41E3EE70-2B41-4CAE-BC25-5AC903BA4C6B}
+      RECPASS 2
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {827A42C7-4AD2-4C45-8C37-F03F620A3C63}
+        E 10240 90 4b 7f
+        E 19 e0 00 3e
+        E 7 e0 00 3c
+        E 9 e0 00 3a
+        E 7 e0 00 38
+        E 15 e0 00 36
+        E 8 e0 00 34
+        E 7 e0 00 32
+        E 9 e0 00 30
+        E 8 e0 00 2e
+        E 8 e0 00 2c
+        E 3 e0 00 2a
+        E 0 e0 00 28
+        E 6 e0 00 26
+        E 8 e0 00 24
+        E 8 e0 00 22
+        E 8 e0 00 20
+        E 7 e0 00 1e
+        E 15 e0 00 1c
+        E 8 e0 00 1a
+        E 7 e0 00 18
+        E 9 e0 00 16
+        E 13 e0 00 14
+        E 9 e0 00 12
+        E 8 e0 00 10
+        E 7 e0 00 0e
+        E 9 e0 00 0c
+        E 7 e0 00 0a
+        E 6 e0 00 08
+        E 9 e0 00 06
+        E 7 e0 00 04
+        E 9 e0 00 02
+        E 7 e0 00 00
+        E 2809 e0 00 02
+        E 8 e0 00 04
+        E 3 e0 00 06
+        E 0 e0 00 08
+        E 9 e0 00 0a
+        E 7 e0 00 0c
+        E 8 e0 00 0e
+        E 25 e0 00 10
+        E 8 e0 00 12
+        E 7 e0 00 14
+        E 9 e0 00 16
+        E 7 e0 00 18
+        E 9 e0 00 1a
+        E 3 e0 00 1c
+        E 8 e0 00 1e
+        E 8 e0 00 20
+        E 9 e0 00 22
+        E 8 e0 00 24
+        E 14 e0 00 26
+        E 9 e0 00 28
+        E 7 e0 00 2a
+        E 9 e0 00 2c
+        E 7 e0 00 2e
+        E 7 e0 00 30
+        E 7 e0 00 32
+        E 7 e0 00 34
+        E 8 e0 00 36
+        E 8 e0 00 38
+        E 8 e0 00 3a
+        E 7 e0 00 3c
+        E 6 e0 00 3e
+        E 7 e0 00 40
+        E 1482 e0 00 3e
+        E 7 e0 00 3c
+        E 8 e0 00 3a
+        E 5 e0 00 38
+        E 0 e0 00 36
+        E 0 e0 00 34
+        E 5 e0 00 32
+        E 7 e0 00 30
+        E 9 e0 00 2e
+        E 7 e0 00 2c
+        E 8 e0 00 2a
+        E 15 e0 00 28
+        E 8 e0 00 26
+        E 8 e0 00 24
+        E 24 e0 00 22
+        E 8 e0 00 20
+        E 8 e0 00 1e
+        E 8 e0 00 1c
+        E 9 e0 00 1a
+        E 12 e0 00 18
+        E 8 e0 00 16
+        E 9 e0 00 14
+        E 7 e0 00 12
+        E 7 e0 00 10
+        E 9 e0 00 0e
+        E 3 e0 00 0c
+        E 0 e0 00 0a
+        E 0 e0 00 08
+        E 4 e0 00 06
+        E 9 e0 00 04
+        E 33 e0 00 02
+        E 7 e0 00 00
+        E 2863 e0 00 02
+        E 7 e0 00 04
+        E 9 e0 00 06
+        E 14 e0 00 08
+        E 9 e0 00 0a
+        E 7 e0 00 0c
+        E 8 e0 00 0e
+        E 8 e0 00 10
+        E 8 e0 00 12
+        E 5 e0 00 14
+        E 8 e0 00 16
+        E 7 e0 00 18
+        E 9 e0 00 1a
+        E 8 e0 00 1c
+        E 8 e0 00 1e
+        E 0 e0 00 20
+        E 0 e0 00 22
+        E 1 e0 00 24
+        E 7 e0 00 26
+        E 9 e0 00 28
+        E 7 e0 00 2a
+        E 9 e0 00 2c
+        E 14 e0 00 2e
+        E 7 e0 00 30
+        E 9 e0 00 32
+        E 7 e0 00 34
+        E 8 e0 00 36
+        E 15 e0 00 38
+        E 7 e0 00 3a
+        E 9 e0 00 3c
+        E 8 e0 00 3e
+        E 8 e0 00 40
+        E 1545 90 4b 00
+        E 9518 90 4b 74
+        E 23 e0 00 3e
+        E 8 e0 00 3c
+        E 8 e0 00 3a
+        E 14 e0 00 38
+        E 9 e0 00 36
+        E 7 e0 00 34
+        E 9 e0 00 32
+        E 7 e0 00 30
+        E 14 e0 00 2e
+        E 9 e0 00 2c
+        E 8 e0 00 2a
+        E 8 e0 00 28
+        E 14 e0 00 26
+        E 7 e0 00 24
+        E 9 e0 00 22
+        E 8 e0 00 20
+        E 7 e0 00 1e
+        E 9 e0 00 1c
+        E 3 e0 00 1a
+        E 0 e0 00 18
+        E 8 e0 00 16
+        E 8 e0 00 14
+        E 8 e0 00 12
+        E 7 e0 00 10
+        E 15 e0 00 0e
+        E 7 e0 00 0c
+        E 9 e0 00 0a
+        E 8 e0 00 08
+        E 7 e0 00 06
+        E 15 e0 00 04
+        E 8 e0 00 02
+        E 8 e0 00 00
+        E 2818 e0 00 02
+        E 8 e0 00 04
+        E 14 e0 00 06
+        E 8 e0 00 08
+        E 8 e0 00 0a
+        E 8 e0 00 0c
+        E 8 e0 00 0e
+        E 7 e0 00 10
+        E 7 e0 00 12
+        E 8 e0 00 14
+        E 9 e0 00 16
+        E 7 e0 00 18
+        E 9 e0 00 1a
+        E 4 e0 00 1c
+        E 0 e0 00 1e
+        E 0 e0 00 20
+        E 3 e0 00 22
+        E 8 e0 00 24
+        E 8 e0 00 26
+        E 7 e0 00 28
+        E 9 e0 00 2a
+        E 14 e0 00 2c
+        E 9 e0 00 2e
+        E 7 e0 00 30
+        E 8 e0 00 32
+        E 8 e0 00 34
+        E 14 e0 00 36
+        E 8 e0 00 38
+        E 8 e0 00 3a
+        E 8 e0 00 3c
+        E 8 e0 00 3e
+        E 14 e0 00 40
+        E 1514 e0 00 3e
+        E 9 e0 00 3c
+        E 33 e0 00 3a
+        E 8 e0 00 38
+        E 8 e0 00 36
+        E 8 e0 00 34
+        E 9 e0 00 32
+        E 7 e0 00 30
+        E 2 e0 00 2e
+        E 1 e0 00 2c
+        E 8 e0 00 2a
+        E 7 e0 00 28
+        E 9 e0 00 26
+        E 7 e0 00 24
+        E 13 e0 00 22
+        E 8 e0 00 20
+        E 7 e0 00 1e
+        E 9 e0 00 1c
+        E 8 e0 00 1a
+        E 14 e0 00 18
+        E 8 e0 00 16
+        E 8 e0 00 14
+        E 8 e0 00 12
+        E 8 e0 00 10
+        E 7 e0 00 0e
+        E 7 e0 00 0c
+        E 8 e0 00 0a
+        E 9 e0 00 08
+        E 7 e0 00 06
+        E 9 e0 00 04
+        E 7 e0 00 02
+        E 3 e0 00 00
+        E 2544 e0 00 02
+        E 8 e0 00 04
+        E 8 e0 00 06
+        E 7 e0 00 08
+        E 9 e0 00 0a
+        E 7 e0 00 0c
+        E 1 e0 00 0e
+        E 3 e0 00 10
+        E 7 e0 00 12
+        E 9 e0 00 14
+        E 7 e0 00 16
+        E 8 e0 00 18
+        E 15 e0 00 1a
+        E 7 e0 00 1c
+        E 8 e0 00 1e
+        E 9 e0 00 20
+        E 7 e0 00 22
+        E 15 e0 00 24
+        E 7 e0 00 26
+        E 8 e0 00 28
+        E 9 e0 00 2a
+        E 7 e0 00 2c
+        E 8 e0 00 2e
+        E 5 e0 00 30
+        E 8 e0 00 32
+        E 8 e0 00 34
+        E 8 e0 00 36
+        E 8 e0 00 38
+        E 8 e0 00 3a
+        E 4 e0 00 3c
+        E 9 e0 00 3e
+        E 7 e0 00 40
+        E 1879 90 4b 00
+        E 9390 90 4b 5a
+        E 63 e0 00 3e
+        E 7 e0 00 3c
+        E 8 e0 00 3a
+        E 1 e0 00 38
+        E 0 e0 00 36
+        E 0 e0 00 34
+        E 7 e0 00 32
+        E 8 e0 00 30
+        E 8 e0 00 2e
+        E 8 e0 00 2c
+        E 7 e0 00 2a
+        E 15 e0 00 28
+        E 8 e0 00 26
+        E 8 e0 00 24
+        E 8 e0 00 22
+        E 14 e0 00 20
+        E 9 e0 00 1e
+        E 7 e0 00 1c
+        E 9 e0 00 1a
+        E 8 e0 00 18
+        E 13 e0 00 16
+        E 9 e0 00 14
+        E 8 e0 00 12
+        E 7 e0 00 10
+        E 9 e0 00 0e
+        E 14 e0 00 0c
+        E 8 e0 00 0a
+        E 8 e0 00 08
+        E 7 e0 00 06
+        E 9 e0 00 04
+        E 7 e0 00 02
+        E 6 e0 00 00
+        E 2808 e0 00 02
+        E 7 e0 00 04
+        E 8 e0 00 06
+        E 8 e0 00 08
+        E 8 e0 00 0a
+        E 15 e0 00 0c
+        E 7 e0 00 0e
+        E 9 e0 00 10
+        E 8 e0 00 12
+        E 7 e0 00 14
+        E 7 e0 00 16
+        E 7 e0 00 18
+        E 9 e0 00 1a
+        E 7 e0 00 1c
+        E 9 e0 00 1e
+        E 13 e0 00 20
+        E 7 e0 00 22
+        E 9 e0 00 24
+        E 8 e0 00 26
+        E 8 e0 00 28
+        E 8 e0 00 2a
+        E 4 e0 00 2c
+        E 0 e0 00 2e
+        E 0 e0 00 30
+        E 4 e0 00 32
+        E 9 e0 00 34
+        E 34 e0 00 36
+        E 8 e0 00 38
+        E 7 e0 00 3a
+        E 9 e0 00 3c
+        E 7 e0 00 3e
+        E 8 e0 00 40
+        E 1419 e0 00 3e
+        E 7 e0 00 3c
+        E 4 e0 00 3a
+        E 8 e0 00 38
+        E 9 e0 00 36
+        E 7 e0 00 34
+        E 8 e0 00 32
+        E 15 e0 00 30
+        E 7 e0 00 2e
+        E 9 e0 00 2c
+        E 7 e0 00 2a
+        E 8 e0 00 28
+        E 9 e0 00 26
+        E 5 e0 00 24
+        E 7 e0 00 22
+        E 9 e0 00 20
+        E 8 e0 00 1e
+        E 7 e0 00 1c
+        E 9 e0 00 1a
+        E 2 e0 00 18
+        E 0 e0 00 16
+        E 0 e0 00 14
+        E 5 e0 00 12
+        E 9 e0 00 10
+        E 7 e0 00 0e
+        E 9 e0 00 0c
+        E 8 e0 00 0a
+        E 13 e0 00 08
+        E 9 e0 00 06
+        E 8 e0 00 04
+        E 26 e0 00 02
+        E 7 e0 00 00
+        E 1643 e0 00 02
+        E 9 e0 00 04
+        E 7 e0 00 06
+        E 9 e0 00 08
+        E 8 e0 00 0a
+        E 6 e0 00 0c
+        E 0 e0 00 0e
+        E 0 e0 00 10
+        E 3 e0 00 12
+        E 8 e0 00 14
+        E 8 e0 00 16
+        E 7 e0 00 18
+        E 9 e0 00 1a
+        E 12 e0 00 1c
+        E 9 e0 00 1e
+        E 7 e0 00 20
+        E 27 e0 00 22
+        E 7 e0 00 24
+        E 8 e0 00 26
+        E 8 e0 00 28
+        E 8 e0 00 2a
+        E 9 e0 00 2c
+        E 4 e0 00 2e
+        E 0 e0 00 30
+        E 0 e0 00 32
+        E 2 e0 00 34
+        E 9 e0 00 36
+        E 7 e0 00 38
+        E 9 e0 00 3a
+        E 7 e0 00 3c
+        E 15 e0 00 3e
+        E 8 e0 00 40
+        E 143 e0 00 3e
+        E 8 e0 00 3c
+        E 8 e0 00 3a
+        E 15 e0 00 38
+        E 7 e0 00 36
+        E 8 e0 00 34
+        E 9 e0 00 32
+        E 13 e0 00 30
+        E 7 e0 00 2e
+        E 9 e0 00 2c
+        E 8 e0 00 2a
+        E 8 e0 00 28
+        E 8 e0 00 26
+        E 4 e0 00 24
+        E 0 e0 00 22
+        E 7 e0 00 20
+        E 9 e0 00 1e
+        E 7 e0 00 1c
+        E 24 e0 00 1a
+        E 9 e0 00 18
+        E 8 e0 00 16
+        E 8 e0 00 14
+        E 8 e0 00 12
+        E 13 e0 00 10
+        E 8 e0 00 0e
+        E 8 e0 00 0c
+        E 7 e0 00 0a
+        E 9 e0 00 08
+        E 7 e0 00 0a
+        E 1 e0 00 0c
+        E 0 e0 00 0e
+        E 1 e0 00 10
+        E 8 e0 00 12
+        E 8 e0 00 14
+        E 8 e0 00 16
+        E 8 e0 00 18
+        E 14 e0 00 1a
+        E 8 e0 00 1c
+        E 8 e0 00 1e
+        E 7 e0 00 20
+        E 24 e0 00 22
+        E 8 e0 00 24
+        E 9 e0 00 26
+        E 7 e0 00 28
+        E 8 e0 00 2a
+        E 8 e0 00 2c
+        E 0 e0 00 2e
+        E 0 e0 00 30
+        E 0 e0 00 32
+        E 8 e0 00 30
+        E 8 e0 00 2e
+        E 8 e0 00 2c
+        E 7 e0 00 2a
+        E 15 e0 00 28
+        E 8 e0 00 26
+        E 8 e0 00 24
+        E 8 e0 00 22
+        E 7 e0 00 20
+        E 15 e0 00 1e
+        E 8 e0 00 1c
+        E 8 e0 00 1a
+        E 8 e0 00 18
+        E 7 e0 00 16
+        E 16 e0 00 14
+        E 7 e0 00 12
+        E 7 e0 00 10
+        E 9 e0 00 0e
+        E 8 e0 00 0c
+        E 15 e0 00 0a
+        E 7 e0 00 08
+        E 9 e0 00 06
+        E 7 e0 00 04
+        E 8 e0 00 02
+        E 7 e0 00 00
+        E 31 e0 00 02
+        E 7 e0 00 04
+        E 7 e0 00 06
+        E 0 e0 00 08
+        E 0 e0 00 0a
+        E 2 e0 00 0c
+        E 8 e0 00 0e
+        E 8 e0 00 10
+        E 33 e0 00 12
+        E 8 e0 00 14
+        E 8 e0 00 16
+        E 8 e0 00 18
+        E 7 e0 00 1a
+        E 7 e0 00 1c
+        E 8 e0 00 1a
+        E 8 e0 00 18
+        E 8 e0 00 16
+        E 7 e0 00 14
+        E 9 e0 00 12
+        E 4 e0 00 10
+        E 8 e0 00 0e
+        E 7 e0 00 0c
+        E 8 e0 00 0a
+        E 8 e0 00 08
+        E 8 e0 00 06
+        E 6 e0 00 04
+        E 0 e0 00 02
+        E 5 e0 00 00
+        E 138 e0 00 02
+        E 8 e0 00 04
+        E 8 e0 00 06
+        E 8 e0 00 08
+        E 9 e0 00 0a
+        E 3 e0 00 0c
+        E 8 e0 00 0e
+        E 8 e0 00 10
+        E 8 e0 00 12
+        E 7 e0 00 14
+        E 9 e0 00 16
+        E 4 e0 00 18
+        E 6 e0 00 1a
+        E 9 e0 00 1c
+        E 7 e0 00 1e
+        E 9 e0 00 20
+        E 14 e0 00 22
+        E 8 e0 00 24
+        E 8 e0 00 26
+        E 8 e0 00 28
+        E 7 e0 00 2a
+        E 9 e0 00 28
+        E 6 e0 00 26
+        E 8 e0 00 24
+        E 8 e0 00 22
+        E 7 e0 00 20
+        E 9 e0 00 1e
+        E 7 e0 00 1c
+        E 4 e0 00 1a
+        E 8 e0 00 18
+        E 8 e0 00 16
+        E 8 e0 00 14
+        E 8 e0 00 12
+        E 8 e0 00 10
+        E 4 e0 00 0e
+        E 0 e0 00 0c
+        E 7 e0 00 0a
+        E 7 e0 00 08
+        E 9 e0 00 06
+        E 8 e0 00 04
+        E 7 e0 00 02
+        E 15 e0 00 00
+        E 69 e0 00 02
+        E 9 e0 00 04
+        E 3 e0 00 06
+        E 0 e0 00 08
+        E 8 e0 00 0a
+        E 8 e0 00 0c
+        E 8 e0 00 0e
+        E 8 e0 00 10
+        E 13 e0 00 12
+        E 9 e0 00 14
+        E 8 e0 00 16
+        E 7 e0 00 18
+        E 25 e0 00 1a
+        E 7 e0 00 1c
+        E 9 e0 00 1a
+        E 7 e0 00 18
+        E 8 e0 00 16
+        E 9 e0 00 14
+        E 0 e0 00 12
+        E 0 e0 00 10
+        E 1 e0 00 0e
+        E 7 e0 00 0c
+        E 9 e0 00 0a
+        E 7 e0 00 08
+        E 8 e0 00 06
+        E 15 e0 00 04
+        E 7 e0 00 02
+        E 9 e0 00 00
+        E 119 e0 00 02
+        E 8 e0 00 04
+        E 8 e0 00 06
+        E 7 e0 00 08
+        E 9 e0 00 0a
+        E 14 e0 00 0c
+        E 8 e0 00 0e
+        E 8 e0 00 10
+        E 7 e0 00 12
+        E 9 e0 00 14
+        E 12 e0 00 16
+        E 8 e0 00 18
+        E 8 e0 00 1a
+        E 9 e0 00 1c
+        E 7 e0 00 1e
+        E 14 e0 00 20
+        E 8 e0 00 22
+        E 8 e0 00 24
+        E 7 e0 00 26
+        E 9 e0 00 28
+        E 6 e0 00 2a
+        E 9 e0 00 28
+        E 7 e0 00 26
+        E 9 e0 00 24
+        E 8 e0 00 22
+        E 7 e0 00 20
+        E 5 e0 00 1e
+        E 6 e0 00 1c
+        E 9 e0 00 1a
+        E 7 e0 00 18
+        E 8 e0 00 16
+        E 15 e0 00 14
+        E 7 e0 00 12
+        E 8 e0 00 10
+        E 8 e0 00 0e
+        E 8 e0 00 0c
+        E 8 e0 00 0a
+        E 5 e0 00 08
+        E 8 e0 00 06
+        E 9 e0 00 04
+        E 7 e0 00 02
+        E 9 e0 00 00
+        E 56 e0 00 02
+        E 0 e0 00 04
+        E 7 e0 00 06
+        E 7 e0 00 08
+        E 9 e0 00 0a
+        E 24 e0 00 0c
+        E 8 e0 00 0e
+        E 8 e0 00 10
+        E 8 e0 00 12
+        E 8 e0 00 14
+        E 8 e0 00 16
+        E 4 e0 00 18
+        E 8 e0 00 1a
+        E 7 e0 00 1c
+        E 9 e0 00 1e
+        E 7 e0 00 20
+        E 16 e0 00 22
+        E 7 e0 00 24
+        E 8 e0 00 26
+        E 8 e0 00 28
+        E 8 e0 00 2a
+        E 7 e0 00 28
+        E 6 e0 00 26
+        E 7 e0 00 24
+        E 9 e0 00 22
+        E 7 e0 00 20
+        E 8 e0 00 1e
+        E 9 e0 00 1c
+        E 2 e0 00 1a
+        E 7 e0 00 18
+        E 9 e0 00 16
+        E 8 e0 00 14
+        E 8 e0 00 12
+        E 14 e0 00 10
+        E 8 e0 00 0e
+        E 9 e0 00 0c
+        E 7 e0 00 0a
+        E 9 e0 00 08
+        E 7 e0 00 06
+        E 2 e0 00 04
+        E 1 e0 00 02
+        E 8 e0 00 00
+        E 469 e0 00 02
+        E 8 e0 00 04
+        E 5 e0 00 06
+        E 0 e0 00 08
+        E 0 e0 00 0a
+        E 3 e0 00 0c
+        E 8 e0 00 0e
+        E 8 e0 00 10
+        E 33 e0 00 12
+        E 8 e0 00 14
+        E 8 e0 00 16
+        E 8 e0 00 18
+        E 8 e0 00 1a
+        E 6 e0 00 1c
+        E 9 e0 00 1e
+        E 7 e0 00 20
+        E 9 e0 00 22
+        E 7 e0 00 24
+        E 8 e0 00 26
+        E 4 e0 00 28
+        E 7 e0 00 2a
+        E 9 e0 00 2c
+        E 7 e0 00 2e
+        E 8 e0 00 30
+        E 8 e0 00 32
+        E 5 e0 00 34
+        E 0 e0 00 36
+        E 6 e0 00 38
+        E 9 e0 00 3a
+        E 8 e0 00 3c
+        E 23 e0 00 3e
+        E 9 e0 00 40
+        E 2417 90 4b 00
+        E 6619 90 4b 74
+        E 41 e0 00 3e
+        E 15 e0 00 3c
+        E 8 e0 00 3a
+        E 7 e0 00 38
+        E 9 e0 00 36
+        E 14 e0 00 34
+        E 7 e0 00 32
+        E 9 e0 00 30
+        E 7 e0 00 2e
+        E 9 e0 00 2c
+        E 14 e0 00 2a
+        E 7 e0 00 28
+        E 9 e0 00 26
+        E 7 e0 00 24
+        E 8 e0 00 22
+        E 15 e0 00 20
+        E 7 e0 00 1e
+        E 9 e0 00 1c
+        E 8 e0 00 1a
+        E 7 e0 00 18
+        E 9 e0 00 16
+        E 5 e0 00 14
+        E 9 e0 00 12
+        E 7 e0 00 10
+        E 9 e0 00 0e
+        E 7 e0 00 0c
+        E 8 e0 00 0a
+        E 4 e0 00 08
+        E 8 e0 00 06
+        E 8 e0 00 04
+        E 8 e0 00 02
+        E 8 e0 00 00
+        E 2757 e0 00 02
+        E 7 e0 00 04
+        E 15 e0 00 06
+        E 8 e0 00 08
+        E 8 e0 00 0a
+        E 8 e0 00 0c
+        E 7 e0 00 0e
+        E 8 e0 00 10
+        E 0 e0 00 12
+        E 3 e0 00 14
+        E 9 e0 00 16
+        E 7 e0 00 18
+        E 9 e0 00 1a
+        E 7 e0 00 1c
+        E 15 e0 00 1e
+        E 7 e0 00 20
+        E 8 e0 00 22
+        E 8 e0 00 24
+        E 8 e0 00 26
+        E 15 e0 00 28
+        E 7 e0 00 2a
+        E 8 e0 00 2c
+        E 9 e0 00 2e
+        E 7 e0 00 30
+        E 6 e0 00 32
+        E 8 e0 00 34
+        E 7 e0 00 36
+        E 9 e0 00 38
+        E 7 e0 00 3a
+        E 8 e0 00 3c
+        E 6 e0 00 3e
+        E 6 e0 00 40
+        E 1428 e0 00 3e
+        E 8 e0 00 3c
+        E 8 e0 00 3a
+        E 8 e0 00 38
+        E 8 e0 00 36
+        E 6 e0 00 34
+        E 8 e0 00 32
+        E 9 e0 00 30
+        E 7 e0 00 2e
+        E 8 e0 00 2c
+        E 8 e0 00 2a
+        E 4 e0 00 28
+        E 0 e0 00 26
+        E 0 e0 00 24
+        E 3 e0 00 22
+        E 9 e0 00 20
+        E 33 e0 00 1e
+        E 8 e0 00 1c
+        E 8 e0 00 1a
+        E 8 e0 00 18
+        E 9 e0 00 16
+        E 7 e0 00 14
+        E 4 e0 00 12
+        E 9 e0 00 10
+        E 7 e0 00 0e
+        E 9 e0 00 0c
+        E 7 e0 00 0a
+        E 8 e0 00 08
+        E 4 e0 00 06
+        E 0 e0 00 04
+        E 0 e0 00 02
+        E 5 e0 00 00
+        E 1619 e0 00 02
+        E 8 e0 00 04
+        E 8 e0 00 06
+        E 8 e0 00 08
+        E 2 e0 00 0a
+        E 1 e0 00 0c
+        E 8 e0 00 0e
+        E 9 e0 00 10
+        E 7 e0 00 12
+        E 7 e0 00 14
+        E 9 e0 00 16
+        E 4 e0 00 18
+        E 0 e0 00 1a
+        E 7 e0 00 1c
+        E 7 e0 00 1e
+        E 9 e0 00 20
+        E 8 e0 00 22
+        E 13 e0 00 24
+        E 9 e0 00 26
+        E 8 e0 00 28
+        E 8 e0 00 2a
+        E 8 e0 00 2c
+        E 15 e0 00 2e
+        E 7 e0 00 30
+        E 8 e0 00 32
+        E 8 e0 00 34
+        E 8 e0 00 36
+        E 14 e0 00 38
+        E 8 e0 00 3a
+        E 8 e0 00 3c
+        E 8 e0 00 3e
+        E 8 e0 00 40
+        E 191 e0 00 3e
+        E 9 e0 00 3c
+        E 7 e0 00 3a
+        E 9 e0 00 38
+        E 7 e0 00 36
+        E 14 e0 00 34
+        E 9 e0 00 32
+        E 7 e0 00 30
+        E 9 e0 00 2e
+        E 8 e0 00 2c
+        E 14 e0 00 2a
+        E 9 e0 00 28
+        E 7 e0 00 26
+        E 8 e0 00 24
+        E 8 e0 00 22
+        E 5 e0 00 20
+        E 9 e0 00 1e
+        E 7 e0 00 1c
+        E 8 e0 00 1a
+        E 8 e0 00 18
+        E 8 e0 00 16
+        E 5 e0 00 14
+        E 7 e0 00 12
+        E 8 e0 00 10
+        E 8 e0 00 0e
+        E 8 e0 00 0c
+        E 7 e0 00 0a
+        E 6 e0 00 08
+        E 0 e0 00 06
+        E 6 e0 00 04
+        E 7 e0 00 02
+        E 8 e0 00 00
+        E 99 e0 00 02
+        E 8 e0 00 04
+        E 15 e0 00 06
+        E 7 e0 00 08
+        E 9 e0 00 0a
+        E 7 e0 00 0c
+        E 8 e0 00 0e
+        E 6 e0 00 10
+        E 7 e0 00 12
+        E 8 e0 00 14
+        E 9 e0 00 16
+        E 7 e0 00 18
+        E 9 e0 00 1a
+        E 3 e0 00 1c
+        E 8 e0 00 1e
+        E 9 e0 00 20
+        E 7 e0 00 22
+        E 8 e0 00 24
+        E 14 e0 00 26
+        E 8 e0 00 28
+        E 8 e0 00 2a
+        E 8 e0 00 2c
+        E 7 e0 00 2e
+        E 9 e0 00 30
+        E 3 e0 00 32
+        E 0 e0 00 34
+        E 8 e0 00 36
+        E 9 e0 00 38
+        E 7 e0 00 36
+        E 8 e0 00 34
+        E 15 e0 00 32
+        E 7 e0 00 30
+        E 8 e0 00 2e
+        E 8 e0 00 2c
+        E 8 e0 00 2a
+        E 15 e0 00 28
+        E 7 e0 00 26
+        E 8 e0 00 24
+        E 8 e0 00 22
+        E 8 e0 00 20
+        E 7 e0 00 1e
+        E 7 e0 00 1c
+        E 7 e0 00 1a
+        E 9 e0 00 18
+        E 7 e0 00 16
+        E 8 e0 00 14
+        E 14 e0 00 12
+        E 7 e0 00 10
+        E 8 e0 00 0e
+        E 9 e0 00 0c
+        E 7 e0 00 0a
+        E 9 e0 00 08
+        E 4 e0 00 06
+        E 8 e0 00 04
+        E 8 e0 00 02
+        E 8 e0 00 00
+        E 8 e0 00 02
+        E 8 e0 00 04
+        E 1 e0 00 06
+        E 3 e0 00 08
+        E 7 e0 00 0a
+        E 9 e0 00 0c
+        E 7 e0 00 0e
+        E 24 e0 00 10
+        E 9 e0 00 12
+        E 7 e0 00 14
+        E 7 e0 00 16
+        E 9 e0 00 18
+        E 7 e0 00 1a
+        E 0 e0 00 1c
+        E 0 e0 00 1e
+        E 1 e0 00 20
+        E 9 e0 00 22
+        E 8 e0 00 24
+        E 8 e0 00 26
+        E 8 e0 00 28
+        E 11 e0 00 2a
+        E 9 e0 00 28
+        E 8 e0 00 26
+        E 8 e0 00 24
+        E 26 e0 00 22
+        E 7 e0 00 20
+        E 9 e0 00 1e
+        E 7 e0 00 1c
+        E 8 e0 00 1a
+        E 7 e0 00 18
+        E 4 e0 00 16
+        E 8 e0 00 14
+        E 8 e0 00 12
+        E 7 e0 00 10
+        E 9 e0 00 0e
+        E 14 e0 00 0c
+        E 9 e0 00 0a
+        E 7 e0 00 08
+        E 8 e0 00 06
+        E 8 e0 00 04
+        E 7 e0 00 02
+        E 7 e0 00 00
+        E 8 e0 00 02
+        E 8 e0 00 04
+        E 8 e0 00 06
+        E 8 e0 00 08
+        E 5 e0 00 0a
+        E 0 e0 00 0c
+        E 0 e0 00 0e
+        E 3 e0 00 10
+        E 8 e0 00 12
+        E 7 e0 00 14
+        E 35 e0 00 16
+        E 7 e0 00 18
+        E 9 e0 00 1a
+        E 7 e0 00 1c
+        E 8 e0 00 1e
+        E 7 e0 00 20
+        E 7 e0 00 22
+        E 9 e0 00 24
+        E 7 e0 00 26
+        E 8 e0 00 28
+        E 8 e0 00 2a
+        E 4 e0 00 2c
+        E 8 e0 00 2e
+        E 7 e0 00 30
+        E 8 e0 00 32
+        E 9 e0 00 34
+        E 7 e0 00 36
+        E 6 e0 00 38
+        E 0 e0 00 36
+        E 5 e0 00 34
+        E 8 e0 00 32
+        E 8 e0 00 30
+        E 7 e0 00 2e
+        E 9 e0 00 2c
+        E 14 e0 00 2a
+        E 9 e0 00 28
+        E 7 e0 00 26
+        E 9 e0 00 24
+        E 14 e0 00 22
+        E 7 e0 00 20
+        E 9 e0 00 1e
+        E 7 e0 00 1c
+        E 8 e0 00 1a
+        E 15 e0 00 18
+        E 7 e0 00 16
+        E 9 e0 00 14
+        E 7 e0 00 12
+        E 8 e0 00 10
+        E 9 e0 00 0e
+        E 2 e0 00 10
+        E 1 e0 00 12
+        E 7 e0 00 14
+        E 8 e0 00 16
+        E 9 e0 00 18
+        E 7 e0 00 1a
+        E 15 e0 00 1c
+        E 8 e0 00 1e
+        E 7 e0 00 20
+        E 9 e0 00 22
+        E 7 e0 00 24
+        E 15 e0 00 26
+        E 8 e0 00 28
+        E 7 e0 00 2a
+        E 9 e0 00 2c
+        E 7 e0 00 2e
+        E 8 e0 00 30
+        E 5 e0 00 32
+        E 7 e0 00 34
+        E 9 e0 00 36
+        E 8 e0 00 38
+        E 7 e0 00 36
+        E 9 e0 00 34
+        E 1 e0 00 32
+        E 0 e0 00 30
+        E 0 e0 00 2e
+        E 6 e0 00 2c
+        E 9 e0 00 2a
+        E 7 e0 00 28
+        E 9 e0 00 26
+        E 7 e0 00 24
+        E 14 e0 00 22
+        E 9 e0 00 20
+        E 7 e0 00 1e
+        E 26 e0 00 1c
+        E 8 e0 00 1a
+        E 7 e0 00 18
+        E 9 e0 00 16
+        E 7 e0 00 14
+        E 8 e0 00 12
+        E 4 e0 00 10
+        E 8 e0 00 0e
+        E 8 e0 00 0c
+        E 8 e0 00 0a
+        E 7 e0 00 08
+        E 15 e0 00 06
+        E 8 e0 00 04
+        E 7 e0 00 02
+        E 9 e0 00 00
+        E 7 e0 00 02
+        E 9 e0 00 04
+        E 6 e0 00 06
+        E 7 e0 00 08
+        E 9 e0 00 0a
+        E 7 e0 00 0c
+        E 9 e0 00 0e
+        E 13 e0 00 10
+        E 7 e0 00 12
+        E 9 e0 00 14
+        E 8 e0 00 16
+        E 8 e0 00 18
+        E 6 e0 00 1a
+        E 7 e0 00 1c
+        E 8 e0 00 1e
+        E 7 e0 00 20
+        E 9 e0 00 22
+        E 7 e0 00 24
+        E 14 e0 00 26
+        E 9 e0 00 28
+        E 7 e0 00 2a
+        E 8 e0 00 28
+        E 9 e0 00 26
+        E 5 e0 00 24
+        E 8 e0 00 22
+        E 8 e0 00 20
+        E 7 e0 00 1e
+        E 9 e0 00 1c
+        E 7 e0 00 1a
+        E 5 e0 00 18
+        E 8 e0 00 16
+        E 7 e0 00 14
+        E 9 e0 00 12
+        E 8 e0 00 10
+        E 7 e0 00 0e
+        E 13 e0 00 0c
+        E 8 e0 00 0a
+        E 8 e0 00 08
+        E 8 e0 00 06
+        E 7 e0 00 04
+        E 7 e0 00 02
+        E 8 e0 00 00
+        E 9 e0 00 02
+        E 7 e0 00 04
+        E 8 e0 00 06
+        E 8 e0 00 08
+        E 4 e0 00 0a
+        E 7 e0 00 0c
+        E 8 e0 00 0e
+        E 7 e0 00 10
+        E 9 e0 00 12
+        E 7 e0 00 14
+        E 7 e0 00 16
+        E 0 e0 00 18
+        E 4 e0 00 1a
+        E 9 e0 00 1c
+        E 7 e0 00 1e
+        E 27 e0 00 20
+        E 8 e0 00 22
+        E 7 e0 00 24
+        E 9 e0 00 26
+        E 7 e0 00 28
+        E 9 e0 00 2a
+        E 2 e0 00 28
+        E 0 e0 00 26
+        E 0 e0 00 24
+        E 5 e0 00 22
+        E 7 e0 00 20
+        E 9 e0 00 1e
+        E 7 e0 00 1c
+        E 9 e0 00 1a
+        E 14 e0 00 18
+        E 7 e0 00 16
+        E 9 e0 00 14
+        E 23 e0 00 12
+        E 8 e0 00 10
+        E 9 e0 00 0e
+        E 7 e0 00 0c
+        E 9 e0 00 0a
+        E 7 e0 00 08
+        E 6 e0 00 06
+        E 8 e0 00 04
+        E 7 e0 00 02
+        E 9 e0 00 00
+        E 332 e0 00 02
+        E 8 e0 00 04
+        E 8 e0 00 06
+        E 8 e0 00 08
+        E 7 e0 00 0a
+        E 15 e0 00 0c
+        E 8 e0 00 0e
+        E 9 e0 00 10
+        E 7 e0 00 12
+        E 8 e0 00 14
+        E 8 e0 00 16
+        E 1 e0 00 18
+        E 3 e0 00 1a
+        E 7 e0 00 1c
+        E 7 e0 00 1e
+        E 9 e0 00 20
+        E 8 e0 00 22
+        E 14 e0 00 24
+        E 8 e0 00 26
+        E 8 e0 00 28
+        E 8 e0 00 2a
+        E 8 e0 00 2c
+        E 14 e0 00 2e
+        E 8 e0 00 30
+        E 8 e0 00 32
+        E 9 e0 00 34
+        E 7 e0 00 36
+        E 14 e0 00 38
+        E 9 e0 00 3a
+        E 7 e0 00 3c
+        E 9 e0 00 3e
+        E 7 e0 00 40
+        E 2729 90 4b 00
+        E 6351 90 4b 77
+        E 56 e0 00 3e
+        E 15 e0 00 3c
+        E 8 e0 00 3a
+        E 7 e0 00 38
+        E 9 e0 00 36
+        E 7 e0 00 34
+        E 15 e0 00 32
+        E 8 e0 00 30
+        E 7 e0 00 2e
+        E 9 e0 00 2c
+        E 7 e0 00 2a
+        E 15 e0 00 28
+        E 8 e0 00 26
+        E 8 e0 00 24
+        E 8 e0 00 22
+        E 8 e0 00 20
+        E 5 e0 00 1e
+        E 9 e0 00 1c
+        E 7 e0 00 1a
+        E 9 e0 00 18
+        E 7 e0 00 16
+        E 8 e0 00 14
+        E 4 e0 00 12
+        E 8 e0 00 10
+        E 8 e0 00 0e
+        E 8 e0 00 0c
+        E 7 e0 00 0a
+        E 15 e0 00 08
+        E 8 e0 00 06
+        E 9 e0 00 04
+        E 7 e0 00 02
+        E 8 e0 00 00
+        E 2706 e0 00 02
+        E 8 e0 00 04
+        E 7 e0 00 06
+        E 9 e0 00 08
+        E 1 e0 00 0a
+        E 0 e0 00 0c
+        E 0 e0 00 0e
+        E 7 e0 00 10
+        E 9 e0 00 12
+        E 8 e0 00 14
+        E 7 e0 00 16
+        E 15 e0 00 18
+        E 8 e0 00 1a
+        E 8 e0 00 1c
+        E 8 e0 00 1e
+        E 23 e0 00 20
+        E 9 e0 00 22
+        E 8 e0 00 24
+        E 7 e0 00 26
+        E 9 e0 00 28
+        E 7 e0 00 2a
+        E 1 e0 00 2c
+        E 0 e0 00 2e
+        E 0 e0 00 30
+        E 9 e0 00 32
+        E 7 e0 00 34
+        E 35 e0 00 36
+        E 7 e0 00 38
+        E 9 e0 00 3a
+        E 7 e0 00 3c
+        E 8 e0 00 3e
+        E 7 e0 00 40
+        E 1531 e0 00 3e
+        E 7 e0 00 3c
+        E 9 e0 00 3a
+        E 8 e0 00 38
+        E 5 e0 00 36
+        E 7 e0 00 34
+        E 7 e0 00 32
+        E 9 e0 00 30
+        E 7 e0 00 2e
+        E 9 e0 00 2c
+        E 6 e0 00 2a
+        E 0 e0 00 28
+        E 5 e0 00 26
+        E 7 e0 00 24
+        E 9 e0 00 22
+        E 8 e0 00 20
+        E 7 e0 00 1e
+        E 15 e0 00 1c
+        E 8 e0 00 1a
+        E 7 e0 00 18
+        E 9 e0 00 16
+        E 7 e0 00 14
+        E 13 e0 00 12
+        E 8 e0 00 10
+        E 7 e0 00 0e
+        E 9 e0 00 0c
+        E 7 e0 00 0a
+        E 8 e0 00 08
+        E 0 e0 00 06
+        E 4 e0 00 04
+        E 9 e0 00 02
+        E 7 e0 00 00
+        E 2777 e0 00 02
+        E 9 e0 00 04
+        E 4 e0 00 06
+        E 8 e0 00 08
+        E 9 e0 00 0a
+        E 7 e0 00 0c
+        E 9 e0 00 0e
+        E 7 e0 00 10
+        E 3 e0 00 12
+        E 0 e0 00 14
+        E 0 e0 00 16
+        E 5 e0 00 18
+        E 8 e0 00 1a
+        E 7 e0 00 1c
+        E 9 e0 00 1e
+        E 8 e0 00 20
+        E 15 e0 00 22
+        E 7 e0 00 24
+        E 8 e0 00 26
+        E 8 e0 00 28
+        E 8 e0 00 2a
+        E 15 e0 00 2c
+        E 7 e0 00 2e
+        E 8 e0 00 30
+        E 8 e0 00 32
+        E 14 e0 00 34
+        E 8 e0 00 36
+        E 8 e0 00 38
+        E 8 e0 00 3a
+        E 9 e0 00 3c
+        E 13 e0 00 3e
+        E 8 e0 00 40
+        E 1764 90 4b 00
+        E 9331 90 4b 6c
+        E 64 e0 00 3e
+        E 8 e0 00 3c
+        E 8 e0 00 3a
+        E 4 e0 00 38
+        E 0 e0 00 36
+        E 0 e0 00 34
+        E 5 e0 00 32
+        E 7 e0 00 30
+        E 33 e0 00 2e
+        E 9 e0 00 2c
+        E 7 e0 00 2a
+        E 9 e0 00 28
+        E 8 e0 00 26
+        E 7 e0 00 24
+        E 6 e0 00 22
+        E 8 e0 00 20
+        E 8 e0 00 1e
+        E 8 e0 00 1c
+        E 7 e0 00 1a
+        E 9 e0 00 18
+        E 3 e0 00 16
+        E 0 e0 00 14
+        E 0 e0 00 12
+        E 5 e0 00 10
+        E 9 e0 00 0e
+        E 33 e0 00 0c
+        E 8 e0 00 0a
+        E 8 e0 00 08
+        E 9 e0 00 06
+        E 7 e0 00 04
+        E 8 e0 00 02
+        E 2 e0 00 00
+        E 2875 e0 00 02
+        E 7 e0 00 04
+        E 9 e0 00 06
+        E 7 e0 00 08
+        E 5 e0 00 0a
+        E 8 e0 00 0c
+        E 8 e0 00 0e
+        E 8 e0 00 10
+        E 8 e0 00 12
+        E 7 e0 00 14
+        E 4 e0 00 16
+        E 7 e0 00 18
+        E 8 e0 00 1a
+        E 9 e0 00 1c
+        E 8 e0 00 1e
+        E 8 e0 00 20
+        E 1 e0 00 22
+        E 2 e0 00 24
+        E 7 e0 00 26
+        E 9 e0 00 28
+        E 33 e0 00 2a
+        E 8 e0 00 2c
+        E 8 e0 00 2e
+        E 8 e0 00 30
+        E 8 e0 00 32
+        E 6 e0 00 34
+        E 7 e0 00 36
+        E 9 e0 00 38
+        E 8 e0 00 3a
+        E 8 e0 00 3c
+        E 8 e0 00 3e
+        E 5 e0 00 40
+        E 1403 e0 00 3e
+        E 7 e0 00 3c
+        E 9 e0 00 3a
+        E 13 e0 00 38
+        E 8 e0 00 36
+        E 9 e0 00 34
+        E 23 e0 00 32
+        E 9 e0 00 30
+        E 7 e0 00 2e
+        E 9 e0 00 2c
+        E 8 e0 00 2a
+        E 7 e0 00 28
+        E 5 e0 00 26
+        E 8 e0 00 24
+        E 7 e0 00 22
+        E 9 e0 00 20
+        E 7 e0 00 1e
+        E 15 e0 00 1c
+        E 8 e0 00 1a
+        E 7 e0 00 18
+        E 9 e0 00 16
+        E 7 e0 00 14
+        E 8 e0 00 12
+        E 5 e0 00 10
+        E 8 e0 00 0e
+        E 9 e0 00 0c
+        E 7 e0 00 0a
+        E 7 e0 00 08
+        E 9 e0 00 06
+        E 3 e0 00 04
+        E 0 e0 00 02
+        E 0 e0 00 00
+        E 2880 e0 00 02
+        E 7 e0 00 04
+        E 16 e0 00 06
+        E 7 e0 00 08
+        E 9 e0 00 0a
+        E 7 e0 00 0c
+        E 8 e0 00 0e
+        E 15 e0 00 10
+        E 7 e0 00 12
+        E 9 e0 00 14
+        E 7 e0 00 16
+        E 8 e0 00 18
+        E 7 e0 00 1a
+        E 0 e0 00 1c
+        E 3 e0 00 1e
+        E 7 e0 00 20
+        E 8 e0 00 22
+        E 9 e0 00 24
+        E 7 e0 00 26
+        E 14 e0 00 28
+        E 8 e0 00 2a
+        E 8 e0 00 2c
+        E 9 e0 00 2e
+        E 7 e0 00 30
+        E 14 e0 00 32
+        E 8 e0 00 34
+        E 8 e0 00 36
+        E 9 e0 00 38
+        E 7 e0 00 3a
+        E 7 e0 00 3c
+        E 8 e0 00 3e
+        E 7 e0 00 40
+        E 1708 90 4b 00
+        E 7595 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {7FB11294-9228-4548-B8E0-4248DFB6D921}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 9
+      >
+    >
+  >
   <TRACK {AFC68956-44A7-4FA1-99FD-E8A0DDA28B6E}
     NAME "flamenco-claps-and-percussion-krne 1"
     PEAKCOL 16576
@@ -212,7 +1695,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 -1 0
@@ -224,7 +1707,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 80
+      POSITION 70
       SNAPOFFS 0
       LENGTH 87.5
       LOOP 1
@@ -323,7 +1806,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {A4D42156-5D83-4F97-B2C7-959E66C8BE64}
       IID 54
       NAME "strings 1 in D-E.mp3"
@@ -364,70 +1847,89 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 130
+      LENGTH 5
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
       SEL 0
-      IGUID {0E0B67E8-E92F-482B-940C-44DA6BEB4706}
-      IID 19
+      IGUID {48F7A31C-A618-4BA4-B25A-E796BCD6C1FA}
+      IID 66
       NAME "dead can dance strings 1.mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 0
+      SOFFS 10
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {3FBFE831-1FE8-446F-9A0B-F721EB77D320}
+      GUID {C11D1825-7BAE-467B-B168-77A75050E1BD}
       <SOURCE MP3
         FILE "C:\Users\User\Desktop\samples & loops\dead can dance strings 1.mp3" 1
       >
     >
-  >
-  <TRACK {4A70561C-1510-4CC1-8CBB-E63601C86649}
-    NAME piano-melody-883-abelouis
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    FREEMODE 0
-    SEL 0
-    REC 0 0 1 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 -1 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {4A70561C-1510-4CC1-8CBB-E63601C86649}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
     <ITEM
-      POSITION 130
+      POSITION 5
       SNAPOFFS 0
-      LENGTH 40
+      LENGTH 5
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
       SEL 0
-      IGUID {F0EEAF43-DA48-433D-9BD8-CB800E0081E6}
-      IID 43
-      NAME piano-melody-883-abelouis.mp3
+      IGUID {D02E15CA-05F2-490D-99B5-BC06F5926590}
+      IID 66
+      NAME "dead can dance strings 1.mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 0
+      SOFFS 10
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {ADE0AC16-38CD-4D5D-AB65-3C2C64BBCDFF}
+      GUID {3CD03485-1B23-446E-8EF0-9A692C59CE0E}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\piano-melody-883-abelouis.mp3" 1
+        FILE "C:\Users\User\Desktop\samples & loops\dead can dance strings 1.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 10
+      SNAPOFFS 0
+      LENGTH 60
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {561615D6-6F4D-42CC-B9DB-B38F28B114A1}
+      IID 65
+      NAME "dead can dance strings 1.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 10
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {43B8C5A5-B9DC-46D8-9244-FB0C9D23CC74}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\samples & loops\dead can dance strings 1.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 70
+      SNAPOFFS 0
+      LENGTH 60
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5E38CBA4-9D4F-4135-A232-C9DB0233DE74}
+      IID 69
+      NAME "dead can dance strings 1.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 10
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {097C5DD5-2133-4CD9-B7AF-309C292E025D}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\samples & loops\dead can dance strings 1.mp3" 1
       >
     >
   >
@@ -541,6 +2043,53 @@
       GUID {60788861-E883-45B2-832B-2EFF7EC2C6EA}
       <SOURCE MP3
         FILE "C:\Users\User\Desktop\samples & loops\strings 1.mp3" 1
+      >
+    >
+  >
+  <TRACK {67380CBF-C2FF-4FAE-8C88-9B77647DFB56}
+    NAME piano-melody-883-abelouis
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {67380CBF-C2FF-4FAE-8C88-9B77647DFB56}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 130
+      SNAPOFFS 0
+      LENGTH 40
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D6591029-011C-4478-816A-23311BC6DA44}
+      IID 62
+      NAME piano-melody-883-abelouis.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {13C8088D-0F8A-4839-9B6E-1E1B340252EA}
+      <SOURCE MP3
+        FILE "stems\piano-melody-883-abelouis.mp3" 1
       >
     >
   >
