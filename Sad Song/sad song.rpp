@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.15/x64" 1613611318
+<REAPER_PROJECT 0.1 "6.15/x64" 1613663611
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,8 +14,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 202
-  ZOOM 2.38113739768182 0 0
+  CURSOR 193.00376206090121
+  ZOOM 18.51712140874475 2004 0
   VZOOMEX 6 943
   USE_REC_CFG 0
   RECMODE 1
@@ -809,163 +809,6 @@
       >
     >
   >
-  <TRACK {46542CE1-F7E7-4490-AC39-C8213D0EFA4A}
-    NAME "sad song piano 2"
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    FREEMODE 0
-    SEL 0
-    REC 0 0 1 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 -1 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {46542CE1-F7E7-4490-AC39-C8213D0EFA4A}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 82.6444974709341
-      SNAPOFFS 0
-      LENGTH 13.77562358276644
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {8E9C8A73-FB80-432C-83E6-0E7B0CA8D00E}
-      IID 141
-      NAME "sad song piano 2.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {7BF454A0-729D-4E62-94A5-D7C1F71280F0}
-      <SOURCE MP3
-        FILE "C:\Users\User\Desktop\sad song piano 2.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 96.5
-      SNAPOFFS 0
-      LENGTH 13.708333333333
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {362C1C41-FB95-4F16-8A76-7BC9120CF0E0}
-      IID 141
-      NAME "sad song piano 2.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {20E8AEB1-0A9A-4932-A183-340E2D734F84}
-      <SOURCE MP3
-        FILE "C:\Users\User\Desktop\sad song piano 2.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 110.26181513315767
-      SNAPOFFS 0
-      LENGTH 13.73818486684233
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {62D84DE8-957E-4C62-9C9E-7555D4636587}
-      IID 141
-      NAME "sad song piano 2.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {B3FC34DA-07A6-4097-9C57-1E4C68B56C5A}
-      <SOURCE MP3
-        FILE "C:\Users\User\Desktop\sad song piano 2.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 151.65624250067034
-      SNAPOFFS 0
-      LENGTH 13.77562358276646
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {445B0CA5-FA02-4BBB-A4D5-5C8034612834}
-      IID 141
-      NAME "sad song piano 2.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {1C4D7008-A388-4853-8759-92508AF0062A}
-      <SOURCE MP3
-        FILE "C:\Users\User\Desktop\sad song piano 2.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 165.44724859211058
-      SNAPOFFS 0
-      LENGTH 13.70857150570237
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {490CCD63-83B5-4ABD-BA73-3C451A05F6F1}
-      IID 141
-      NAME "sad song piano 2.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {7D93BAAE-788A-4FED-91B5-3C9EA573E37F}
-      <SOURCE MP3
-        FILE "C:\Users\User\Desktop\sad song piano 2.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 179.22222222221765
-      SNAPOFFS 0
-      LENGTH 13.77562358276646
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {E523E79B-19DA-4A19-A00C-FD17F94C34AB}
-      IID 141
-      NAME "sad song piano 2.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {0D8CDE9B-C392-423C-AB28-9FF94631F7BF}
-      <SOURCE MP3
-        FILE "C:\Users\User\Desktop\sad song piano 2.mp3" 1
-      >
-    >
-  >
   <TRACK {6F0F0A37-6801-40CB-A38C-2C1312D8F5A3}
     NAME "sad song vox"
     PEAKCOL 16576
@@ -1550,6 +1393,163 @@
       RECPASS 21
       <SOURCE WAVE
         FILE "14-sad song vox 3-210218_0318.wav"
+      >
+    >
+  >
+  <TRACK {A4CE88B0-BC1A-41FA-8F9F-01C62B502559}
+    NAME "sad song piano 2"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A4CE88B0-BC1A-41FA-8F9F-01C62B502559}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 82.6444974709341
+      SNAPOFFS 0
+      LENGTH 13.77562358276644
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FE182AA8-12E6-43B6-B847-CF7A030B2410}
+      IID 236
+      NAME "sad song piano 2.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {786FAB85-51AE-4728-A502-34CCB81945D6}
+      <SOURCE MP3
+        FILE "stems\sad song piano 2.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 96.5
+      SNAPOFFS 0
+      LENGTH 13.708333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D1940210-049B-46BB-808C-976A0E1D39DB}
+      IID 236
+      NAME "sad song piano 2.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {597024C7-241C-4F50-B9B0-069FDE91EBA9}
+      <SOURCE MP3
+        FILE "stems\sad song piano 2.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 110.27562358276919
+      SNAPOFFS 0
+      LENGTH 13.72437641723081
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5AC9C459-4267-4E3C-BFAC-EA302602A391}
+      IID 236
+      NAME "sad song piano 2.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {080747E2-7948-4FF3-9E7C-489A60FBF8D4}
+      <SOURCE MP3
+        FILE "stems\sad song piano 2.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 151.65238365437835
+      SNAPOFFS 0
+      LENGTH 13.77562358276646
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8DB3E3F8-279C-478C-9D89-7050FF527DB7}
+      IID 236
+      NAME "sad song piano 2.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FA694358-0CFA-44B5-94A6-84349DB57BA6}
+      <SOURCE MP3
+        FILE "stems\sad song piano 2.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 165.4525148953544
+      SNAPOFFS 0
+      LENGTH 13.70330520245855
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8CB969A8-FB78-460F-827D-B14DB90F54B1}
+      IID 236
+      NAME "sad song piano 2.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {890A2E51-7C2F-4D58-B138-FBD56F48F81E}
+      <SOURCE MP3
+        FILE "stems\sad song piano 2.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 179.22813847812358
+      SNAPOFFS 0
+      LENGTH 13.75790173541762
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {B9307565-535D-495B-9F82-271A3591889F}
+      IID 236
+      NAME "sad song piano 2.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3D5C03EE-D6BF-4E17-9CF1-64AF7E50B0E4}
+      <SOURCE MP3
+        FILE "stems\sad song piano 2.mp3" 1
       >
     >
   >
