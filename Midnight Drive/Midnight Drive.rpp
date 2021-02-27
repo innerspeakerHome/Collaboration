@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.15/x64" 1614399499
+<REAPER_PROJECT 0.1 "6.15/x64" 1614437193
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,8 +14,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 182
-  ZOOM 9.13579078940042 0 0
+  CURSOR 146
+  ZOOM 6.49054715188746 0 0
   VZOOMEX 6 0
   USE_REC_CFG 0
   RECMODE 1
@@ -56,8 +56,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 32 32
-  SELECTION2 32 32
+  SELECTION 0 0
+  SELECTION2 0 0
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -248,7 +248,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 1024 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 -1 0
@@ -276,7 +276,7 @@
       BYPASS 0 0 0
       <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
         cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAqAAAAAEAAAAAABAA
-        IQAAAAQAAAAAAAAAAQAAALXDwPT/G39AW/dW6szy9T8eKVyPwvX+PwEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
+        IQAAAAQAAAAAAAAAAQAAAJ/DwPT/G39AXPdW6szy9T8IKVyPwvX+PwEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
         8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAABYDAAAfAgAA
         AAAQAAAA
       >
@@ -293,7 +293,7 @@
       FADEIN 1 15.62498 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {CCF35520-A298-4AF8-9869-29CBD34C13D3}
       IID 27
       NAME "04-guitar 3-210227_0529.wav"
@@ -438,7 +438,7 @@
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
       BEAT 1
-      SEL 0
+      SEL 1
       IGUID {CFCD20BE-F5A5-4033-A984-018825EB6278}
       IID 30
       NAME creepy-reversed-vocals.wav
@@ -472,6 +472,29 @@
       GUID {C6DB09E7-A1CD-481C-8E84-91CDE2EF11B9}
       <SOURCE WAVE
         FILE "C:\Users\User\Desktop\creepy-reversed-vocals.wav"
+      >
+    >
+    <ITEM
+      POSITION 96
+      SNAPOFFS 0
+      LENGTH 48
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {353556E2-FFB4-41A8-AF30-3A972376DF82}
+      IID 30
+      NAME creepy-reversed-vocals.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.09090844671202 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9EEF649B-B9F6-4E37-ABAC-15C5FC268833}
+      <SOURCE WAVE
+        FILE "stems\creepy-reversed-vocals.wav"
       >
     >
   >
@@ -818,6 +841,823 @@
       GUID {7EA47DF0-7052-4167-B0EA-C69B0B318EC2}
       <SOURCE MP3
         FILE "stems\suburb love beat.mp3" 1
+      >
+    >
+  >
+  <TRACK {6A17F1B4-A8BA-47D2-9F41-4AC335616B56}
+    NAME cowbell
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.31923937255319 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {6A17F1B4-A8BA-47D2-9F41-4AC335616B56}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 24
+      SNAPOFFS 0
+      LENGTH 0.20290249433107
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0E96C0ED-19BC-42F0-AD13-7F9B559A4A34}
+      IID 45
+      NAME cowbell.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1B7E2671-C414-4778-8C6F-D7C2460E476A}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\cowbell.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 24.5
+      SNAPOFFS 0
+      LENGTH 0.20290249433106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {487DC3D2-FB15-4EF1-91D9-FA4D55CF2EFA}
+      IID 45
+      NAME cowbell.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C48CDC88-1965-4EA6-8917-450BF181CFC1}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\cowbell.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 25
+      SNAPOFFS 0
+      LENGTH 0.20290249433106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {510BC327-26B4-4254-9378-97ADFEDFBEA8}
+      IID 45
+      NAME cowbell.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B89FDB67-ABA0-4ED5-AEC6-D03FBD0CCDCE}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\cowbell.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 25.5
+      SNAPOFFS 0
+      LENGTH 0.20290249433106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9E600C57-BB54-4440-AE3E-A67114B7D0DC}
+      IID 45
+      NAME cowbell.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {00F00A0A-814E-49BB-95A3-E7CB4668E726}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\cowbell.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 26
+      SNAPOFFS 0
+      LENGTH 0.20290249433106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A9D08D3F-C55F-4B7C-847F-0A4DEEFCA754}
+      IID 45
+      NAME cowbell.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A15B6694-696A-4C9D-8B14-E11FAF469969}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\cowbell.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 26.5
+      SNAPOFFS 0
+      LENGTH 0.20290249433106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {796973E1-C06E-4601-B8AF-6B277C2BDB1A}
+      IID 45
+      NAME cowbell.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {74EEA154-FE00-4922-BF08-9FB6AFE31D8D}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\cowbell.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 27
+      SNAPOFFS 0
+      LENGTH 0.20290249433106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {84FAAE29-D97F-4AFC-B497-5F47AD7935A3}
+      IID 45
+      NAME cowbell.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {43F5031A-59D7-45D1-B388-940E90C65A44}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\cowbell.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 27.5
+      SNAPOFFS 0
+      LENGTH 0.20290249433107
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1E588BF4-50CA-4864-BF9A-C5D4726387D5}
+      IID 45
+      NAME cowbell.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7B5E9A49-C1C6-45A8-B532-E925FB64B8B6}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\cowbell.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 27.75028211535504
+      SNAPOFFS 0
+      LENGTH 0.20290249433107
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5A6A7B89-8E99-4ADB-908F-B48D08C597B0}
+      IID 45
+      NAME cowbell.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {98D97310-B8D0-4D0B-897D-62964D57550B}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\cowbell.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 28
+      SNAPOFFS 0
+      LENGTH 0.20290249433106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {75A1CEA9-4801-45DD-A856-CCA7A117A961}
+      IID 45
+      NAME cowbell.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4EA31856-3352-46EE-8627-E691E7B824C7}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\cowbell.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 28.5
+      SNAPOFFS 0
+      LENGTH 0.20290249433106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {141AEBB5-86B0-4E0E-A640-AEF15FE4E263}
+      IID 45
+      NAME cowbell.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7103DAEC-724D-431B-9904-03F99EDB0853}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\cowbell.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 29
+      SNAPOFFS 0
+      LENGTH 0.20290249433106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4C29DA03-59D3-4FE8-A504-108D48FE3858}
+      IID 45
+      NAME cowbell.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A7476C7B-B1F4-4BBE-98BE-B8D77AAC31BC}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\cowbell.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 29.5
+      SNAPOFFS 0
+      LENGTH 0.20290249433107
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {335EA50E-A9DE-4338-8470-C3C96AF2CE66}
+      IID 45
+      NAME cowbell.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4471B2D0-EE1A-41FC-A303-6780DA5A4EDA}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\cowbell.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 30
+      SNAPOFFS 0
+      LENGTH 0.20290249433107
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {90E8CEA7-2BC9-464D-B593-C7C218549DD0}
+      IID 45
+      NAME cowbell.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BE3E2B06-38FB-45DD-A0A9-3617FD085274}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\cowbell.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 30.5
+      SNAPOFFS 0
+      LENGTH 0.20290249433107
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7CC7EB58-5B4D-4374-84E4-F4712673E977}
+      IID 45
+      NAME cowbell.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {93AD6078-2B7E-4E73-8644-68BE9C83FC66}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\cowbell.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 31
+      SNAPOFFS 0
+      LENGTH 0.20290249433107
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BDF2555D-C334-4EC8-AC0D-0EAB44166DD1}
+      IID 45
+      NAME cowbell.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F09948E6-66BB-41FB-98C8-37ACFD967777}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\cowbell.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 31.5
+      SNAPOFFS 0
+      LENGTH 0.20290249433107
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A7DE08C3-5B8B-4C2B-8AE6-1572DBDD9BAE}
+      IID 45
+      NAME cowbell.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B962FB2A-49B1-4F63-9FAB-C6A4BB6783DE}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\cowbell.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 31.7501307663906
+      SNAPOFFS 0
+      LENGTH 0.20290249433107
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DE86F181-F594-41AC-BECF-7EBC9C54C29C}
+      IID 45
+      NAME cowbell.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7975400D-0968-4FFA-A153-491B19B36235}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\cowbell.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 32
+      SNAPOFFS 0
+      LENGTH 0.20290249433106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7319ACCA-0082-4FA9-B246-BDB37B385586}
+      IID 45
+      NAME cowbell.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {01A88C7B-5F9C-4BEA-9B81-2F3A4C035AA2}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\cowbell.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 32.5
+      SNAPOFFS 0
+      LENGTH 0.20290249433106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5A353F2A-E50C-461D-9C24-69A6466E1965}
+      IID 45
+      NAME cowbell.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {758F7ED6-F7BD-4A3D-B5A4-D8F45A728914}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\cowbell.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 33
+      SNAPOFFS 0
+      LENGTH 0.20290249433106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {635D5DB4-3CB8-46E6-96BA-E393489A4199}
+      IID 45
+      NAME cowbell.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4C9F6CDD-1819-4007-BC62-DBB3DD81F63E}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\cowbell.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 33.5
+      SNAPOFFS 0
+      LENGTH 0.20290249433106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E249B017-0147-4504-9F98-F3D57DFD957E}
+      IID 45
+      NAME cowbell.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B784F7FF-ABE3-4BCB-BC48-DD67E7DFC23B}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\cowbell.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 34
+      SNAPOFFS 0
+      LENGTH 0.20290249433106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {02D3D3DC-F73B-4D5C-8D88-20371B9B8FFB}
+      IID 45
+      NAME cowbell.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DD751594-D614-4E85-A0FB-9223A75FC39C}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\cowbell.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 34.5
+      SNAPOFFS 0
+      LENGTH 0.20290249433106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6C6D692E-6398-4A40-9A5B-3C9CBF545D2A}
+      IID 45
+      NAME cowbell.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F08B726F-9E93-4EED-AB92-35B0D8DD26B3}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\cowbell.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 35
+      SNAPOFFS 0
+      LENGTH 0.20290249433106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6F09A794-85A6-4231-847D-34E48E91A738}
+      IID 45
+      NAME cowbell.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8B863AEC-F708-42E4-910F-6B08DF02BD2C}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\cowbell.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 35.5
+      SNAPOFFS 0
+      LENGTH 0.20290249433106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {102E5C89-7251-48F3-939C-117947EFBB37}
+      IID 45
+      NAME cowbell.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3C3675EB-AF4B-4EDA-AEA4-C86C738FFA39}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\cowbell.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 35.74997941742185
+      SNAPOFFS 0
+      LENGTH 0.20290249433106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {02287D4D-BFB5-40E3-9AE3-44B146DBAACA}
+      IID 45
+      NAME cowbell.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EBD4A15C-80D2-43B9-BCB9-0E414F1488A1}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\cowbell.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 36
+      SNAPOFFS 0
+      LENGTH 0.20290249433106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AF547AF1-CD33-474F-82AE-CA042A3EB46E}
+      IID 45
+      NAME cowbell.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {62293C48-A36B-4BCD-BAFE-E3A473CD1897}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\cowbell.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 36.5
+      SNAPOFFS 0
+      LENGTH 0.20290249433106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {756A7888-7CA7-47FE-94DB-DFFB4394C801}
+      IID 45
+      NAME cowbell.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6636380B-0AD2-4291-ACF2-C5B5F4639087}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\cowbell.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 37
+      SNAPOFFS 0
+      LENGTH 0.20290249433106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4923E128-AC9F-404A-B897-D275982321BE}
+      IID 45
+      NAME cowbell.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {33FE8EC9-0D0B-4B4E-9A34-F1AD0E38AF2C}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\cowbell.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 37.5
+      SNAPOFFS 0
+      LENGTH 0.20290249433106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {40BB1BA1-9E88-4BF7-8A9D-00DF759090A1}
+      IID 45
+      NAME cowbell.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {647CAE1D-A62A-4EDD-9DA2-86BB87BCBB5D}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\cowbell.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 38
+      SNAPOFFS 0
+      LENGTH 0.20290249433106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1E7A83BC-11D6-4137-870B-0861DE33C6C7}
+      IID 45
+      NAME cowbell.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {771BB0BD-3175-4480-B9CF-6AE2C7D3C19D}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\cowbell.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 38.5
+      SNAPOFFS 0
+      LENGTH 0.20290249433106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {67CF8E54-D6A1-420D-85CB-ED338BB4476D}
+      IID 45
+      NAME cowbell.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4F0231B0-AB18-464C-931B-471154C6E111}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\cowbell.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 39
+      SNAPOFFS 0
+      LENGTH 0.20290249433106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B46904F9-9855-4ACE-AB3C-B406F9E8EA45}
+      IID 45
+      NAME cowbell.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {27526222-25F7-48E0-911D-AC1168E86160}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\cowbell.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 39.5
+      SNAPOFFS 0
+      LENGTH 0.20290249433106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4F992020-50CF-4D41-B8F2-236EEAED48CE}
+      IID 45
+      NAME cowbell.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8BBE4967-0658-4C0F-A74F-0920762F8C12}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\cowbell.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 39.74982806842308
+      SNAPOFFS 0
+      LENGTH 0.20290249433106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5307B81C-E1F4-4413-9E3D-FB8AADB71976}
+      IID 45
+      NAME cowbell.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B4AFB99A-E104-4C5D-9835-4F04C7DEA1EB}
+      <SOURCE MP3
+        FILE "C:\Users\User\Desktop\cowbell.mp3" 1
       >
     >
   >

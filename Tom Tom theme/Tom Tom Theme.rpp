@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.15/x64" 1614372976
+<REAPER_PROJECT 0.1 "6.15/x64" 1614444304
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,13 +14,13 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 73.5
-  ZOOM 59.20439092711035 5471 0
+  CURSOR 134.62880306669516
+  ZOOM 83.33333333333375 9663 0
   VZOOMEX 6 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
-  LOOP 0
+  LOOP 1
   LOOPGRAN 0 4
   RECORD_PATH "" ""
   <RECORD_CFG
@@ -65,7 +65,7 @@
   MASTERTRACKVIEW 0 0.6667 0.5 0.5 -1 -1 -1 0 0 0 -1 -1 0
   MASTERHWOUT 0 0 1 0 0 0 0 -1
   MASTER_NCH 2 2
-  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_VOLUME 0.9368544752301 0 -1 -1 1
   MASTER_FX 1
   MASTER_SEL 0
   <MASTERPLAYSPEEDENV
@@ -91,7 +91,7 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 3.98107170553497 0 -1 -1 1
+    VOLPAN 1.15135342746479 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -254,7 +254,7 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 3.98107170553497 0 -1 -1 1
+    VOLPAN 2.12211305105301 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -263,7 +263,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
     SEL 0
-    REC 0 1024 1 0 0 0 0
+    REC 1 1024 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 -1 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -296,13 +296,36 @@
         FILE "C:\Users\User\Documents\REAPER Media\02-bass 2-210226_2236.wav"
       >
     >
+    <ITEM
+      POSITION 142
+      SNAPOFFS 0
+      LENGTH 71.82857142857142
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4591609A-A020-4E47-B1C5-3B653D8B18EF}
+      IID 75
+      NAME "02-bass 2-210227_1831.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 10
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A66F9F03-CF3C-4BCF-8D9C-2419F52A9003}
+      RECPASS 12
+      <SOURCE WAVE
+        FILE "02-bass 2-210227_1831.wav"
+      >
+    >
   >
   <TRACK {8C9D6602-5E0B-48CC-9145-35CADE72EBA3}
     NAME guitar
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 3.82271022481518 0 -1 -1 1
+    VOLPAN 1.85162304993878 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -466,7 +489,7 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 3.62027993977248 0 -1 -1 1
+    VOLPAN 2.13238671326417 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -577,6 +600,29 @@
         FILE "C:\Users\User\Documents\REAPER Media\06-guitar 2-210226_2144.wav"
       >
     >
+    <ITEM
+      POSITION 171
+      SNAPOFFS 0
+      LENGTH 43
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {275BCE86-67E0-4A34-AC69-F0F40D428ACA}
+      IID 73
+      NAME "05-guitar 2-210227_1820.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 22
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {06FCD5D4-CBA6-4DA2-BC6B-1B2E0D72E6FC}
+      RECPASS 10
+      <SOURCE WAVE
+        FILE "05-guitar 2-210227_1820.wav"
+      >
+    >
   >
   <TRACK {8F663B9E-8C39-4372-91EB-818637F20902}
     NAME acoustic-kit-low-tom
@@ -624,6 +670,28 @@
         FILE "stems\acoustic-kit-low-tom.wav"
       >
     >
+    <ITEM
+      POSITION 157.15050614159065
+      SNAPOFFS 0
+      LENGTH 44.67026483346604
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F4846D11-9ECC-49A6-AF82-A39952D0C598}
+      IID 44
+      NAME acoustic-kit-low-tom.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {646974F4-EC48-4E80-AAF8-AF72C41B7CCC}
+      <SOURCE WAVE
+        FILE "stems\acoustic-kit-low-tom.wav"
+      >
+    >
   >
   <TRACK {3C070555-03B7-41B9-B662-B85946F9D5F6}
     NAME acoustic-kit-low-tom-and-snare
@@ -638,7 +706,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 -1 0
@@ -658,7 +726,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {D49C2B49-4BBA-46CC-9222-BAC814C9E88D}
       IID 45
       NAME acoustic-kit-low-tom-and-snare.wav
@@ -669,6 +737,119 @@
       GUID {F1693DC0-BAB1-48B9-B9C5-5057F79E0DA6}
       <SOURCE WAVE
         FILE "stems\acoustic-kit-low-tom-and-snare.wav"
+      >
+    >
+    <ITEM
+      POSITION 135
+      SNAPOFFS 0
+      LENGTH 66.46163265306123
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0BFE1DBC-C93C-4A71-BF9E-525E1F560112}
+      IID 45
+      NAME acoustic-kit-low-tom-and-snare.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1141D025-E8B7-422F-ABA4-9398000BC065}
+      <SOURCE WAVE
+        FILE "stems\acoustic-kit-low-tom-and-snare.wav"
+      >
+    >
+  >
+  <TRACK {FEFDC2E8-8D71-462E-9CF9-4AEA23E32148}
+    NAME hip-hop-chords-1
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FEFDC2E8-8D71-462E-9CF9-4AEA23E32148}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 121.5
+      SNAPOFFS 0
+      LENGTH 13.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FC93E454-CE4C-4ACB-9D69-44D2D89E91EC}
+      IID 77
+      NAME -hip-hop-chords-1.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AFE32E45-F177-42E3-87E7-5E31F10A53BF}
+      <SOURCE MP3
+        FILE "stems\-hip-hop-chords-1.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 142.37119693330484
+      SNAPOFFS 0
+      LENGTH 13.12880306669516
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3B53EE4C-6EAF-4FDC-9C22-37ADBAFDA7F9}
+      IID 77
+      NAME -hip-hop-chords-1.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {189A48EC-9107-48DF-A5F9-56CB02063E54}
+      <SOURCE MP3
+        FILE "stems\-hip-hop-chords-1.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 157.22059713719599
+      SNAPOFFS 0
+      LENGTH 13.77940286280401
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {EE3BF47E-D6EF-42B6-88B5-84C6BD751663}
+      IID 77
+      NAME -hip-hop-chords-1.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {89505515-7100-4235-959B-850978F094A3}
+      <SOURCE MP3
+        FILE "stems\-hip-hop-chords-1.mp3" 1
       >
     >
   >
