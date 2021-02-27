@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.15/x64" 1613663241
+<REAPER_PROJECT 0.1 "6.15/x64" 1614458927
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,9 +14,9 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
-  ZOOM 6.49054715188754 0 0
-  VZOOMEX 6 540
+  CURSOR 253
+  ZOOM 25.47655226259558 0 0
+  VZOOMEX 6 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -85,119 +85,6 @@
     DEFSHAPE 1 -1 -1
   >
   <PROJBAY
-  >
-  <TRACK {5B32509E-A8BD-4747-8F78-4C3B7051382F}
-    NAME drum-loop
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    FREEMODE 0
-    SEL 0
-    REC 0 0 1 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 -1 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {5B32509E-A8BD-4747-8F78-4C3B7051382F}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 13
-      SNAPOFFS 0
-      LENGTH 45
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {76FD8D2B-64B7-4757-A782-7CB767247AD5}
-      IID 2
-      NAME drum-loop.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {02CC7EDD-9C4F-4E00-B400-729D1E365134}
-      <SOURCE WAVE
-        FILE "C:\Users\User\Desktop\samples & loops\drum-loop.wav"
-      >
-    >
-    <ITEM
-      POSITION 63
-      SNAPOFFS 0
-      LENGTH 55
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {6262DE1C-5EAE-473C-B5EA-C02EF6B8098D}
-      IID 2
-      NAME drum-loop.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {DD7B57F3-83B9-4797-857E-AA323EBBA446}
-      <SOURCE WAVE
-        FILE "C:\Users\User\Desktop\samples & loops\drum-loop.wav"
-      >
-    >
-    <ITEM
-      POSITION 123
-      SNAPOFFS 0
-      LENGTH 37.5
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {141478DC-21A2-444A-B368-4F4749EC0019}
-      IID 2
-      NAME drum-loop.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {00349FC6-E164-48DB-AFB6-B3EC8AA06594}
-      <SOURCE WAVE
-        FILE "C:\Users\User\Desktop\samples & loops\drum-loop.wav"
-      >
-    >
-    <ITEM
-      POSITION 163
-      SNAPOFFS 0
-      LENGTH 90
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {7E65FA49-F134-4B13-930C-69B5F36FBE57}
-      IID 45
-      NAME drum-loop.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {D56C7C96-457E-47EF-A933-14D7413ABEB5}
-      <SOURCE WAVE
-        FILE "C:\Users\User\Desktop\samples & loops\drum-loop.wav"
-      >
-    >
   >
   <TRACK {49F856B5-48A2-4AE6-8FDB-7E7DC0A6C29D}
     NAME keys
@@ -5791,7 +5678,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 1024 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 -1 0
@@ -5970,7 +5857,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {D6A6A442-D11A-45B3-8F39-BB79D2B46E9E}
       IID 152
       NAME "13-aion vox-210218_0537.wav"
@@ -5982,6 +5869,119 @@
       RECPASS 15
       <SOURCE WAVE
         FILE "13-aion vox-210218_0537.wav"
+      >
+    >
+  >
+  <TRACK {F21023FF-E1D4-4605-BC03-9B84C21824A6}
+    NAME drum-loop
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F21023FF-E1D4-4605-BC03-9B84C21824A6}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 13
+      SNAPOFFS 0
+      LENGTH 45
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C82A650D-DAC5-4CA3-A5D1-9661CF9A0646}
+      IID 155
+      NAME drum-loop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5F1FFD99-39A4-466D-BFDE-E62CBAD45456}
+      <SOURCE WAVE
+        FILE "stems\drum-loop.wav"
+      >
+    >
+    <ITEM
+      POSITION 63
+      SNAPOFFS 0
+      LENGTH 55
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {986F85D6-30DE-49C9-BBF6-0D240548F646}
+      IID 155
+      NAME drum-loop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D023DA22-EDD0-4D95-9B10-2237B8EF9FF7}
+      <SOURCE WAVE
+        FILE "stems\drum-loop.wav"
+      >
+    >
+    <ITEM
+      POSITION 123
+      SNAPOFFS 0
+      LENGTH 37.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B9B9E58D-EBE7-44F3-AC05-458A7A641F6C}
+      IID 155
+      NAME drum-loop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F63DA54A-DEF0-4E5B-9F32-50BB0F006FF7}
+      <SOURCE WAVE
+        FILE "stems\drum-loop.wav"
+      >
+    >
+    <ITEM
+      POSITION 163
+      SNAPOFFS 0
+      LENGTH 90
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {F56EAAD5-9EA6-41F6-8649-C5184327B9C7}
+      IID 155
+      NAME drum-loop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6C156D3F-4BB2-4BCE-BB10-00EABF69BE6E}
+      <SOURCE WAVE
+        FILE "stems\drum-loop.wav"
       >
     >
   >
