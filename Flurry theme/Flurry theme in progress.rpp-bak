@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.15/x64" 1612582053
+<REAPER_PROJECT 0.1 "6.15/x64" 1614616455
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,9 +14,9 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 147
-  ZOOM 18.09988511555569 1481 0
-  VZOOMEX 6 94
+  CURSOR 152
+  ZOOM 25.47655226259526 2158 0
+  VZOOMEX 6 222
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -28,7 +28,7 @@
   <APPLYFX_CFG
   >
   RENDER_FILE ""
-  RENDER_PATTERN "Flurry theme in progress"
+  RENDER_PATTERN "Flurry theme in progress 1"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
@@ -86,27 +86,27 @@
   >
   <PROJBAY
   >
-  <TRACK {50FF76A3-D641-4A76-9E4D-43695C7F5577}
+  <TRACK {47ACD9F3-6C33-4148-8B6E-AF1288A9EB20}
     NAME cocktail-shaker-arabian-120
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 0.07067705116086 0 -1 -1 1
-    MUTESOLO 0 0 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 -1 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {50FF76A3-D641-4A76-9E4D-43695C7F5577}
+    TRACKID {47ACD9F3-6C33-4148-8B6E-AF1288A9EB20}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -121,22 +121,22 @@
       MUTE 0 0
       BEAT 1
       SEL 0
-      IGUID {4BD76CA0-01DF-4251-99D2-96651D1B0514}
-      IID 2
+      IGUID {C5591ABD-1910-41D6-ADEF-3ADB03F2044F}
+      IID 115
       NAME cocktail-shaker-arabian-120.wav
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {718ED786-BD3D-4B27-95B3-66C87C13CF13}
+      GUID {3102AADB-6A42-4348-8CE4-8E5FA8F60F68}
       <SOURCE WAVE
-        FILE "C:\Users\User\Desktop\samples & loops\cocktail-shaker-arabian-120.wav"
+        FILE "stems\cocktail-shaker-arabian-120.wav"
       >
     >
     <ITEM
       POSITION 48
       SNAPOFFS 0
-      LENGTH 32
+      LENGTH 32.00018140589569
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -144,16 +144,16 @@
       MUTE 0 0
       BEAT 1
       SEL 0
-      IGUID {E74EEF1A-EE40-4BAB-869E-F88FF14D3B66}
-      IID 2
+      IGUID {43FE3652-B73C-4321-922B-F62683378A65}
+      IID 116
       NAME cocktail-shaker-arabian-120.wav
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {E793D8A5-F491-46D5-9D6E-9A25191AE155}
+      GUID {480D4028-7FAD-425E-AA6C-C347361BCBB2}
       <SOURCE WAVE
-        FILE "C:\Users\User\Desktop\samples & loops\cocktail-shaker-arabian-120.wav"
+        FILE "stems\cocktail-shaker-arabian-120.wav"
       >
     >
     <ITEM
@@ -167,16 +167,16 @@
       MUTE 0 0
       BEAT 1
       SEL 0
-      IGUID {2C4EC0F8-C876-41CD-9908-9B7CD170D637}
-      IID 2
+      IGUID {A0A63F2B-E403-4B4C-A565-69D78ED6139B}
+      IID 112
       NAME cocktail-shaker-arabian-120.wav
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {030C569F-0D4E-417C-80C3-BC55414C5F83}
+      GUID {8034FFB2-F02D-453F-898E-59652BCEF406}
       <SOURCE WAVE
-        FILE "C:\Users\User\Desktop\samples & loops\cocktail-shaker-arabian-120.wav"
+        FILE "stems\cocktail-shaker-arabian-120.wav"
       >
     >
     <ITEM
@@ -190,16 +190,16 @@
       MUTE 0 0
       BEAT 1
       SEL 0
-      IGUID {F7432EC0-D5A8-4657-82DE-7772D91195C6}
-      IID 61
+      IGUID {16AB9E8C-DDC8-4C1F-94DC-E789D129C086}
+      IID 113
       NAME cocktail-shaker-arabian-120.wav
       VOLPAN 1 0 1 -1
-      SOFFS 16
+      SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {DE1219C9-9515-4736-8BF1-A8188C5D606A}
+      GUID {3FBB0005-7673-49A5-BAC1-B8AA8D8E1D8B}
       <SOURCE WAVE
-        FILE "C:\Users\User\Desktop\samples & loops\cocktail-shaker-arabian-120.wav"
+        FILE "stems\cocktail-shaker-arabian-120.wav"
       >
     >
     <ITEM
@@ -213,25 +213,25 @@
       MUTE 0 0
       BEAT 1
       SEL 0
-      IGUID {C4F9EE77-AA20-4D79-92E0-94B74F00A52E}
-      IID 61
+      IGUID {0F7355C9-DE8F-43FA-BCE6-F2D0CBFAF851}
+      IID 114
       NAME cocktail-shaker-arabian-120.wav
       VOLPAN 1 0 1 -1
-      SOFFS 12
+      SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {E4272535-A8A9-425B-87FF-BA2B632CA4F4}
+      GUID {5AEB5A7E-1459-4BBC-B71B-B8B48DE71521}
       <SOURCE WAVE
-        FILE "C:\Users\User\Desktop\samples & loops\cocktail-shaker-arabian-120.wav"
+        FILE "stems\cocktail-shaker-arabian-120.wav"
       >
     >
   >
-  <TRACK {6A45C643-1463-4595-B5FB-91459D021319}
+  <TRACK {8C0646BE-9B61-443A-8A4A-88189C7CBE29}
     NAME "mocha-jones-x-the-weeknd C"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 0.73679674640694 0 -1 -1 1
+    VOLPAN 1 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -246,7 +246,7 @@
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {6A45C643-1463-4595-B5FB-91459D021319}
+    TRACKID {8C0646BE-9B61-443A-8A4A-88189C7CBE29}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -260,16 +260,16 @@
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
       SEL 0
-      IGUID {BAFBC603-E766-4AEB-84FA-230A5E1526D7}
-      IID 5
+      IGUID {3526E2AE-3C2D-4B22-BF61-78DEA781D852}
+      IID 117
       NAME "mocha-jones-x-the-weeknd C.mp3"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {DB062704-6696-4E30-8D85-2DF51AAB2405}
+      GUID {A552F1A8-FB20-48C6-88D4-14F7D8946CD2}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\samples & loops\mocha-jones-x-the-weeknd C.mp3" 1
+        FILE "stems\mocha-jones-x-the-weeknd C.mp3" 1
       >
     >
     <ITEM
@@ -282,60 +282,38 @@
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
       SEL 0
-      IGUID {9956FE14-7AEF-40E7-A86E-B81E16386D7C}
-      IID 5
+      IGUID {161A2959-0491-4719-B26F-02253763E972}
+      IID 119
       NAME "mocha-jones-x-the-weeknd C.mp3"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {0CF1A9B4-FA41-4282-A276-6E3158860483}
+      GUID {18928C0F-2379-4258-AEA0-2F081EDF2605}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\samples & loops\mocha-jones-x-the-weeknd C.mp3" 1
+        FILE "stems\mocha-jones-x-the-weeknd C.mp3" 1
       >
     >
     <ITEM
       POSITION 112
       SNAPOFFS 0
-      LENGTH 16
+      LENGTH 32
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
       SEL 0
-      IGUID {28E5A01E-4484-49CE-B3F8-C59E4B8E2954}
-      IID 63
+      IGUID {5FE9A9F9-C51D-40FF-8CEB-37C7565FE3BA}
+      IID 118
       NAME "mocha-jones-x-the-weeknd C.mp3"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {CB82443F-F4C8-4587-A1D9-4E1190412320}
+      GUID {7F46ECF7-7CAB-4C43-92BD-52449C2BCCE9}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\samples & loops\mocha-jones-x-the-weeknd C.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 128
-      SNAPOFFS 0
-      LENGTH 16
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {C8C7D193-4DF3-4034-A242-3FC86C9929EA}
-      IID 5
-      NAME "mocha-jones-x-the-weeknd C.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {FAB862A6-0EFB-45C4-88C1-108EFF7935CB}
-      <SOURCE MP3
-        FILE "C:\Users\User\Desktop\samples & loops\mocha-jones-x-the-weeknd C.mp3" 1
+        FILE "stems\mocha-jones-x-the-weeknd C.mp3" 1
       >
     >
   >
@@ -345,7 +323,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 0.62932758817064 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 1 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
@@ -3789,12 +3767,12 @@
       >
     >
   >
-  <TRACK {A567C8C9-F3D1-41A0-8361-BC0450B1176A}
+  <TRACK {773E247C-6AF5-4687-8DF0-4B7C52BD02A3}
     NAME "flurry extra synth"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 0.75333899751391 0 -1 -1 1
+    VOLPAN 1 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -3809,94 +3787,28 @@
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {A567C8C9-F3D1-41A0-8361-BC0450B1176A}
+    TRACKID {773E247C-6AF5-4687-8DF0-4B7C52BD02A3}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 80.00001
+      POSITION 80
       SNAPOFFS 0
-      LENGTH 3.99999
+      LENGTH 12
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
       SEL 0
-      IGUID {43881560-8C75-4CFA-818D-212D3BACD63A}
-      IID 43
+      IGUID {1844DE48-D1CC-4E21-9473-FFA649DA5A82}
+      IID 120
       NAME "flurry extra synth.mp3"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {1A21F3D4-8482-47DD-A422-4C07DC88C2CB}
-      <SOURCE MP3
-        FILE "stems\flurry extra synth.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 84
-      SNAPOFFS 0
-      LENGTH 2
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {592A28DB-F024-4B97-BBB5-71E5894FDF22}
-      IID 49
-      NAME "mocha-jones-x-the-weeknd C.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {FEE1AC1D-02AE-43AA-9291-50BBD1BAAD70}
-      <SOURCE MP3
-        FILE "C:\Users\User\Desktop\samples & loops\mocha-jones-x-the-weeknd C.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 86
-      SNAPOFFS 0
-      LENGTH 2
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {821C4A14-7B14-4EB7-A23E-5FF765B32459}
-      IID 51
-      NAME "mocha-jones-x-the-weeknd C.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 6
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {B35C3F2C-1085-4C91-A401-8D29C9CC9DC1}
-      <SOURCE MP3
-        FILE "C:\Users\User\Desktop\samples & loops\mocha-jones-x-the-weeknd C.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 88.00000999995973
-      SNAPOFFS 0
-      LENGTH 3.99999
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {60661C33-3B61-479B-A194-A443CFB0EF00}
-      IID 43
-      NAME "flurry extra synth.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {404A2E80-23E6-4C75-AF87-A3AAA45DE502}
+      GUID {13B73B82-75E5-431B-AB81-0E02E32BB933}
       <SOURCE MP3
         FILE "stems\flurry extra synth.mp3" 1
       >
@@ -3904,131 +3816,43 @@
     <ITEM
       POSITION 92
       SNAPOFFS 0
-      LENGTH 2
+      LENGTH 4
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
       SEL 0
-      IGUID {325EE0C4-8ECD-4C55-8D4B-8FBFF6F054BF}
-      IID 49
-      NAME "mocha-jones-x-the-weeknd C.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {D5341BA5-A187-41B3-8D8E-28A81F8B23A6}
-      <SOURCE MP3
-        FILE "C:\Users\User\Desktop\samples & loops\mocha-jones-x-the-weeknd C.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 94
-      SNAPOFFS 0
-      LENGTH 2
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {9900EB2D-2946-4DDE-A06F-73E84169D9FD}
-      IID 49
-      NAME "mocha-jones-x-the-weeknd C.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {B65DFF39-0E97-4F45-9817-CEED38920347}
-      <SOURCE MP3
-        FILE "C:\Users\User\Desktop\samples & loops\mocha-jones-x-the-weeknd C.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 144
-      SNAPOFFS 0
-      LENGTH 3.99999
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {5A1B3201-C474-4833-8C52-0FEEAE34735B}
-      IID 43
+      IGUID {CC67C96A-56C9-4024-BB8A-9A2A19A4C519}
+      IID 122
       NAME "flurry extra synth.mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 0
+      SOFFS 4
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {6EB28B53-9593-4351-819A-A4167F26D44B}
+      GUID {94AA57B5-7CE9-43DA-A5F2-06888DEB19F7}
       <SOURCE MP3
         FILE "stems\flurry extra synth.mp3" 1
       >
     >
     <ITEM
-      POSITION 148
+      POSITION 144
       SNAPOFFS 0
-      LENGTH 2
+      LENGTH 12
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
       SEL 0
-      IGUID {4638E9B4-8F31-4BAF-A7E1-A183BD95BE41}
-      IID 49
-      NAME "mocha-jones-x-the-weeknd C.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {07776504-1308-4E24-B818-7511E34A53E1}
-      <SOURCE MP3
-        FILE "C:\Users\User\Desktop\samples & loops\mocha-jones-x-the-weeknd C.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 150
-      SNAPOFFS 0
-      LENGTH 2
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {CA9F904D-0222-4FBA-AC85-EE35A5CE624F}
-      IID 51
-      NAME "mocha-jones-x-the-weeknd C.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 6
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {B81FE0DB-1400-46A4-B844-8C7607DC59FA}
-      <SOURCE MP3
-        FILE "C:\Users\User\Desktop\samples & loops\mocha-jones-x-the-weeknd C.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 152
-      SNAPOFFS 0
-      LENGTH 3.99999
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {2B6C6612-5D44-4AA5-AAD4-2422CA4DE93A}
-      IID 43
+      IGUID {3C2D1A97-1791-44D9-8DFA-B7750B1007C7}
+      IID 121
       NAME "flurry extra synth.mp3"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {CE1E42CF-A191-4F64-B933-A7D49E9D59B5}
+      GUID {21B906DD-AFE4-48EA-BADE-145E7D5E64E6}
       <SOURCE MP3
         FILE "stems\flurry extra synth.mp3" 1
       >
@@ -4036,131 +3860,43 @@
     <ITEM
       POSITION 156
       SNAPOFFS 0
-      LENGTH 2
+      LENGTH 4
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
       SEL 0
-      IGUID {54A6F130-C2D2-4809-AFC9-6760C739A8A4}
-      IID 49
-      NAME "mocha-jones-x-the-weeknd C.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {7F724D7D-57BD-4204-B222-5825BD58D2A6}
-      <SOURCE MP3
-        FILE "C:\Users\User\Desktop\samples & loops\mocha-jones-x-the-weeknd C.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 158
-      SNAPOFFS 0
-      LENGTH 2
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {9B26D25F-189A-40D4-B312-717F2B068D0F}
-      IID 51
-      NAME "mocha-jones-x-the-weeknd C.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 6
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {75071FDA-19EB-467E-B73F-6C7F47B0F10B}
-      <SOURCE MP3
-        FILE "C:\Users\User\Desktop\samples & loops\mocha-jones-x-the-weeknd C.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 160
-      SNAPOFFS 0
-      LENGTH 3.99999
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {F868F3DC-88EE-4EC5-B66B-0C0DA6937950}
-      IID 43
+      IGUID {ED4132E5-0B33-4E39-BC2E-C7713DAD8482}
+      IID 122
       NAME "flurry extra synth.mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 0
+      SOFFS 4
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {AD79DA2A-1B08-4C55-96FC-EE07A4F94D7B}
+      GUID {F34BF900-06FC-4705-8667-41983562F741}
       <SOURCE MP3
         FILE "stems\flurry extra synth.mp3" 1
       >
     >
     <ITEM
-      POSITION 164
+      POSITION 160
       SNAPOFFS 0
-      LENGTH 2
+      LENGTH 12
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
       SEL 0
-      IGUID {07BE0B10-8F20-4379-9CDB-A1E0ACD967C6}
-      IID 49
-      NAME "mocha-jones-x-the-weeknd C.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {80E0C0A6-765C-4E96-A77F-69AD93B01F37}
-      <SOURCE MP3
-        FILE "C:\Users\User\Desktop\samples & loops\mocha-jones-x-the-weeknd C.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 166
-      SNAPOFFS 0
-      LENGTH 2
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {66D0FE91-5C36-4A3B-99AD-AB412B469718}
-      IID 51
-      NAME "mocha-jones-x-the-weeknd C.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 6
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {42DB08D0-43F4-4B58-B8AB-4A642D8DD8BA}
-      <SOURCE MP3
-        FILE "C:\Users\User\Desktop\samples & loops\mocha-jones-x-the-weeknd C.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 168
-      SNAPOFFS 0
-      LENGTH 3.99999
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {A32FCB70-DEC4-43A2-9E34-7D5E7D814B2A}
-      IID 43
+      IGUID {69813C4A-6F17-45D6-8715-0BAC0B7EC071}
+      IID 121
       NAME "flurry extra synth.mp3"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {59681FC0-EFB7-40AF-9843-49D79B151AFE}
+      GUID {8D5A4F80-F80C-45D4-A9F7-6D4C02E2F66A}
       <SOURCE MP3
         FILE "stems\flurry extra synth.mp3" 1
       >
@@ -4168,49 +3904,27 @@
     <ITEM
       POSITION 172
       SNAPOFFS 0
-      LENGTH 2
+      LENGTH 4
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
       SEL 0
-      IGUID {05140393-D098-4AC9-814D-E5E86ACBF653}
-      IID 49
-      NAME "mocha-jones-x-the-weeknd C.mp3"
+      IGUID {ADCCDD9A-5906-435B-953D-B0A48843809D}
+      IID 122
+      NAME "flurry extra synth.mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 0
+      SOFFS 4
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {6B3C0763-00DE-4FC2-A97F-B22A9E8107DC}
+      GUID {D6F4F124-63A6-4BF3-B8A2-8E12E47BC1B9}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\samples & loops\mocha-jones-x-the-weeknd C.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 174
-      SNAPOFFS 0
-      LENGTH 2
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {A6B8BCAC-02B8-4E9E-8F29-E16E5C06811C}
-      IID 49
-      NAME "mocha-jones-x-the-weeknd C.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {17C526C9-0AC2-4A9A-86E1-F6452C677C49}
-      <SOURCE MP3
-        FILE "C:\Users\User\Desktop\samples & loops\mocha-jones-x-the-weeknd C.mp3" 1
+        FILE "stems\flurry extra synth.mp3" 1
       >
     >
   >
-  <TRACK {67250C58-B764-48E9-8F86-69678B503EF6}
+  <TRACK {9BC80DF4-D800-4A84-9E1B-CD05197425B1}
     NAME "flury 1"
     PEAKCOL 16576
     BEAT -1
@@ -4230,7 +3944,7 @@
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {67250C58-B764-48E9-8F86-69678B503EF6}
+    TRACKID {9BC80DF4-D800-4A84-9E1B-CD05197425B1}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -4244,16 +3958,16 @@
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
       SEL 0
-      IGUID {1A7DD487-BAC9-4A9E-9324-BE5B2731C0E9}
-      IID 100
+      IGUID {84112DFC-A6AF-4A3D-AB39-A23DFC3C1EF0}
+      IID 127
       NAME "flury 1.mp3"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {4EA3EE18-9064-4FEC-8FBD-44CA82D12EA7}
+      GUID {1BB4BD89-D020-4793-876A-76C2CCDA64DF}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\samples & loops\flurry\flury 1.mp3" 1
+        FILE "stems\flury 1.mp3" 1
       >
     >
     <ITEM
@@ -4266,16 +3980,16 @@
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
       SEL 0
-      IGUID {D6BFFE4F-878A-47A7-9BEC-90F3CFCB925E}
-      IID 100
+      IGUID {AD538718-5097-4B5E-9302-0E7753D9AA92}
+      IID 127
       NAME "flury 1.mp3"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {3F83CFA3-F4C7-4D0B-89D3-C1561BD5EF15}
+      GUID {68A2012B-04B1-4CF6-B6FC-A621165BA2B6}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\samples & loops\flurry\flury 1.mp3" 1
+        FILE "stems\flury 1.mp3" 1
       >
     >
     <ITEM
@@ -4288,20 +4002,20 @@
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
       SEL 0
-      IGUID {0A419274-0B43-4237-9BA3-2C656B346DC7}
-      IID 100
+      IGUID {C02CF0CB-5A51-4A62-9915-2BF819BE8E6E}
+      IID 127
       NAME "flury 1.mp3"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {F95BC196-0E4A-41D8-ADA7-4CCD45FC67CA}
+      GUID {7DE29A34-AB81-43B8-B236-5AC9BCECE3A2}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\samples & loops\flurry\flury 1.mp3" 1
+        FILE "stems\flury 1.mp3" 1
       >
     >
   >
-  <TRACK {6C182F31-7D3E-454D-8A58-8EC53AF7BDBC}
+  <TRACK {A56495B8-D605-4E1E-8922-78AFC5713B66}
     NAME "flury 2"
     PEAKCOL 16576
     BEAT -1
@@ -4321,7 +4035,7 @@
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {6C182F31-7D3E-454D-8A58-8EC53AF7BDBC}
+    TRACKID {A56495B8-D605-4E1E-8922-78AFC5713B66}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -4335,16 +4049,16 @@
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
       SEL 0
-      IGUID {497C9AF5-333D-4ACE-940C-A7A38D6E0D55}
-      IID 101
+      IGUID {94C9B7EA-0A12-48A4-BC62-B138D80A949D}
+      IID 130
       NAME "flury 2.mp3"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {4F9CDAE3-C8A5-4921-ABA1-95A71DF7E460}
+      GUID {C9FC6A48-FD42-4527-8FE4-9FF9CFD7E9A7}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\samples & loops\flurry\flury 2.mp3" 1
+        FILE "stems\flury 2.mp3" 1
       >
     >
     <ITEM
@@ -4357,42 +4071,42 @@
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
       SEL 0
-      IGUID {948F933E-3AF3-4CAB-A7DA-09180254A7AC}
-      IID 101
+      IGUID {E6139EA4-4B13-4670-BEEB-299D83E68967}
+      IID 130
       NAME "flury 2.mp3"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {4CADA94A-4618-46F5-A9E3-5C25C8B060EA}
+      GUID {69CC1347-5FE1-48DB-8984-F86190572DE2}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\samples & loops\flurry\flury 2.mp3" 1
+        FILE "stems\flury 2.mp3" 1
       >
     >
     <ITEM
       POSITION 144
       SNAPOFFS 0
-      LENGTH 32
+      LENGTH 31.73896112954904
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
       SEL 0
-      IGUID {42C4AEA9-69EB-44BC-8F14-864C56881667}
-      IID 101
+      IGUID {369B4191-C4F6-454B-A2BB-3F341B388F69}
+      IID 130
       NAME "flury 2.mp3"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {88B8197B-D94A-4DC5-8218-C5006433E87A}
+      GUID {7136157F-58BC-437A-8553-A08CC768EEA2}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\samples & loops\flurry\flury 2.mp3" 1
+        FILE "stems\flury 2.mp3" 1
       >
     >
   >
-  <TRACK {70F9A3FD-411B-4532-A0E6-9D7B38D25700}
+  <TRACK {C96F15F0-D4A4-4A4B-9FA2-3318944649A2}
     NAME "weird drum short"
     PEAKCOL 16576
     BEAT -1
@@ -4412,7 +4126,7 @@
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {70F9A3FD-411B-4532-A0E6-9D7B38D25700}
+    TRACKID {C96F15F0-D4A4-4A4B-9FA2-3318944649A2}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -4426,20 +4140,20 @@
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
       SEL 0
-      IGUID {6ABCF296-5B14-4C0E-A65C-DC9637D1E7AD}
-      IID 102
+      IGUID {59D52E75-FAE5-4DFD-A4C9-15123FC1201A}
+      IID 133
       NAME "weird drum short.mp3"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {639BD573-75D2-463E-99D4-F9ABA567E84F}
+      GUID {62B97916-0628-42DF-9F25-C54AF6F04F62}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\samples & loops\flurry\weird drum short.mp3" 1
+        FILE "stems\weird drum short.mp3" 1
       >
     >
   >
-  <TRACK {D10F6A1B-CA90-4CBB-8071-4E864EBD6B50}
+  <TRACK {BBE75C2D-999E-4465-954B-1D969BDBDF3A}
     NAME weird-drum-pattern
     PEAKCOL 16576
     BEAT -1
@@ -4459,7 +4173,7 @@
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {D10F6A1B-CA90-4CBB-8071-4E864EBD6B50}
+    TRACKID {BBE75C2D-999E-4465-954B-1D969BDBDF3A}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -4473,16 +4187,16 @@
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
       SEL 0
-      IGUID {35A2F50B-80EB-4FF8-86D2-454A55B128D7}
-      IID 103
+      IGUID {7CF85CDB-3212-4ED1-8AE1-AEEA99B16604}
+      IID 134
       NAME weird-drum-pattern.mp3
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {2128835B-60CC-45CE-A662-74B1501108BE}
+      GUID {C674E6BA-AA27-45FB-B4C0-4BEBFBC2EEE8}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\samples & loops\flurry\weird-drum-pattern.mp3" 1
+        FILE "stems\weird-drum-pattern.mp3" 1
       >
     >
     <ITEM
@@ -4495,16 +4209,16 @@
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
       SEL 0
-      IGUID {D880F28E-5769-4D18-8EA5-0A56C27786AF}
-      IID 103
+      IGUID {538B1C7B-AE07-485C-AFEF-E26832E1572A}
+      IID 137
       NAME weird-drum-pattern.mp3
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {FA73F899-4DF5-4BA8-B51B-21FF24561819}
+      GUID {4A5001F5-E514-4845-917A-F38C05AF0D1D}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\samples & loops\flurry\weird-drum-pattern.mp3" 1
+        FILE "stems\weird-drum-pattern.mp3" 1
       >
     >
     <ITEM
@@ -4517,38 +4231,60 @@
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
       SEL 0
-      IGUID {BC59A6F5-41F9-4433-A1F8-CF27530F5CDD}
-      IID 103
+      IGUID {55A4394B-0C06-4ECC-AE31-CCDAAF1ACDB9}
+      IID 138
       NAME weird-drum-pattern.mp3
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {57184B6B-E9F8-43A2-97E2-0A34921F3421}
+      GUID {4C3CB488-4EE3-44B8-AE6E-7B6DC580F883}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\samples & loops\flurry\weird-drum-pattern.mp3" 1
+        FILE "stems\weird-drum-pattern.mp3" 1
       >
     >
     <ITEM
       POSITION 148
       SNAPOFFS 0
-      LENGTH 28
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {CD4670E4-82DC-43AC-9B4E-985C68814B31}
+      IID 140
+      NAME weird-drum-pattern.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {10E5C394-85A4-40B5-A3AA-8A904E1236A5}
+      <SOURCE MP3
+        FILE "stems\weird-drum-pattern.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 152
+      SNAPOFFS 0
+      LENGTH 23.73896112954904
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
       SEL 0
-      IGUID {3890289A-4A9D-4A70-A905-DD625D131B6B}
-      IID 111
+      IGUID {B7C63FC3-5B1A-48A6-A25D-764BE2B16576}
+      IID 139
       NAME weird-drum-pattern.mp3
       VOLPAN 1 0 1 -1
-      SOFFS 4
+      SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {44673395-7DF7-49C3-B89F-BA9DE75AF315}
+      GUID {0B704909-CE89-4884-8261-EB5D6CC86131}
       <SOURCE MP3
-        FILE "C:\Users\User\Desktop\samples & loops\flurry\weird-drum-pattern.mp3" 1
+        FILE "stems\weird-drum-pattern.mp3" 1
       >
     >
   >
