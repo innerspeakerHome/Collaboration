@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.15/x64" 1615047354
+<REAPER_PROJECT 0.1 "6.15/x64" 1615052705
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,8 +14,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 26.5
-  ZOOM 35.85960413809064 0 0
+  CURSOR 77
+  ZOOM 12.85911208940567 0 0
   VZOOMEX 6 0
   USE_REC_CFG 0
   RECMODE 1
@@ -111,7 +111,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 0
+      POSITION 96
       SNAPOFFS 0
       LENGTH 32
       LOOP 1
@@ -130,6 +130,54 @@
       GUID {6BA58664-4F16-4203-8DFF-2CC882C7C233}
       <SOURCE MP3
         FILE "stems\knot-electric-piano-part-1-of-2-new.mp3" 1
+      >
+    >
+  >
+  <TRACK {D1D1E989-3900-4BB0-A755-F4624E5C732C}
+    NAME bass
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 2.15306599269332 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 1 1024 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D1D1E989-3900-4BB0-A755-F4624E5C732C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 6.5
+      SNAPOFFS 0
+      LENGTH 75.11800453514739
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {13358BA6-00D3-4D56-9FFE-1DDFB7997563}
+      IID 11
+      NAME 02-bass-210306_1926.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E45DD749-E28A-4ADA-BC2B-E72EE32DB1CE}
+      RECPASS 5
+      <SOURCE WAVE
+        FILE "02-bass-210306_1926.wav"
       >
     >
   >
@@ -158,9 +206,9 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 0
+      POSITION 16
       SNAPOFFS 0
-      LENGTH 48
+      LENGTH 56
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -175,6 +223,28 @@
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {09476BFA-9AFD-40A6-9E25-BFDD82F0F92A}
+      <SOURCE MP3
+        FILE "stems\tribal love loop.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 80
+      SNAPOFFS 0
+      LENGTH 56
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {21A02E49-088C-42AD-97D9-B9AEDBD3E677}
+      IID 2
+      NAME "tribal love loop.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {050FF475-9509-48A0-966C-4F1D2864A01F}
       <SOURCE MP3
         FILE "stems\tribal love loop.mp3" 1
       >
@@ -205,7 +275,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 32
+      POSITION 112
       SNAPOFFS 0
       LENGTH 16
       LOOP 1
@@ -213,7 +283,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {B58780BC-1505-4164-8C97-D5D512652443}
       IID 3
       NAME knot-electric-piano-part-2-of-2-new.mp3
@@ -224,6 +294,53 @@
       GUID {89AACA21-D5F8-42AF-A308-C64E909C6058}
       <SOURCE MP3
         FILE "stems\knot-electric-piano-part-2-of-2-new.mp3" 1
+      >
+    >
+  >
+  <TRACK {119B4D81-5964-4599-89EF-7F76C7F716B9}
+    NAME "cosmic pad 1-new"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {119B4D81-5964-4599-89EF-7F76C7F716B9}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 80
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C7C4164A-82AD-4A6B-A250-50A3F9140777}
+      IID 6
+      NAME "cosmic pad 1-new.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F461C687-6C36-41CE-A8D9-D9BDC6487D15}
+      <SOURCE MP3
+        FILE "stems\cosmic pad 1-new.mp3" 1
       >
     >
   >
