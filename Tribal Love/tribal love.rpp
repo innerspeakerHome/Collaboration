@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.15/x64" 1615081088
+<REAPER_PROJECT 0.1 "6.15/x64" 1615092287
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,8 +14,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 77
-  ZOOM 12.85911208940567 0 0
+  CURSOR 0
+  ZOOM 12.85911208940568 0 0
   VZOOMEX 6 0
   USE_REC_CFG 0
   RECMODE 1
@@ -65,7 +65,7 @@
   MASTERTRACKVIEW 0 0.6667 0.5 0.5 -1 -1 -1 0 0 0 -1 -1 0
   MASTERHWOUT 0 0 1 0 0 0 0 -1
   MASTER_NCH 2 2
-  MASTER_VOLUME 0.12106466644394 0 -1 -1 1
+  MASTER_VOLUME 0.99354619307878 0 -1 -1 1
   MASTER_FX 1
   MASTER_SEL 0
   <MASTERPLAYSPEEDENV
@@ -91,7 +91,7 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
+    VOLPAN 1.23169460501479 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -132,13 +132,35 @@
         FILE "stems\knot-electric-piano-part-1-of-2-new.mp3" 1
       >
     >
+    <ITEM
+      POSITION 144
+      SNAPOFFS 0
+      LENGTH 64.04226757369617
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0F3326C6-9A21-44B6-AF62-80C7A287E072}
+      IID 1
+      NAME knot-electric-piano-part-1-of-2-new.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {541D33B4-AAB0-4D10-B104-DFFFF15C1232}
+      <SOURCE MP3
+        FILE "stems\knot-electric-piano-part-1-of-2-new.mp3" 1
+      >
+    >
   >
   <TRACK {9056B70D-D506-47DB-8F74-F7153F23FFC1}
     NAME "bass - stem"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 2.15306599269332 0 -1 -1 1
+    VOLPAN 1.93504135003819 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -147,7 +169,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
     SEL 0
-    REC 0 0 1 0 0 0 0
+    REC 0 1024 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 -1 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -158,25 +180,110 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 0
+      POSITION 3.5
       SNAPOFFS 0
-      LENGTH 137
-      LOOP 0
+      LENGTH 74.5
+      LOOP 1
       ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
       SEL 0
-      IGUID {BCEDB4BF-D36D-4684-9B51-575985C2092E}
-      IID 16
-      NAME "bass - stem"
+      IGUID {75C74F57-1D5E-41CF-B609-FA66F79EDCAB}
+      IID 21
+      NAME "02-bass - stem-210307_0406.wav"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {A9B23173-6B5A-4B11-8F0B-ADB9229E1FF4}
+      GUID {ED8351C1-8FA6-4F20-A11C-05423B781CCF}
+      RECPASS 1
       <SOURCE WAVE
-        FILE "tribal love_stems_bass.wav"
+        FILE "02-bass - stem-210307_0406.wav"
+      >
+      TAKE NULL
+    >
+    <ITEM
+      POSITION 78
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2DD168F4-D4F5-4806-A31F-A795805C4BC9}
+      IID 22
+      NAME "02-bass - stem-210307_0406.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 74.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B64C443B-F9D4-455C-97D4-CC34FB0C57C9}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "02-bass - stem-210307_0406.wav"
+      >
+      TAKE
+      NAME "02-bass - stem-210307_0409.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 31160547 R
+      GUID {2C8EC994-0927-4A5A-ADA4-ABFA849A28B2}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "02-bass - stem-210307_0409.wav"
+      >
+    >
+  >
+  <TRACK {669EA1A6-C1C7-4CB5-8544-6B13CE1F93F9}
+    NAME "bass - stem 2"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1.95402239099896 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 1024 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {669EA1A6-C1C7-4CB5-8544-6B13CE1F93F9}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 76.5
+      SNAPOFFS 0
+      LENGTH 74.44462585034013
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A3917E20-FF13-4DBF-9EB2-ADC3D82F8034}
+      IID 24
+      NAME "03-bass - stem 2-210307_0415.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {728247AA-91AB-40B7-8E5D-49136579F8E8}
+      RECPASS 3
+      <SOURCE WAVE
+        FILE "03-bass - stem 2-210307_0415.wav"
       >
     >
   >
@@ -227,9 +334,9 @@
       >
     >
     <ITEM
-      POSITION 80
+      POSITION 79.5
       SNAPOFFS 0
-      LENGTH 56
+      LENGTH 56.5
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -240,10 +347,32 @@
       IID 2
       NAME "tribal love loop.mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 0
+      SOFFS 3.5
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {050FF475-9509-48A0-966C-4F1D2864A01F}
+      <SOURCE MP3
+        FILE "stems\tribal love loop.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 144
+      SNAPOFFS 0
+      LENGTH 56
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {35BD307E-527D-4505-A487-747D0FEAFD7E}
+      IID 2
+      NAME "tribal love loop.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2AF0B7C5-0DCB-413E-8F7D-37042E9DDA1A}
       <SOURCE MP3
         FILE "stems\tribal love loop.mp3" 1
       >
@@ -274,9 +403,9 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 112
+      POSITION 128
       SNAPOFFS 0
-      LENGTH 16
+      LENGTH 80
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -301,7 +430,7 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
+    VOLPAN 1.23169460501479 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -340,6 +469,241 @@
       GUID {F461C687-6C36-41CE-A8D9-D9BDC6487D15}
       <SOURCE MP3
         FILE "stems\cosmic pad 1-new.mp3" 1
+      >
+    >
+  >
+  <TRACK {C4B8DC50-7875-496D-B1F7-28B5DB00D83E}
+    NAME "devils snare 1"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.63654068630513 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C4B8DC50-7875-496D-B1F7-28B5DB00D83E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 96
+      SNAPOFFS 0
+      LENGTH 40
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6820E075-9177-41D8-9946-22D17571CF79}
+      IID 26
+      NAME "devils snare 1.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CB2D413B-4CA5-4605-AB96-3338CD406B87}
+      <SOURCE MP3
+        FILE "stems\devils snare 1.mp3" 1
+      >
+    >
+  >
+  <TRACK {2589A712-C49D-452F-9D88-30A9AA805569}
+    NAME "98 bpm tropical drum kick"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.60115247317422 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2589A712-C49D-452F-9D88-30A9AA805569}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 160.00721763968366
+      SNAPOFFS 0
+      LENGTH 32
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {833EB8AA-1998-453D-BB35-07EAA15F6C0E}
+      IID 29
+      NAME "98 bpm tropical drum kick.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {36616208-AD69-45C2-953D-516116CA2369}
+      <SOURCE WAVE
+        FILE "stems\98 bpm tropical drum kick.wav"
+      >
+    >
+  >
+  <TRACK {3B6AA7BB-FBE7-46B8-8ECE-AEFAABF743D9}
+    NAME "98 bpm tropical drum no kick"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.60115247317422 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3B6AA7BB-FBE7-46B8-8ECE-AEFAABF743D9}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 144.01832770194315
+      SNAPOFFS 0
+      LENGTH 48
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4A2B5660-7705-475F-BEB0-B1C9A8636726}
+      IID 30
+      NAME "98 bpm tropical drum no kick.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {04E2076C-0EE8-49F1-BEB6-F50BA6BC0064}
+      <SOURCE WAVE
+        FILE "stems\98 bpm tropical drum no kick.wav"
+      >
+    >
+  >
+  <TRACK {D2C08A2A-5377-4A93-84E7-C381E808382A}
+    NAME "samba drum"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.75333899751391 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D2C08A2A-5377-4A93-84E7-C381E808382A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 144.01832770194315
+      SNAPOFFS 0
+      LENGTH 48
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A5138B65-5032-4161-B5A8-593ACDA7A3FD}
+      IID 32
+      NAME "samba drum.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6D8D5894-E6AD-4619-9CA8-B48C992865DC}
+      <SOURCE WAVE
+        FILE "stems\samba drum.wav"
+      >
+    >
+  >
+  <TRACK {4414F0AB-B7E8-48C2-BB91-3A9848B56E09}
+    NAME "tribalismo drums"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.75333899751391 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4414F0AB-B7E8-48C2-BB91-3A9848B56E09}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 144.01832770194315
+      SNAPOFFS 0
+      LENGTH 55.98167229805685
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5AB7205E-B056-4A92-BF5D-4F372BFF3C52}
+      IID 33
+      NAME "tribalismo drums.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {325224FD-DF61-46F0-84E8-6684CFF7F8A5}
+      <SOURCE WAVE
+        FILE "stems\tribalismo drums.wav"
       >
     >
   >
