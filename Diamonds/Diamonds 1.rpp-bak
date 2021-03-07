@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.15/x64" 1615005399
+<REAPER_PROJECT 0.1 "6.15/x64" 1615058632
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -478,7 +478,7 @@
       GUID {D682641E-5871-4837-BA62-7FD7D851FB8F}
       RECPASS 3
       <SOURCE WAVE
-        FILE "C:\Users\User\Documents\REAPER Media\05-guitar-210302_2124.wav"
+        FILE "stems\05-guitar-210302_2124.wav"
       >
     >
   >
@@ -526,7 +526,7 @@
       GUID {6DE9DC3A-A1A8-434D-8C6E-4C4C0308D5CD}
       RECPASS 4
       <SOURCE WAVE
-        FILE "C:\Users\User\Documents\REAPER Media\06-guitar 2-210302_2134.wav"
+        FILE "stems\06-guitar 2-210302_2134.wav"
       >
     >
   >
@@ -621,7 +621,7 @@
       GUID {1C2B3746-6F34-4C13-A60F-310E61EDB327}
       RECPASS 1
       <SOURCE WAVE
-        FILE "C:\Users\User\Documents\REAPER Media\06-bass-210302_2058.wav"
+        FILE "stems\06-bass-210302_2058.wav"
       >
     >
   >

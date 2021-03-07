@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.15/x64" 1614704197
+<REAPER_PROJECT 0.1 "6.15/x64" 1615080840
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -16,7 +16,7 @@
   PANMODE 3
   CURSOR 220
   ZOOM 6.49054715188747 0 0
-  VZOOMEX 6 0
+  VZOOMEX 6 536
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -144,7 +144,7 @@
       GUID {6A504DB2-5A90-4360-A48C-F32686C0FA6D}
       RECPASS 4
       <SOURCE WAVE
-        FILE "C:\Users\User\Documents\REAPER Media\02-guitar-210227_0514.wav"
+        FILE "stems\02-guitar-210227_0514.wav"
       >
     >
   >
@@ -162,7 +162,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
     SEL 1
-    REC 1 1024 1 0 0 0 0
+    REC 0 1024 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 -1 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -270,7 +270,7 @@
       GUID {F7614528-6987-466A-8C86-BCA2FFAFB82E}
       RECPASS 5
       <SOURCE WAVE
-        FILE "C:\Users\User\Documents\REAPER Media\03-guitar 2-210227_0522.wav"
+        FILE "stems\02-guitar-210227_0514.wav"
       >
     >
     <ITEM
@@ -293,7 +293,7 @@
       GUID {AE7374B9-FE08-4868-BE25-1F7B61BC4B5F}
       RECPASS 5
       <SOURCE WAVE
-        FILE "C:\Users\User\Documents\REAPER Media\03-guitar 2-210227_0522.wav"
+        FILE "stems\02-guitar-210227_0514.wav"
       >
     >
   >
@@ -366,7 +366,7 @@
       GUID {4EA25082-B16A-41F9-B2C9-0056CA2BF135}
       RECPASS 6
       <SOURCE WAVE
-        FILE "C:\Users\User\Documents\REAPER Media\04-guitar 3-210227_0529.wav"
+        FILE "stems\04-guitar 3-210227_0529.wav"
       >
     >
   >
@@ -414,7 +414,7 @@
       GUID {689336BA-330C-4C91-837E-1EAB80480A9B}
       RECPASS 3
       <SOURCE WAVE
-        FILE "C:\Users\User\Documents\REAPER Media\05-bass 2-210227_0502.wav"
+        FILE "stems\05-bass 2-210227_0502.wav"
       >
     >
   >
@@ -462,7 +462,7 @@
       GUID {D82820B2-96D2-4BAE-9E92-1D61DAABD9A4}
       RECPASS 1
       <SOURCE WAVE
-        FILE "C:\Users\User\Documents\REAPER Media\05-bass-210227_0440.wav"
+        FILE "stems\05-bass 2-210227_0502.wav"
       >
     >
   >
