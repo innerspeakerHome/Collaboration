@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.15/x64" 1615248474
+<REAPER_PROJECT 0.1 "6.15/x64" 1615308401
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,9 +14,9 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 370.5
-  ZOOM 39.46212445259604 13566 0
-  VZOOMEX 6 540
+  CURSOR 191.5
+  ZOOM 12.60841226593356 3879 0
+  VZOOMEX 6 1800
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -56,8 +56,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 0 0
-  SELECTION2 0 0
+  SELECTION 180.02358895702667 180
+  SELECTION2 180.02358895702667 180
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -111,9 +111,9 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 8
+      POSITION 8.01034011541204
       SNAPOFFS 0
-      LENGTH 44
+      LENGTH 12
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -128,6 +128,182 @@
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {E958CF72-0BB1-401E-BC85-B842AA03278D}
+      <SOURCE MP3
+        FILE "stems\Alone back vox 1.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 20.01078448630803
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1.1 0.01 0.010784 1 1 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ECA54113-E619-4A0F-AABA-1EC305735818}
+      IID 587
+      NAME "Alone back vox 1.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7C5AF7BE-DF04-4C2A-ADA4-2FFC389F9986}
+      <SOURCE MP3
+        FILE "stems\Alone back vox 1.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 24
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.010784 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5861DB68-14A8-46DA-B6F8-C9B6824A5E4C}
+      IID 588
+      NAME "Alone back vox 1.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2B2AC2CF-CC08-4095-BC07-A4E38BA162FF}
+      <SOURCE MP3
+        FILE "stems\Alone back vox 1.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 28
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B2D0F235-BC8C-4C15-8646-310FDFE13C27}
+      IID 589
+      NAME "Alone back vox 1.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D2536BC7-F555-4505-BF9F-8CFCCB8142EC}
+      <SOURCE MP3
+        FILE "stems\Alone back vox 1.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 32
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2243F2D2-2F8C-4E7F-A0ED-2FF78D634834}
+      IID 590
+      NAME "Alone back vox 1.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {40488F10-39B4-4372-8F56-4DA690E74E8B}
+      <SOURCE MP3
+        FILE "stems\Alone back vox 1.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 36
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8F55A453-3E06-4D67-ADA3-87925B984BA0}
+      IID 591
+      NAME "Alone back vox 1.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {49C40173-1953-4BB4-B6A5-CEC8C8E9D833}
+      <SOURCE MP3
+        FILE "stems\Alone back vox 1.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 40
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {09FF8E69-029C-4C1F-B7FB-263213078A0D}
+      IID 592
+      NAME "Alone back vox 1.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {77575088-F91D-45AC-8985-8E7B2CEA55EB}
+      <SOURCE MP3
+        FILE "stems\Alone back vox 1.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 44
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F747041D-B0F6-4864-9342-884214600954}
+      IID 593
+      NAME "Alone back vox 1.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {56EE2DE1-4BE2-40FE-B4CD-0E7244392038}
+      <SOURCE MP3
+        FILE "stems\Alone back vox 1.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 48
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C660B54A-5177-432F-8761-5FA9B133ACBA}
+      IID 594
+      NAME "Alone back vox 1.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EE75F35F-FD66-4AC3-8C0D-CA29376AA5A7}
       <SOURCE MP3
         FILE "stems\Alone back vox 1.mp3" 1
       >
@@ -450,7 +626,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 27
+      POSITION 27.03096037064794
       SNAPOFFS 0
       LENGTH 2
       LOOP 1
@@ -472,7 +648,7 @@
       >
     >
     <ITEM
-      POSITION 31
+      POSITION 31.03010864906765
       SNAPOFFS 0
       LENGTH 1.9846258503406
       LOOP 1
@@ -494,7 +670,7 @@
       >
     >
     <ITEM
-      POSITION 35.01537414966151
+      POSITION 35.03018941871378
       SNAPOFFS 0
       LENGTH 1.9846258503406
       LOOP 1
@@ -516,7 +692,7 @@
       >
     >
     <ITEM
-      POSITION 39
+      POSITION 39.03094705646897
       SNAPOFFS 0
       LENGTH 1.9846258503406
       LOOP 1
@@ -538,7 +714,7 @@
       >
     >
     <ITEM
-      POSITION 43.01537414966151
+      POSITION 43.03049322466018
       SNAPOFFS 0
       LENGTH 1.9846258503406
       LOOP 1
@@ -560,7 +736,7 @@
       >
     >
     <ITEM
-      POSITION 47.01537414966151
+      POSITION 47.03096417302118
       SNAPOFFS 0
       LENGTH 1.9846258503406
       LOOP 1
@@ -582,7 +758,7 @@
       >
     >
     <ITEM
-      POSITION 51.01537414966151
+      POSITION 51.03083605118719
       SNAPOFFS 0
       LENGTH 1.98462585033849
       LOOP 1
@@ -619,7 +795,7 @@
       >
     >
     <ITEM
-      POSITION 55.01537414966151
+      POSITION 55.03052266357822
       SNAPOFFS 0
       LENGTH 1.98462585033849
       LOOP 1
@@ -656,7 +832,7 @@
       >
     >
     <ITEM
-      POSITION 59.01537414966151
+      POSITION 59.030177737264
       SNAPOFFS 0
       LENGTH 1.98462585033849
       LOOP 1
@@ -693,7 +869,7 @@
       >
     >
     <ITEM
-      POSITION 63.01537414966151
+      POSITION 63.03045168568522
       SNAPOFFS 0
       LENGTH 1.98462585033849
       LOOP 1
@@ -730,7 +906,7 @@
       >
     >
     <ITEM
-      POSITION 67.01537414966151
+      POSITION 67.03032356385123
       SNAPOFFS 0
       LENGTH 1.98462585033849
       LOOP 1
@@ -767,7 +943,7 @@
       >
     >
     <ITEM
-      POSITION 71.01537414966151
+      POSITION 71.03005492460859
       SNAPOFFS 0
       LENGTH 1.98462585033849
       LOOP 1
@@ -804,7 +980,7 @@
       >
     >
     <ITEM
-      POSITION 75.01537414966151
+      POSITION 75.03018713422226
       SNAPOFFS 0
       LENGTH 1.98462585033849
       LOOP 1
@@ -841,7 +1017,7 @@
       >
     >
     <ITEM
-      POSITION 79.01537414966151
+      POSITION 79.03017882642722
       SNAPOFFS 0
       LENGTH 1.98462585033849
       LOOP 1
@@ -878,7 +1054,7 @@
       >
     >
     <ITEM
-      POSITION 83.01537414966151
+      POSITION 83.03041014671021
       SNAPOFFS 0
       LENGTH 1.98462585033849
       LOOP 1
@@ -1922,7 +2098,7 @@
     <ITEM
       POSITION 16.22244086615656
       SNAPOFFS 0
-      LENGTH 7.25164425603502
+      LENGTH 7.77755913384344
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -2191,7 +2367,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
     FREEMODE 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 -1 0
@@ -2203,7 +2379,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 36.08966553337633
+      POSITION 36.12470754300617
       SNAPOFFS 0
       LENGTH 4.0124375
       LOOP 1
@@ -2225,13 +2401,13 @@
       >
     >
     <ITEM
-      POSITION 40.10210303337633
+      POSITION 40.13714504300616
       SNAPOFFS 0
       LENGTH 4.0124375
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1.1 0.01 0.014541 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
       SEL 0
       IGUID {5F793BF0-7E7C-436B-A037-24339419B0AA}
@@ -2247,12 +2423,12 @@
       >
     >
     <ITEM
-      POSITION 44.09999999997672
+      POSITION 44.14958254300615
       SNAPOFFS 0
       LENGTH 4.0124375
       LOOP 1
       ALLTAKES 0
-      FADEIN 1.1 0.01 0.014541 1 1 0
+      FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
       SEL 0
@@ -2269,7 +2445,7 @@
       >
     >
     <ITEM
-      POSITION 48.11243750003632
+      POSITION 48.16202004300615
       SNAPOFFS 0
       LENGTH 4.0124375
       LOOP 1
@@ -2291,9 +2467,9 @@
       >
     >
     <ITEM
-      POSITION 195.95100998761305
+      POSITION 195.92323102747815
       SNAPOFFS 0
-      LENGTH 3.97040956584021
+      LENGTH 3.97040956584019
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -2313,7 +2489,7 @@
       >
     >
     <ITEM
-      POSITION 199.92141955345326
+      POSITION 199.89364059331834
       SNAPOFFS 0
       LENGTH 3.97003774114179
       LOOP 1
@@ -2335,7 +2511,7 @@
       >
     >
     <ITEM
-      POSITION 203.89145729459506
+      POSITION 203.86367833446013
       SNAPOFFS 0
       LENGTH 4.07213942755246
       LOOP 1
@@ -2357,15 +2533,15 @@
       >
     >
     <ITEM
-      POSITION 207.96359672214751
+      POSITION 207.93581776201259
       SNAPOFFS 0
-      LENGTH 4.0124375
+      LENGTH 4.06418223798741
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {8234BD19-FAE2-44D7-AF45-FFF96B84E552}
       IID 73
       NAME "Alone back vox 5.mp3"
@@ -4196,7 +4372,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 -1 0
@@ -4398,8 +4574,8 @@
       LENGTH 0.00001
       LOOP 1
       ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
       MUTE 0 0
       SEL 0
       IGUID {09492664-A7DE-4632-A95D-027252EC0FA1}
@@ -4475,7 +4651,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {41A2CB9C-0278-494C-8899-FBD95F2012F2}
       IID 452
       NAME "alone mix d ALT-029-FX-030.wav"
@@ -4566,12 +4742,12 @@
       >
     >
   >
-  <TRACK {4D5D259D-60A2-4FB8-BC23-033F974EC96C}
-    NAME "98 bpm tropical drum no kick"
+  <TRACK {DB335CA9-2EE9-4DEE-860D-06C57CBDEFFA}
+    NAME "98 bpm tropical drum no kick-new"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 0.24448276984837 0 -1 -1 1
+    VOLPAN 0.18265643399346 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -4586,12 +4762,12 @@
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {4D5D259D-60A2-4FB8-BC23-033F974EC96C}
+    TRACKID {DB335CA9-2EE9-4DEE-860D-06C57CBDEFFA}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 20.23847037069942
+      POSITION 20.22374980679865
       SNAPOFFS 0
       LENGTH 30.14634060762643
       LOOP 1
@@ -4600,82 +4776,148 @@
       FADEOUT 1 0 0 1 0 0
       MUTE 0 0
       SEL 0
-      IGUID {1EC4C5D0-BD4D-41F7-8D44-084B278DFD83}
-      IID 459
-      NAME "98 bpm tropical drum no kick.wav"
+      IGUID {50ED8060-4E73-402D-95E8-7827BD2591D4}
+      IID 576
+      NAME "98 bpm tropical drum no kick-new.mp3"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {61105492-CE4F-49B4-AAF8-04DCA29E975B}
-      <SOURCE WAVE
-        FILE "stems\98 bpm tropical drum no kick.wav"
+      GUID {12C153B6-A11A-43B4-AB71-621CFD624294}
+      <SOURCE MP3
+        FILE "stems\98 bpm tropical drum no kick-new.mp3" 1
       >
     >
     <ITEM
-      POSITION 52.23725023261994
+      POSITION 52.2234652811553
       SNAPOFFS 0
-      LENGTH 30.14634060762645
+      LENGTH 30.14634060762641
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
       SEL 0
-      IGUID {D3296EF9-47AB-4695-8B0E-C2E272F1DA8F}
-      IID 459
-      NAME "98 bpm tropical drum no kick.wav"
+      IGUID {234E195B-580B-4C2B-8C96-5197DD105C5C}
+      IID 576
+      NAME "98 bpm tropical drum no kick-new.mp3"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {46030D8B-70BA-4E48-86CC-74B78EFFAD10}
-      <SOURCE WAVE
-        FILE "stems\98 bpm tropical drum no kick.wav"
+      GUID {C81E6C6D-14C4-47F2-8ADF-4F761ECBDE7A}
+      <SOURCE MP3
+        FILE "stems\98 bpm tropical drum no kick-new.mp3" 1
       >
     >
     <ITEM
-      POSITION 132.10811535900544
+      POSITION 132.07470217296157
       SNAPOFFS 0
-      LENGTH 31.73745272466749
+      LENGTH 31.70564531605547
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
       SEL 0
-      IGUID {811AF29E-5CFC-406E-AD62-9A04D176DB93}
-      IID 459
-      NAME "98 bpm tropical drum no kick.wav"
+      IGUID {01FD38E9-B9F4-4E51-B0FC-700D4077133F}
+      IID 576
+      NAME "98 bpm tropical drum no kick-new.mp3"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {0684AB9E-B93D-4941-9392-879592A2E121}
-      <SOURCE WAVE
-        FILE "stems\98 bpm tropical drum no kick.wav"
+      GUID {C9678A57-BE91-4904-9FA3-EA0B1969B683}
+      <SOURCE MP3
+        FILE "stems\98 bpm tropical drum no kick-new.mp3" 1
       >
     >
     <ITEM
-      POSITION 180.069858239392
+      POSITION 180.0400299821564
       SNAPOFFS 0
-      LENGTH 30.14634060762646
+      LENGTH 30.14634060762643
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
       SEL 0
-      IGUID {A41278BF-23D0-4C2B-A8A2-FF505EB268D0}
-      IID 459
-      NAME "98 bpm tropical drum no kick.wav"
+      IGUID {72EF991F-FFDF-471B-961D-A5FCBA19267F}
+      IID 576
+      NAME "98 bpm tropical drum no kick-new.mp3"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {2B88256F-D9BB-4DCA-9656-0E449A704AA8}
-      <SOURCE WAVE
-        FILE "stems\98 bpm tropical drum no kick.wav"
+      GUID {7317978C-640F-451D-99C2-DDA53F1A9295}
+      <SOURCE MP3
+        FILE "stems\98 bpm tropical drum no kick-new.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 284.06081240274278
+      SNAPOFFS 0
+      LENGTH 32.00943310657595
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 31.918703 0 1 0 0
+      FADEOUT 1.1 0 0.008734 1 1 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F94F3733-D081-43AC-8D8B-DB15A05C359D}
+      IID 576
+      NAME "98 bpm tropical drum no kick-new.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ABA21D87-FAE0-42F1-BB3A-D19956AB7E1B}
+      <SOURCE MP3
+        FILE "stems\98 bpm tropical drum no kick-new.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 316.06151166456686
+      SNAPOFFS 0
+      LENGTH 31.99923685692528
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.008734 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1DED20CA-26D7-4CA3-A90F-A63BA10BA69F}
+      IID 576
+      NAME "98 bpm tropical drum no kick-new.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EF617ED0-522A-4137-8BF3-BC3E0828BDFD}
+      <SOURCE MP3
+        FILE "stems\98 bpm tropical drum no kick-new.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 348.06074852149214
+      SNAPOFFS 0
+      LENGTH 23.93925147850786
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4D30AD8A-3F18-4873-B897-78957CAF4F51}
+      IID 576
+      NAME "98 bpm tropical drum no kick-new.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C2ACF1F6-A617-4E9D-8B3D-B236DA9CEB8D}
+      <SOURCE MP3
+        FILE "stems\98 bpm tropical drum no kick-new.mp3" 1
       >
     >
   >
