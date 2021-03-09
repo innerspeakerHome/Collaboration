@@ -1,0 +1,766 @@
+<REAPER_PROJECT 0.1 "6.15/x64" 1615262044
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 108.5
+  ZOOM 9.13579078674377 0 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "stems" ""
+  <RECORD_CFG
+    ZXZhdxgAAA==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN Blow
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824 0
+  MISCOPTS 2
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAA==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 72 73
+  SELECTION2 72 73
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 -1 -1 -1 0 0 0 -1 -1 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 0.90711685353464 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {2500A000-A941-4E43-88FF-52D2FFAEE29A}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {0D18C456-1F98-458E-8FCA-BD0C836C0ADE}
+    ACT 1 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {0C178C75-C127-4685-9D05-BF0C64F9CD48}
+    NAME generic-drums
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {0C178C75-C127-4685-9D05-BF0C64F9CD48}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 64.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2592A7F7-6B04-4F5B-AE6A-EB0D28AA551C}
+      IID 3
+      NAME generic-drums.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A120FF4E-CB4B-45B0-9DAC-E9B9BB9F1671}
+      <SOURCE WAVE
+        FILE "E:\Kostas\innearspeaker@home\Collaboration\Blow\stems\generic-drums.wav"
+      >
+    >
+    <ITEM
+      POSITION 73.5
+      SNAPOFFS 0
+      LENGTH 48
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {92A9CC43-C75E-4D8C-92E8-1A230575C521}
+      IID 3
+      NAME generic-drums.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EED3C581-CCF4-4108-9FC8-1FD72071CDE8}
+      <SOURCE WAVE
+        FILE "E:\Kostas\innearspeaker@home\Collaboration\Blow\stems\generic-drums.wav"
+      >
+    >
+  >
+  <TRACK {C45C05E4-1735-43C4-8DBF-ACFA433798C8}
+    NAME "guitar - stem"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 2.36982255532589 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C45C05E4-1735-43C4-8DBF-ACFA433798C8}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 126.32492063492063
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {99AC9EC1-29AE-4E05-9A65-57CFF6513A21}
+      IID 51
+      NAME "guitar - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5BC737A1-40BD-4F69-928E-ACF9B94977CC}
+      <SOURCE WAVE
+        FILE "stems\Blow_stems_guitar.wav"
+      >
+    >
+  >
+  <TRACK {2B7A9FAD-3DA3-446E-948C-6FDBD3A341C2}
+    NAME "bass - stem"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 2.24833340976552 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2B7A9FAD-3DA3-446E-948C-6FDBD3A341C2}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 125.32492063492063
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B891CB50-6C57-4631-8967-291243D32A56}
+      IID 50
+      NAME "bass - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {428F4C33-4141-4D63-BABC-39F67BB81251}
+      <SOURCE WAVE
+        FILE "stems\Blow_stems_bass.wav"
+      >
+    >
+  >
+  <TRACK {C71191ED-71AE-4982-9D41-F39B9020C7F1}
+    NAME high-fashion
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.74502912105762 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C71191ED-71AE-4982-9D41-F39B9020C7F1}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 56.5
+      SNAPOFFS 0
+      LENGTH 16.94
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6247D12B-CD0C-4306-8902-2425A511AD09}
+      IID 5
+      NAME high-fashion.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {05CB1C26-FE1C-4A0A-8EC0-9E4152A31F18}
+      <SOURCE MP3
+        FILE "E:\Kostas\innearspeaker@home\Collaboration\Blow\stems\high-fashion.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 73.54446214819676
+      SNAPOFFS 0
+      LENGTH 1.60096977742106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {43EDF8D4-4561-4EA4-9318-D9043F4142A4}
+      IID 13
+      NAME high-fashion.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {120CF39B-4A7E-468A-97EF-8B9AF1FFF3FA}
+      <SOURCE MP3
+        FILE "E:\Kostas\innearspeaker@home\Collaboration\Blow\stems\high-fashion.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 75.14543192561781
+      SNAPOFFS 0
+      LENGTH 3.71136000416151
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AE12B861-719B-4A4A-81BB-3D6D4032FD4C}
+      IID 7
+      NAME high-fashion.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9520D2C3-B0A2-4BC9-80BA-468AE0E2C11E}
+      <SOURCE MP3
+        FILE "E:\Kostas\innearspeaker@home\Collaboration\Blow\stems\high-fashion.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 78.85679192977932
+      SNAPOFFS 0
+      LENGTH 0.24280755812825
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7F363D58-14AE-42FE-8CF5-91B1C3A8D3E2}
+      IID 21
+      NAME high-fashion.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 4.00149356213568
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0BCC58CE-2D13-4F0A-B00F-CCDAB5F34FE8}
+      <SOURCE MP3
+        FILE "E:\Kostas\innearspeaker@home\Collaboration\Blow\stems\high-fashion.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 79.20427571429839
+      SNAPOFFS 0
+      LENGTH 1.60096977742106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EF91C793-4AE9-4BBF-896A-136A93C72485}
+      IID 13
+      NAME high-fashion.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7ADC4137-BF2E-4194-B4AE-3DFE686569BC}
+      <SOURCE MP3
+        FILE "E:\Kostas\innearspeaker@home\Collaboration\Blow\stems\high-fashion.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 80.80524549171945
+      SNAPOFFS 0
+      LENGTH 3.71136000416151
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1.1 0.01 0.016605 1 1 0
+      MUTE 0 0
+      SEL 0
+      IGUID {380D818C-0552-430F-B6D8-D13BD341BC9F}
+      IID 7
+      NAME high-fashion.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1AEC1FD8-8702-4598-820C-A7231122135B}
+      <SOURCE MP3
+        FILE "E:\Kostas\innearspeaker@home\Collaboration\Blow\stems\high-fashion.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 84.5
+      SNAPOFFS 0
+      LENGTH 0.24280755812825
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.016605 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {27329F0F-6761-4945-9883-905726056107}
+      IID 21
+      NAME high-fashion.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 4.00149356213568
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FF03886C-36D9-4608-9575-417D156E5E65}
+      <SOURCE MP3
+        FILE "E:\Kostas\innearspeaker@home\Collaboration\Blow\stems\high-fashion.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 84.84225532001285
+      SNAPOFFS 0
+      LENGTH 1.60096977742106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1.1 0.01 0.021124 1 1 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D33C41A1-E993-44F9-913B-87B164AB50CB}
+      IID 13
+      NAME high-fashion.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C0166F40-8585-4712-9450-E8DE732A2EB9}
+      <SOURCE MP3
+        FILE "E:\Kostas\innearspeaker@home\Collaboration\Blow\stems\high-fashion.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 86.42210099287331
+      SNAPOFFS 0
+      LENGTH 3.71136000416151
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.021124 1 1 0
+      FADEOUT 1.1 0.01 0.001499 1 1 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E3D96E11-AB7E-483A-AC7C-795BF1631DF3}
+      IID 7
+      NAME high-fashion.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EBEEAFB5-0AFE-41C0-B927-F27B12AEBD0B}
+      <SOURCE MP3
+        FILE "E:\Kostas\innearspeaker@home\Collaboration\Blow\stems\high-fashion.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 90.13196223741397
+      SNAPOFFS 0
+      LENGTH 0.24280755812825
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.001499 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A2CDD582-3A73-4770-9DC2-12CF67AEA51A}
+      IID 21
+      NAME high-fashion.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 4.00149356213568
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B11EE679-1E11-4702-A21F-92621D845314}
+      <SOURCE MP3
+        FILE "E:\Kostas\innearspeaker@home\Collaboration\Blow\stems\high-fashion.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 90.5
+      SNAPOFFS 0
+      LENGTH 1.60096977742106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1.1 0.01 0.004987 1 1 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A4CEC95C-A7EA-4153-ADC2-CFC4AB9EE9A3}
+      IID 13
+      NAME high-fashion.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A80D1B0E-DB5F-4A1B-B049-3CFC3864857F}
+      <SOURCE MP3
+        FILE "E:\Kostas\innearspeaker@home\Collaboration\Blow\stems\high-fashion.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 92.09598237730097
+      SNAPOFFS 0
+      LENGTH 3.71136000416151
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.004987 1 1 0
+      FADEOUT 1.1 0.01 0.001499 1 1 0
+      MUTE 0 0
+      SEL 0
+      IGUID {452F03F7-8B78-482A-BB15-D297402EA549}
+      IID 7
+      NAME high-fashion.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E2114120-6899-4E30-B5F2-22E871566510}
+      <SOURCE MP3
+        FILE "E:\Kostas\innearspeaker@home\Collaboration\Blow\stems\high-fashion.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 95.80967012175824
+      SNAPOFFS 0
+      LENGTH 0.24280755812825
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.001499 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9DA08768-C341-4374-AF60-558AEC586C5E}
+      IID 21
+      NAME high-fashion.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 4.00149356213568
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {24FCD49E-7F0E-4F2B-BF4D-9E78DEE6E839}
+      <SOURCE MP3
+        FILE "E:\Kostas\innearspeaker@home\Collaboration\Blow\stems\high-fashion.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 96.13335682218894
+      SNAPOFFS 0
+      LENGTH 1.60096977742106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1.1 0.01 0.005982 1 1 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FF13370D-5E1F-4A84-A259-03040CE41777}
+      IID 13
+      NAME high-fashion.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C2F6AFF0-BEE0-4179-8FDB-7156B064C2F9}
+      <SOURCE MP3
+        FILE "E:\Kostas\innearspeaker@home\Collaboration\Blow\stems\high-fashion.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 97.72834478586446
+      SNAPOFFS 0
+      LENGTH 3.71136000416151
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.005982 1 1 0
+      FADEOUT 1.1 0.01 0.001499 1 1 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C3D8A678-3404-4280-82EC-EB696CAC675A}
+      IID 7
+      NAME high-fashion.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {338B3582-86BA-4A23-9E11-45317DD942E3}
+      <SOURCE MP3
+        FILE "E:\Kostas\innearspeaker@home\Collaboration\Blow\stems\high-fashion.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 101.44325346068945
+      SNAPOFFS 0
+      LENGTH 0.24280755812825
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.001499 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {58EAFABC-0C49-45F3-850B-EC9BD33725D7}
+      IID 21
+      NAME high-fashion.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 4.00149356213568
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {55CDC6D4-6BE7-4E92-BC1A-61A170D81238}
+      <SOURCE MP3
+        FILE "E:\Kostas\innearspeaker@home\Collaboration\Blow\stems\high-fashion.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 101.76124156742097
+      SNAPOFFS 0
+      LENGTH 1.60096977742106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1.1 0.01 0.002817 1 1 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9B75BD65-2DE4-4C8A-AA12-A24F8183BFFC}
+      IID 13
+      NAME high-fashion.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E193E577-1B3B-4E23-B58C-CAADA8D97215}
+      <SOURCE MP3
+        FILE "E:\Kostas\innearspeaker@home\Collaboration\Blow\stems\high-fashion.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 103.35939398244955
+      SNAPOFFS 0
+      LENGTH 3.71136000416151
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.002817 1 1 0
+      FADEOUT 1.1 0.01 0.001499 1 1 0
+      MUTE 0 0
+      SEL 0
+      IGUID {81B1E7BA-E399-4BC5-B5A2-2B8BEA397E54}
+      IID 7
+      NAME high-fashion.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {77E704D7-6CFA-4D19-A919-78E2276CDD34}
+      <SOURCE MP3
+        FILE "E:\Kostas\innearspeaker@home\Collaboration\Blow\stems\high-fashion.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 107.07113820593804
+      SNAPOFFS 0
+      LENGTH 0.24280755812825
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.001499 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D6B63607-0F52-42B3-88E2-58FF6B380EAD}
+      IID 21
+      NAME high-fashion.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 4.00149356213568
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DA94D15C-70B9-4D01-B1D5-F14F751EEECA}
+      <SOURCE MP3
+        FILE "E:\Kostas\innearspeaker@home\Collaboration\Blow\stems\high-fashion.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 107.38492429481957
+      SNAPOFFS 0
+      LENGTH 16.94
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5D8859B8-8798-4CF3-B04D-632D86B38D6A}
+      IID 5
+      NAME high-fashion.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {14638D85-94AF-4E71-BDC3-F818126E9F5B}
+      <SOURCE MP3
+        FILE "E:\Kostas\innearspeaker@home\Collaboration\Blow\stems\high-fashion.mp3" 1
+      >
+    >
+  >
+  <TRACK {51E74D5F-2E32-4672-AB32-07F43895DD99}
+    NAME new-drums
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.67365116373859 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {51E74D5F-2E32-4672-AB32-07F43895DD99}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 73.44890019442057
+      SNAPOFFS 0
+      LENGTH 45.05109980557943
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7DE2F50F-4465-4A3B-A3FD-61F89314F4F8}
+      IID 45
+      NAME new-drums.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {539BDA39-21C6-48F6-A8B6-F5D36434770A}
+      <SOURCE MP3
+        FILE "stems\new-drums.mp3" 1
+      >
+    >
+  >
+>
